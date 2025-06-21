@@ -1,0 +1,145 @@
+
+services:
+  # PostgreSQL Database
+  db:
+    image: postgres:15-alpine
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=postgres
+      - POSTGRES_INITDB_ARGS=--encoding=UTF-8 --lc-collate=C --lc-ctype=C
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - type: bind
+        source: ./init-db.sh
+        target: /docker-entrypoint-initdb.d/init-db.sh
+    ports:
+      - "5433:5432"
+    restart: unless-stopped
+    networks:
+      - kiddos-network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Redis Cache & Message Broker
+  redis:
+    image: redis:7-alpine
+    command: redis-server --appendonly yes --maxmemory 256mb --maxmemory-policy allkeys-lru
+    volumes:
+      - redis_data:/data
+    ports:
+      - "6380:6379"
+    restart: unless-stopped
+    networks:
+      - kiddos-network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # FastAPI Application
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      - DATABASE_URL=postgresql://kiddos_user:kiddos_pass@db:5432/kiddos_db
+      - REDIS_URL=redis://redis:6379
+      - ENVIRONMENT=development
+      - DEBUG=true
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    volumes:
+      - .:/app
+    restart: unless-stopped
+    networks:
+      - kiddos-network
+
+  # Celery Worker (Background Tasks) - FIXED
+  worker:
+    build: .
+    command: celery -A app.worker.celery_app worker --loglevel=info --pool=solo --queues=celery,content_generation,maintenance
+    env_file:
+      - .env
+    environment:
+      - DATABASE_URL=postgresql://kiddos_user:kiddos_pass@db:5432/kiddos_db
+      - REDIS_URL=redis://redis:6379
+      - ENVIRONMENT=development
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      api:
+        condition: service_started
+    volumes:
+      - .:/app
+    restart: unless-stopped
+    networks:
+      - kiddos-network
+
+  # Celery Beat (Scheduled Tasks)
+  beat:
+    build: .
+    command: celery -A app.worker.celery_app beat --loglevel=info
+    env_file:
+      - .env
+    environment:
+      - DATABASE_URL=postgresql://kiddos_user:kiddos_pass@db:5432/kiddos_db
+      - REDIS_URL=redis://redis:6379
+      - ENVIRONMENT=development
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      api:
+        condition: service_started
+    volumes:
+      - .:/app
+    restart: unless-stopped
+    networks:
+      - kiddos-network
+
+  # Celery Flower (Task Monitoring)
+  flower:
+    build: .
+    command: celery -A app.worker.celery_app flower --port=5555
+    ports:
+      - "5555:5555"
+    env_file:
+      - .env
+    environment:
+      - REDIS_URL=redis://redis:6379
+      - PYTHONPATH=/app
+    depends_on:
+      redis:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - kiddos-network
+    profiles:
+      - monitoring
+
+volumes:
+  postgres_data:
+    driver: local
+  redis_data:
+    driver: local
+
+networks:
+  kiddos-network:
+    driver: bridge
