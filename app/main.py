@@ -25,6 +25,7 @@ from .routers import (
     admin_router,
     system_router,
     images_router,
+    fixed_content_router,
 )
 
 logging.basicConfig(
@@ -175,6 +176,9 @@ app.include_router(
 
 app.include_router(admin_router, prefix="/admin", tags=["Administration"])
 app.include_router(images_router, prefix="/images", tags=["images"])
+app.include_router(
+    fixed_content_router, prefix="/fixed_content", tags=["fixed_content"]
+)
 app.include_router(
     system_router,
     prefix="",  # No prefix for health checks
