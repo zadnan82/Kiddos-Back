@@ -12,6 +12,9 @@ sys.path.append("/app")
 from app.database import Base
 import app.models  # This ensures all models are imported
 
+# IMPORTANT: Import fixed content models to register them with SQLAlchemy
+import app.fixed_content.models  # This registers the new fixed content tables
+
 # this is the Alembic Config object, which provides
 # access to the values within the .ini file in use.
 config = context.config
@@ -23,7 +26,7 @@ if config.config_file_name is not None:
 
 # Set the database URL from environment variable
 database_url = os.getenv(
-    "DATABASE_URL", "postgresql://kiddos:kiddos_pass@db:5432/kiddos"
+    "DATABASE_URL", "postgresql://kiddos_user:kiddos_pass@db:5432/kiddos_db"
 )
 config.set_main_option("sqlalchemy.url", database_url)
 
