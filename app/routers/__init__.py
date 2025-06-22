@@ -12,6 +12,7 @@ from .dashboard import router as dashboard_router
 from .admin import router as admin_router
 from .system import router as system_router
 from .images import router as images_router
+from .fixed_content import router as fixed_content_router
 
 __all__ = [
     "auth_router",
@@ -23,4 +24,5 @@ __all__ = [
     "admin_router",
     "system_router",
     "images_router",
+    "fixed_content_router",
 ]
