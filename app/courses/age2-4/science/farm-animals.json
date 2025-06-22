@@ -1,0 +1,413 @@
+{
+  "course": {
+    "title_en": "Farm Animals",
+    "title_ar": "حيوانات المزرعة",
+    "description_en": "Meet friendly farm animals and learn their sounds. Discover what animals give us and how farmers care for them.",
+    "description_ar": "تعرف على حيوانات المزرعة الودودة وتعلم أصواتها. اكتشف ما تعطينا الحيوانات وكيف يعتني بها المزارعون.",
+    "age_group_min": 2,
+    "age_group_max": 4,
+    "estimated_duration_minutes": 56,
+    "subject": "science"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "Meet the Cow",
+      "title_ar": "تعرف على البقرة",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Bella the Happy Cow",
+        "content": "This is Bella. Bella is a cow. Bella says MOO! Bella is big. Bella is black and white. Bella lives on a farm. Bella eats green grass. Bella gives us milk. Milk is good for you. Bella likes to walk in the field. Bella has a long tail. Bella waves her tail. MOO says Bella!",
+        "learning_objectives": [
+          "Recognize a cow",
+          "Learn cow sound 'moo'",
+          "Know cows give milk"
+        ],
+        "vocabulary_words": [
+          {"word": "cow", "definition": "Big farm animal"},
+          {"word": "moo", "definition": "Sound cow makes"},
+          {"word": "milk", "definition": "White drink from cow"},
+          {"word": "grass", "definition": "Green food cows eat"}
+        ],
+        "materials_needed": [
+          "Picture of cow",
+          "Glass of milk (if available)",
+          "Toy cow (optional)"
+        ],
+        "parent_guidance": "Point to cow pictures while reading. Make 'moo' sounds together. Show child a glass of milk and explain it comes from cows. Keep sessions short if child gets restless.",
+        "safety_notes": [
+          "Supervise if using real milk",
+          "Ensure toy cow has no small parts"
+        ],
+        "discussion_questions": [
+          "What sound does Bella make?",
+          "What color is the cow?",
+          "Can you say moo?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Moo Like a Cow",
+            "description": "Take turns making cow sounds. March around like a big cow.",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Find Cow Colors",
+            "description": "Look for black and white things around the house.",
+            "materials": ["Various household items"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "Chicken Family",
+      "title_ar": "عائلة الدجاج",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Mama Hen and Her Chicks",
+        "content": "This is Mama Hen. Mama Hen says CLUCK CLUCK! Mama Hen is red and brown. Here are baby chicks. Chicks are yellow and fluffy. Chicks say PEEP PEEP! Mama Hen takes care of babies. She keeps them warm. She finds them food. Chickens give us eggs. Eggs are good to eat. Roosters say COCK-A-DOODLE-DOO! Roosters wake up the farm.",
+        "learning_objectives": [
+          "Learn about chicken family",
+          "Know chickens give eggs",
+          "Recognize chicken sounds"
+        ],
+        "vocabulary_words": [
+          {"word": "hen", "definition": "Mama chicken"},
+          {"word": "chick", "definition": "Baby chicken"},
+          {"word": "cluck", "definition": "Sound hen makes"},
+          {"word": "egg", "definition": "Round food from chicken"},
+          {"word": "rooster", "definition": "Papa chicken"}
+        ],
+        "materials_needed": [
+          "Pictures of chickens",
+          "Egg (if available)",
+          "Yellow cotton balls or pom-poms"
+        ],
+        "parent_guidance": "Show different chicken sounds - cluck for hen, peep for chicks, crow for rooster. Let child feel cotton balls to understand 'fluffy'. If showing real egg, hold it safely.",
+        "safety_notes": [
+          "Adult holds any real eggs",
+          "Supervise with small cotton balls",
+          "Wash hands after touching eggs"
+        ],
+        "discussion_questions": [
+          "What do baby chickens say?",
+          "What color are baby chicks?",
+          "What do chickens give us?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Chicken Walk",
+            "description": "Walk around flapping arms like chicken wings. Make clucking sounds.",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Make Fluffy Chicks",
+            "description": "Stick yellow cotton balls on paper to make chicks.",
+            "materials": ["Yellow cotton balls", "Paper", "Safe glue stick"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "Pig Fun",
+      "title_ar": "متعة الخنزير",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 10,
+      "content_data": {
+        "title": "Rolling in Mud Like Pigs",
+        "content": "Pigs are pink and round. Pigs say OINK OINK! Pigs like to roll in mud. Mud keeps pigs cool. Pigs are very smart. Pigs have curly tails. Let's pretend to be pigs! Roll on the soft carpet. Make oink sounds. Wiggle like a pig tail.",
+        "learning_objectives": [
+          "Learn about pig behavior",
+          "Practice making pig sounds",
+          "Understand pigs roll in mud to stay cool"
+        ],
+        "vocabulary_words": [
+          {"word": "pig", "definition": "Pink round farm animal"},
+          {"word": "oink", "definition": "Sound pig makes"},
+          {"word": "mud", "definition": "Wet dirt"},
+          {"word": "curly", "definition": "Twisted like a spring"}
+        ],
+        "materials_needed": [
+          "Soft carpet or mat",
+          "Pink construction paper",
+          "Picture of pig"
+        ],
+        "parent_guidance": "Demonstrate safe rolling on carpet. Explain that pigs roll in mud but we don't. Make it playful and fun. Stop if child gets too excited.",
+        "safety_notes": [
+          "Only roll on soft surfaces",
+          "Clear area of sharp objects",
+          "Stop if child gets dizzy"
+        ],
+        "discussion_questions": [
+          "Why do pigs roll in mud?",
+          "What sound do pigs make?",
+          "What shape is a pig's tail?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Pig Tail Dance",
+            "description": "Hold pink paper behind you like a tail. Wiggle and dance.",
+            "materials": ["Pink paper strip"]
+          },
+          {
+            "title": "Pink Hunt",
+            "description": "Find pink things around the house like pigs.",
+            "materials": ["Various pink household items"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "Sheep and Wool",
+      "title_ar": "الخروف والصوف",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Fluffy the Sheep",
+        "content": "This is Fluffy the sheep. Fluffy says BAA BAA! Fluffy is white and woolly. Wool is very soft. Sheep give us wool. Wool keeps us warm. We make sweaters from wool. We make blankets from wool. Sheep like to eat grass. Sheep stay together in groups. Baby sheep are called lambs. Lambs are very cute!",
+        "learning_objectives": [
+          "Learn sheep give wool",
+          "Know sheep sound 'baa'",
+          "Understand wool makes clothes"
+        ],
+        "vocabulary_words": [
+          {"word": "sheep", "definition": "White fluffy farm animal"},
+          {"word": "baa", "definition": "Sound sheep makes"},
+          {"word": "wool", "definition": "Soft fluffy hair from sheep"},
+          {"word": "lamb", "definition": "Baby sheep"}
+        ],
+        "materials_needed": [
+          "Wool sweater or wool item",
+          "White cotton balls",
+          "Picture of sheep"
+        ],
+        "parent_guidance": "Let child feel wool clothing to understand texture. Use cotton balls to show 'fluffy'. Make 'baa' sounds together. Show how wool keeps us warm.",
+        "safety_notes": [
+          "Supervise with cotton balls",
+          "Check for wool allergies",
+          "Use large cotton balls only"
+        ],
+        "discussion_questions": [
+          "How does wool feel?",
+          "What do we make from wool?",
+          "What do baby sheep say?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Sheep Sounds",
+            "description": "Practice saying 'baa' in different ways - loud, soft, happy.",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Fluffy Sheep Art",
+            "description": "Glue cotton balls on paper to make a sheep.",
+            "materials": ["Cotton balls", "Paper", "Safe glue"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "Horse Adventures",
+      "title_ar": "مغامرات الحصان",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 10,
+      "content_data": {
+        "title": "Galloping Like Horses",
+        "content": "Horses are big and strong. Horses say NEIGH! Horses can run very fast. Horses help farmers work. People can ride on horses. Horses eat hay and grass. Let's pretend to be horses! Get on hands and knees. Make clip-clop sounds. Gallop around the room. Neigh like a horse!",
+        "learning_objectives": [
+          "Learn about horse movement",
+          "Practice horse sounds",
+          "Understand horses help people"
+        ],
+        "vocabulary_words": [
+          {"word": "horse", "definition": "Big strong farm animal"},
+          {"word": "neigh", "definition": "Sound horse makes"},
+          {"word": "gallop", "definition": "How horses run fast"},
+          {"word": "hay", "definition": "Dry grass horses eat"}
+        ],
+        "materials_needed": [
+          "Soft area to crawl",
+          "Pictures of horses",
+          "Wooden spoons (for clip-clop sounds)"
+        ],
+        "parent_guidance": "Show child how to safely crawl like a horse. Make clip-clop sounds with spoons. Keep activity short to avoid tiredness. Demonstrate gentle galloping.",
+        "safety_notes": [
+          "Clear area of obstacles",
+          "Use soft surface for crawling",
+          "Stop if child gets tired",
+          "Supervise spoon use"
+        ],
+        "discussion_questions": [
+          "How do horses move?",
+          "What sound do horses make?",
+          "How do horses help people?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Horse Race",
+            "description": "Crawl from one side of room to the other like horses racing.",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Feed the Horse",
+            "description": "Pretend to feed toy horse with play hay (shredded paper).",
+            "materials": ["Toy horse", "Shredded paper"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "Duck Pond",
+      "title_ar": "بركة البط",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Ducky's Swimming Day",
+        "content": "This is Ducky. Ducky says QUACK QUACK! Ducky is yellow and fluffy. Ducky loves to swim. Ducky lives near water. Ducky has webbed feet. Webbed feet help Ducky swim. Ducky dips her head in water. Ducky looks for food. Baby ducks follow Mama Duck. They swim in a line. Quack quack quack!",
+        "learning_objectives": [
+          "Learn ducks love water",
+          "Know duck sound 'quack'",
+          "Understand webbed feet help swimming"
+        ],
+        "vocabulary_words": [
+          {"word": "duck", "definition": "Yellow water bird"},
+          {"word": "quack", "definition": "Sound duck makes"},
+          {"word": "swim", "definition": "Move in water"},
+          {"word": "webbed", "definition": "Toes connected together"}
+        ],
+        "materials_needed": [
+          "Bath toy duck",
+          "Small bowl of water",
+          "Pictures of ducks swimming"
+        ],
+        "parent_guidance": "Show how duck floats in water bowl. Let child make quack sounds. Explain webbed feet by showing fingers spread apart. Keep water play supervised.",
+        "safety_notes": [
+          "Supervise all water play",
+          "Use shallow water only",
+          "Have towels ready",
+          "Watch for spills"
+        ],
+        "discussion_questions": [
+          "Where do ducks like to be?",
+          "What helps ducks swim?",
+          "What sound do ducks make?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Duck Waddle",
+            "description": "Walk like a duck with feet turned out and arms as wings.",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Floating Duck",
+            "description": "Put toy duck in water and watch it float.",
+            "materials": ["Toy duck", "Water bowl"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "Animal Sounds Quiz",
+      "title_ar": "اختبار أصوات الحيوانات",
+      "lesson_type": "quiz",
+      "estimated_duration_minutes": 6,
+      "content_data": {
+        "title": "What Sound Do I Make?",
+        "content": "Let's play a fun game! I will tell you about an animal. You tell me what sound it makes!",
+        "learning_objectives": [
+          "Remember animal sounds",
+          "Match animals to sounds",
+          "Review farm animals"
+        ],
+        "vocabulary_words": [
+          {"word": "sound", "definition": "Noise animals make"},
+          {"word": "quiz", "definition": "Fun question game"}
+        ],
+        "materials_needed": [
+          "Animal pictures or toys",
+          "This list of questions"
+        ],
+        "parent_guidance": "Ask questions slowly. Give hints if needed. Celebrate every answer. Make the sounds together. Keep it fun, not stressful.",
+        "safety_notes": [
+          "No safety concerns",
+          "Keep session positive"
+        ],
+        "discussion_questions": [
+          "I am big and black and white. I give milk. What sound do I make?",
+          "I am small and yellow. I swim in water. What sound do I make?",
+          "I am pink and I roll in mud. What sound do I make?",
+          "I am white and fluffy. I give wool. What sound do I make?",
+          "I am big and strong. People ride on me. What sound do I make?",
+          "I lay eggs. I have a red comb. What sound do I make?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Animal Sound Symphony",
+            "description": "Make all the animal sounds together in a fun song.",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Guess the Animal",
+            "description": "Parent makes animal sound, child guesses which animal.",
+            "materials": ["None needed"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "Farm Animal Parade",
+      "title_ar": "موكب حيوانات المزرعة",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Our Big Farm Parade",
+        "content": "Let's have a parade! We will be all the farm animals. First, be a cow. Say MOO and walk slowly. Next, be a chicken. Flap your wings and say CLUCK. Then be a pig. Crawl and say OINK. Be a sheep and say BAA. Be a horse and gallop saying NEIGH. Be a duck and waddle saying QUACK. Great job! You know all the farm animals!",
+        "learning_objectives": [
+          "Review all farm animals",
+          "Practice all animal sounds",
+          "Move like different animals"
+        ],
+        "vocabulary_words": [
+          {"word": "parade", "definition": "Fun walking show"},
+          {"word": "all", "definition": "Every farm animal we learned"}
+        ],
+        "materials_needed": [
+          "Open space to move",
+          "Optional: animal pictures as reminders"
+        ],
+        "parent_guidance": "Join the parade! Take turns being different animals. Encourage child to remember sounds and movements. Make it celebratory and fun. Praise effort, not perfection.",
+        "safety_notes": [
+          "Clear area of obstacles",
+          "Use soft surface for crawling",
+          "Take breaks if needed",
+          "Keep movements gentle"
+        ],
+        "discussion_questions": [
+          "Which animal was your favorite to be?",
+          "Which animal sound is the loudest?",
+          "Which animal was the hardest to copy?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Animal Family",
+            "description": "Each family member picks a different farm animal to be.",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Farm Animal Book",
+            "description": "Look at farm animal books together and practice sounds.",
+            "materials": ["Farm animal picture books"]
+          }
+        ]
+      }
+    }
+  ]
+}

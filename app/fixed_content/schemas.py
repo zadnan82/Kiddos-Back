@@ -634,6 +634,20 @@ class ActivityContent(BaseModel):
     variations: List[Dict[str, str]] = []
 
 
+class FixedContentPaginatedResponse(BaseModel):
+    """Paginated response for fixed content"""
+
+    items: List[Any]
+    total: int
+    page: int
+    limit: int  # Use 'limit' instead of 'per_page'
+    pages: int
+    has_next: bool
+    has_prev: bool
+
+    model_config = {"from_attributes": True}
+
+
 # ===============================
 # Configuration
 # ===============================

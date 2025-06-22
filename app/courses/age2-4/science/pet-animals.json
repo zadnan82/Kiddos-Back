@@ -1,0 +1,426 @@
+{
+  "course": {
+    "title_en": "Pet Animals",
+    "title_ar": "الحيوانات الأليفة",
+    "description_en": "Meet our furry and feathered friends who live with us at home. Learn how to care for pets and be their best friend.",
+    "description_ar": "تعرف على أصدقائنا من الحيوانات الأليفة الذين يعيشون معنا في المنزل. تعلم كيفية الاعتناء بالحيوانات الأليفة وكن أفضل صديق لهم.",
+    "age_group_min": 2,
+    "age_group_max": 4,
+    "estimated_duration_minutes": 52,
+    "subject": "science"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "Fluffy the Cat",
+      "title_ar": "القطة فلافي",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Fluffy's Day at Home",
+        "content": "This is Fluffy the cat. Fluffy lives with Emma's family. Fluffy is soft and orange. Fluffy says MEOW! Fluffy likes to sleep on Emma's bed. Fluffy sleeps a lot during the day. At night, Fluffy likes to play. Fluffy plays with a red ball. Fluffy rolls the ball with her paws. Fluffy also likes to climb. She climbs on chairs and tables. Fluffy drinks water from her special bowl. She eats cat food every day. Emma pets Fluffy gently. Fluffy purrs when she is happy. PURR PURR PURR! That means Fluffy loves Emma. Cats are wonderful pets who need love and care.",
+        "learning_objectives": [
+          "Learn about cats as pets",
+          "Know cat sounds 'meow' and 'purr'",
+          "Understand gentle pet care"
+        ],
+        "vocabulary_words": [
+          {"word": "cat", "definition": "Soft pet animal that says meow"},
+          {"word": "meow", "definition": "Sound cats make to talk"},
+          {"word": "purr", "definition": "Happy sound cats make"},
+          {"word": "paws", "definition": "Cat's feet with soft pads"},
+          {"word": "gentle", "definition": "Soft and careful touch"}
+        ],
+        "materials_needed": [
+          "Picture of cat",
+          "Soft stuffed cat toy (if available)",
+          "Small ball"
+        ],
+        "parent_guidance": "Show gentle petting motions. Practice making 'meow' and 'purr' sounds together. Emphasize being gentle with pets. If you have a cat, let child observe from safe distance.",
+        "safety_notes": [
+          "Always be gentle with real cats",
+          "Never pull cat's tail or ears",
+          "Let cats come to you first",
+          "Adult supervision around all pets"
+        ],
+        "discussion_questions": [
+          "What sound does Fluffy make?",
+          "How should we touch a cat?",
+          "What does purring mean?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Cat Walk",
+            "description": "Walk on hands and knees like a cat. Practice being quiet and gentle.",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Cat Care Play",
+            "description": "Pretend to feed and pet a stuffed cat gently.",
+            "materials": ["Stuffed cat", "Small bowl", "Pretend food"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "Buddy the Dog",
+      "title_ar": "الكلب بدي",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Buddy's Happy Day",
+        "content": "This is Buddy the dog. Buddy lives with Sam's family. Buddy is brown and white. Buddy says WOOF WOOF! Buddy has a long tail. When Buddy is happy, his tail wags back and forth. Wag wag wag! Buddy loves to play fetch. Sam throws a stick. Buddy runs fast to get it. Buddy brings the stick back to Sam. Good dog, Buddy! Buddy likes to walk outside. He wears a collar and leash. Sam holds the leash to keep Buddy safe. Buddy drinks water from his bowl. He eats dog food twice a day. At night, Buddy sleeps in his bed. Buddy loves his family very much. Dogs are loyal friends who need exercise and love.",
+        "learning_objectives": [
+          "Learn about dogs as pets",
+          "Know dog sound 'woof'",
+          "Understand dogs need exercise and care"
+        ],
+        "vocabulary_words": [
+          {"word": "dog", "definition": "Pet animal that says woof"},
+          {"word": "woof", "definition": "Sound dogs make"},
+          {"word": "tail", "definition": "Long part that wags when happy"},
+          {"word": "fetch", "definition": "Game where dog brings things back"},
+          {"word": "leash", "definition": "Rope to keep dog safe on walks"}
+        ],
+        "materials_needed": [
+          "Picture of dog",
+          "Toy dog (if available)",
+          "Small stick or toy to throw"
+        ],
+        "parent_guidance": "Practice tail wagging motions. Show how to throw and retrieve gently. Explain why dogs need leashes for safety. Make 'woof' sounds together.",
+        "safety_notes": [
+          "Never approach unknown dogs",
+          "Ask before petting someone else's dog",
+          "Be gentle and calm around dogs",
+          "Adult supervision always required"
+        ],
+        "discussion_questions": [
+          "What does Buddy's tail do when he's happy?",
+          "Why does Buddy wear a leash?",
+          "What game does Buddy like to play?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Fetch Game",
+            "description": "Practice throwing and bringing back a soft toy gently.",
+            "materials": ["Soft toy or ball"]
+          },
+          {
+            "title": "Tail Wagging Dance",
+            "description": "Wiggle your bottom like a happy dog's tail.",
+            "materials": ["None needed"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "Sunny the Bird",
+      "title_ar": "العصفور سني",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 7,
+      "content_data": {
+        "title": "Sunny Sings a Song",
+        "content": "This is Sunny the bird. Sunny lives in a nice cage. Sunny is yellow like the sun. Sunny says TWEET TWEET! Sunny likes to sing beautiful songs. Tweet tweet tweet! Sunny has pretty feathers. Sunny's feathers are soft and colorful. Sunny likes to eat seeds. She also drinks fresh water every day. Sunny's cage has a swing. Sunny likes to swing back and forth. Sunny also has a mirror. She looks at herself and says tweet! Maya talks to Sunny every day. Maya says 'Hello Sunny!' Sunny learns to say some words too. Birds are smart pets who like to sing and talk.",
+        "learning_objectives": [
+          "Learn about birds as pets",
+          "Know bird sound 'tweet'",
+          "Understand birds live in cages safely"
+        ],
+        "vocabulary_words": [
+          {"word": "bird", "definition": "Pet with feathers that can sing"},
+          {"word": "tweet", "definition": "Sound birds make when singing"},
+          {"word": "feathers", "definition": "Soft covering on birds"},
+          {"word": "cage", "definition": "Safe home for pet birds"},
+          {"word": "seeds", "definition": "Small food that birds eat"}
+        ],
+        "materials_needed": [
+          "Picture of bird",
+          "Yellow paper or feathers",
+          "Small mirror (adult supervised)"
+        ],
+        "parent_guidance": "Practice bird sounds and singing together. Show gentle movements like bird swinging. Explain why pet birds need cages for safety. Let child look in mirror and 'talk' to themselves.",
+        "safety_notes": [
+          "Never stick fingers in bird cages",
+          "Birds can bite if scared",
+          "Adult handles all bird care",
+          "Supervise mirror use"
+        ],
+        "discussion_questions": [
+          "What color is Sunny?",
+          "What does Sunny like to eat?",
+          "How does Sunny make music?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Bird Song Time",
+            "description": "Make up simple songs and sing like Sunny.",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Feather Art",
+            "description": "Glue yellow paper pieces to make bird feathers.",
+            "materials": ["Yellow paper", "Glue stick", "Paper"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "Goldie the Fish",
+      "title_ar": "السمكة جولدي",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 6,
+      "content_data": {
+        "title": "Swimming Like Goldie",
+        "content": "Goldie is a goldfish. Goldie lives in a round bowl with clean water. Goldie is orange and shiny. Goldie does not make sounds. Fish are quiet pets. Goldie swims all day long. She swims up and down. She swims round and round. Goldie has fins to help her swim. Let's pretend to be Goldie! Move your arms like fins. Swim around the room quietly. Goldie eats tiny fish food every day. She blows bubbles in the water. Bubble bubble bubble! Let's pretend to blow bubbles too!",
+        "learning_objectives": [
+          "Learn about fish as quiet pets",
+          "Practice swimming movements",
+          "Understand fish live in water"
+        ],
+        "vocabulary_words": [
+          {"word": "fish", "definition": "Pet that swims in water"},
+          {"word": "fins", "definition": "Fish parts that help swimming"},
+          {"word": "bowl", "definition": "Round home for fish"},
+          {"word": "bubbles", "definition": "Round air balls in water"},
+          {"word": "quiet", "definition": "Makes no sound"}
+        ],
+        "materials_needed": [
+          "Blue scarf or cloth (for water)",
+          "Picture of goldfish",
+          "Bubble solution (adult supervised)"
+        ],
+        "parent_guidance": "Guide swimming motions safely. Show arm movements like fins. Practice quiet movements. If using bubbles, supervise closely and ensure child doesn't drink bubble solution.",
+        "safety_notes": [
+          "No real water play without supervision",
+          "Never put fingers in fish bowls",
+          "Adult supervision for all bubble activities",
+          "Clear space for safe movement"
+        ],
+        "discussion_questions": [
+          "How does Goldie move in the water?",
+          "What does Goldie use to swim?",
+          "Do fish make sounds like cats and dogs?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Fish Swimming Dance",
+            "description": "Move arms and body like swimming fish.",
+            "materials": ["Blue cloth or scarf"]
+          },
+          {
+            "title": "Fish Bowl Art",
+            "description": "Draw a fish in a round bowl shape.",
+            "materials": ["Paper", "Crayons", "Round bowl to trace"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "Nibbles the Rabbit",
+      "title_ar": "الأرنب نيبلز",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 7,
+      "content_data": {
+        "title": "Nibbles Loves to Hop",
+        "content": "This is Nibbles the rabbit. Nibbles lives with Lily's family. Nibbles is white and fluffy. Rabbits do not bark or meow. But Nibbles makes a soft sound. She goes THUMP THUMP with her back feet. Nibbles has long ears. She can hear very well. Nibbles has a pink nose that wiggles. Wiggle wiggle wiggle! Nibbles loves to hop. Hop hop hop around the yard! Nibbles eats carrots and lettuce. She nibbles her food with her front teeth. Nibbles likes to hide in boxes. She feels safe in small spaces. Lily gives Nibbles fresh water every day. Rabbits are gentle pets who love to hop and play.",
+        "learning_objectives": [
+          "Learn about rabbits as pets",
+          "Know rabbits hop and thump feet",
+          "Understand rabbits eat vegetables"
+        ],
+        "vocabulary_words": [
+          {"word": "rabbit", "definition": "Fluffy pet that hops"},
+          {"word": "hop", "definition": "Jump with both feet together"},
+          {"word": "thump", "definition": "Sound rabbit feet make"},
+          {"word": "ears", "definition": "Long parts that hear sounds"},
+          {"word": "nibbles", "definition": "Takes small bites of food"}
+        ],
+        "materials_needed": [
+          "Picture of rabbit",
+          "Small cardboard box",
+          "Orange paper (for carrot)"
+        ],
+        "parent_guidance": "Practice hopping movements safely. Show nose wiggling and ear movements. Let child explore hiding in box if safe size. Practice gentle nibbling motions.",
+        "safety_notes": [
+          "Hop in safe, clear area only",
+          "Check box size is safe for child",
+          "Adult supervision for all activities",
+          "No real carrots for choking prevention"
+        ],
+        "discussion_questions": [
+          "How does Nibbles move around?",
+          "What does Nibbles like to eat?",
+          "Where does Nibbles like to hide?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Bunny Hop Game",
+            "description": "Practice hopping like Nibbles around the room.",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Carrot Feeding Game",
+            "description": "Pretend to feed paper carrot to stuffed rabbit.",
+            "materials": ["Orange paper", "Stuffed rabbit"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "Pet Care Day",
+      "title_ar": "يوم العناية بالحيوانات الأليفة",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "How to Care for Our Pet Friends",
+        "content": "Pets need our help every day. Let's learn how to care for them! First, pets need fresh water. Fill their water bowl every day. Next, pets need the right food. Cats eat cat food. Dogs eat dog food. Birds eat seeds. Fish eat fish food. Never give pets people food. Pets need a clean home. Clean their beds and toys. Wash their food bowls. Pets need exercise and play. Walk dogs outside. Play with cats using toys. Let birds swing in their cage. Pets need love and gentle touches. Pet them softly. Talk to them nicely. When pets are sick, they need a doctor called a vet. The vet helps pets feel better.",
+        "learning_objectives": [
+          "Learn basic pet care responsibilities",
+          "Understand pets need food, water, and love",
+          "Practice gentle pet care actions"
+        ],
+        "vocabulary_words": [
+          {"word": "care", "definition": "Help and love pets"},
+          {"word": "fresh", "definition": "Clean and new"},
+          {"word": "exercise", "definition": "Moving and playing"},
+          {"word": "vet", "definition": "Doctor for animals"},
+          {"word": "responsibility", "definition": "Job to take care of something"}
+        ],
+        "materials_needed": [
+          "Small bowls",
+          "Pretend pet food (blocks or paper)",
+          "Soft cloth for cleaning",
+          "Stuffed animals"
+        ],
+        "parent_guidance": "Guide through each care step slowly. Let child practice with stuffed animals. Emphasize gentle touching and responsibility. Explain when adults handle real pet care.",
+        "safety_notes": [
+          "Adult supervision for all real pet care",
+          "Use only pretend food for activity",
+          "Ensure stuffed animals are clean",
+          "Practice gentle touches only"
+        ],
+        "discussion_questions": [
+          "What do pets need every day?",
+          "How should we touch our pets?",
+          "Who helps pets when they are sick?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Pet Hospital Play",
+            "description": "Pretend to be a vet checking stuffed animals.",
+            "materials": ["Stuffed animals", "Play stethoscope"]
+          },
+          {
+            "title": "Pet Care Schedule",
+            "description": "Make a simple picture chart of pet care tasks.",
+            "materials": ["Paper", "Crayons", "Stickers"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "Pet Sounds Quiz",
+      "title_ar": "اختبار أصوات الحيوانات الأليفة",
+      "lesson_type": "quiz",
+      "estimated_duration_minutes": 5,
+      "content_data": {
+        "title": "What Sound Do I Make?",
+        "content": "Let's play a fun game about our pet friends! I will tell you about a pet. You tell me what sound it makes or how it moves!",
+        "learning_objectives": [
+          "Remember pet sounds and behaviors",
+          "Match pets to their characteristics",
+          "Review all pets learned"
+        ],
+        "vocabulary_words": [
+          {"word": "quiz", "definition": "Fun question game"},
+          {"word": "remember", "definition": "Think about what we learned"}
+        ],
+        "materials_needed": [
+          "Pictures of pets from previous lessons",
+          "This list of questions"
+        ],
+        "parent_guidance": "Ask questions slowly and give hints if needed. Celebrate every answer. Make the sounds together. Keep it playful and encouraging.",
+        "safety_notes": [
+          "No safety concerns",
+          "Keep session positive and fun"
+        ],
+        "discussion_questions": [
+          "I am soft and orange. I say this sound when I talk. What do I say?",
+          "I wag my tail when happy. I like to play fetch. What sound do I make?",
+          "I am yellow and live in a cage. I like to sing. What sound do I make?",
+          "I swim in water and blow bubbles. Do I make sounds?",
+          "I am fluffy with long ears. I move by doing this. How do I move?",
+          "When pets are sick, who helps them feel better?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Pet Sound Orchestra",
+            "description": "Make all the pet sounds together in a fun song.",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Guess My Pet",
+            "description": "Parent acts like a pet, child guesses which one.",
+            "materials": ["None needed"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "My Pet Friends Parade",
+      "title_ar": "موكب أصدقائي الحيوانات الأليفة",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Celebrating All Our Pet Friends",
+        "content": "Let's have a special parade for all our pet friends! First, be Fluffy the cat. Walk quietly and say MEOW. Stretch like a cat waking up. Next, be Buddy the dog. Wag your tail and say WOOF. Play fetch with an imaginary stick. Then, be Sunny the bird. Flap your arms like wings and say TWEET. Sing a pretty song. Now, be Goldie the fish. Move your arms like fins and swim silently around. Finally, be Nibbles the rabbit. Hop hop hop and wiggle your nose. Great job! You know all about pet friends. Remember to always be gentle and kind to pets. They need our love and care every day.",
+        "learning_objectives": [
+          "Review all pets learned in course",
+          "Practice all pet movements and sounds",
+          "Remember gentle pet care"
+        ],
+        "vocabulary_words": [
+          {"word": "parade", "definition": "Fun walking show with friends"},
+          {"word": "celebrate", "definition": "Have a happy party"},
+          {"word": "gentle", "definition": "Soft and careful"},
+          {"word": "kind", "definition": "Nice and caring"}
+        ],
+        "materials_needed": [
+          "Open space for movement",
+          "Optional: pictures of all pets as reminders"
+        ],
+        "parent_guidance": "Join the parade! Take turns being different pets. Encourage child to remember movements and sounds. Make it celebratory and fun. Reinforce gentle pet care message.",
+        "safety_notes": [
+          "Clear area of obstacles for safe movement",
+          "Use soft movements only",
+          "Take breaks if child gets tired",
+          "Keep all movements gentle"
+        ],
+        "discussion_questions": [
+          "Which pet was your favorite to pretend to be?",
+          "What do all pets need from us?",
+          "How should we always treat pets?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Pet Family Drawing",
+            "description": "Draw all the pets we learned about together.",
+            "materials": ["Paper", "Crayons", "Stickers"]
+          },
+          {
+            "title": "Pet Care Promise",
+            "description": "Make a promise to always be gentle with pets.",
+            "materials": ["None needed - just words"]
+          }
+        ]
+      }
+    }
+  ]
+}

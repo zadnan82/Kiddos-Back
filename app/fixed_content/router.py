@@ -11,11 +11,12 @@ from sqlalchemy.orm import Session
 from app.database import get_db
 from app.auth import get_current_active_user
 from app.rate_limiter import rate_limit
-from app.schemas import SuccessResponse, PaginatedResponse
+from app.schemas import SuccessResponse  # Keep this from main app
 from app.models import User
 
-# Import schemas from this module
+# Import schemas from this module - REMOVE PaginatedResponse to avoid conflict
 from .schemas import (
+    FixedContentPaginatedResponse,  # Use this instead of PaginatedResponse
     SubjectResponse,
     CourseResponse,
     CourseDetailResponse,
@@ -32,10 +33,13 @@ from .schemas import (
     SortParams,
     UserLearningStats,
     LearningDashboard,
+    # PaginatedResponse,  # ← REMOVE this line - it conflicts with FixedContentPaginatedResponse
 )
 
 # Import service from this module
 from .service import fixed_content_service
+
+from app.content_loader import content_loader
 
 # Configure logging
 logger = logging.getLogger(__name__)
@@ -105,7 +109,7 @@ async def get_subject(
 # ===============================
 
 
-@router.get("/courses", response_model=PaginatedResponse)
+@router.get("/courses", response_model=FixedContentPaginatedResponse)
 async def get_courses(
     # Filtering parameters
     subject_id: Optional[str] = Query(None, description="Filter by subject ID"),
@@ -153,11 +157,11 @@ async def get_courses(
         has_next = page < pages
         has_prev = page > 1
 
-        return PaginatedResponse(
+        return FixedContentPaginatedResponse(
             items=courses,
             total=total,
             page=page,
-            limit=limit,
+            limit=limit,  # Keep as 'limit'
             pages=pages,
             has_next=has_next,
             has_prev=has_prev,
@@ -748,6 +752,223 @@ async def health_check(db: Session = Depends(get_db)):
             "database": "error",
             "error": str(e),
         }
+
+
+@router.get("/debug/schema")
+async def debug_schema():
+    """Debug endpoint to check schema"""
+    from .schemas import FixedContentPaginatedResponse
+
+    # Test the schema
+    sample_response = FixedContentPaginatedResponse(
+        items=[], total=0, page=1, limit=5, pages=0, has_next=False, has_prev=False
+    )
+
+    return {
+        "status": "schema_test_passed",
+        "sample_response": sample_response.model_dump(),
+        "schema_fields": list(FixedContentPaginatedResponse.model_fields.keys()),
+    }
+
+
+@router.get("/debug/test-courses")
+async def debug_test_courses(
+    current_user: User = Depends(get_current_active_user),
+    db: Session = Depends(get_db),
+):
+    """Debug endpoint to test course fetching without Pydantic validation"""
+    try:
+        # Test the service directly
+        courses, total = fixed_content_service.get_courses(
+            db=db, page=1, limit=5, language="en"
+        )
+
+        return {
+            "status": "success",
+            "courses_found": len(courses),
+            "total_count": total,
+            "user_tier": current_user.tier.value,
+            "sample_courses": courses[:2] if courses else [],
+            "database_working": True,
+        }
+
+    except Exception as e:
+        return {
+            "status": "error",
+            "error": str(e),
+            "error_type": type(e).__name__,
+            "database_working": False,
+        }
+
+
+@router.get("/debug/create-sample-data")
+async def create_sample_data(
+    current_user: User = Depends(get_current_active_user),
+    db: Session = Depends(get_db),
+):
+    """Create sample data for testing"""
+    try:
+        from .models import Subject, Course, SubjectCategory, DifficultyLevel
+        import uuid
+        from datetime import datetime
+
+        # Check if we already have data
+        existing_subjects = db.query(Subject).count()
+        if existing_subjects > 0:
+            return {
+                "status": "sample_data_already_exists",
+                "subjects": existing_subjects,
+            }
+
+        # Create a sample subject
+        science_subject = Subject(
+            id=uuid.uuid4(),
+            name="science",
+            category=SubjectCategory.SCIENCE,
+            display_name_en="Science",
+            display_name_ar="العلوم",
+            description_en="Learn about the world around us",
+            description_ar="تعلم عن العالم من حولنا",
+            icon_name="🔬",
+            color_code="#10B981",
+            is_active=True,
+            sort_order=1,
+        )
+        db.add(science_subject)
+        db.flush()
+
+        # Create a sample course
+        sample_course = Course(
+            id=uuid.uuid4(),
+            subject_id=science_subject.id,
+            name="animals-basics",
+            slug="animals-basics",
+            title_en="Animal Basics",
+            title_ar="أساسيات الحيوانات",
+            description_en="Learn about different animals",
+            description_ar="تعلم عن الحيوانات المختلفة",
+            age_group_min=3,
+            age_group_max=6,
+            difficulty_level=DifficultyLevel.BEGINNER,
+            estimated_duration_minutes=60,
+            lesson_count=3,
+            credit_reward=0.5,
+            xp_reward=100,
+            is_published=True,
+            is_featured=True,
+            sort_order=1,
+            published_at=datetime.utcnow(),
+        )
+        db.add(sample_course)
+        db.commit()
+
+        return {
+            "status": "sample_data_created",
+            "subject_id": str(science_subject.id),
+            "course_id": str(sample_course.id),
+            "message": "Sample data created successfully",
+        }
+
+    except Exception as e:
+        db.rollback()
+        return {
+            "status": "error",
+            "error": str(e),
+            "message": "Failed to create sample data",
+        }
+
+
+# ======= ALSO ADD THIS TO ENSURE USER HAS PROPER SUBSCRIPTION =======
+
+
+@router.get("/debug/user-info")
+async def debug_user_info(
+    current_user: User = Depends(get_current_active_user),
+):
+    """Debug user subscription status"""
+    return {
+        "user_id": str(current_user.id),
+        "tier": current_user.tier.value,
+        "credits": current_user.credits,
+        "can_access_courses": current_user.tier.value != "free",
+        "is_verified": current_user.is_verified,
+        "is_active": current_user.is_active,
+    }
+
+
+@router.get("/courses/file/{age_group}/{subject}/{course_name}")
+async def get_course_from_file(
+    age_group: str,
+    subject: str,
+    course_name: str,
+    current_user: User = Depends(get_current_active_user),
+):
+    """Get course content from JSON file"""
+    import json
+    from pathlib import Path
+
+    # Path to your JSON file
+    file_path = (
+        Path(__file__).parent.parent
+        / "courses"
+        / age_group
+        / subject
+        / f"{course_name}.json"
+    )
+
+    if not file_path.exists():
+        raise HTTPException(status_code=404, detail="Course file not found")
+
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            course_data = json.load(f)
+        return course_data
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to load course: {str(e)}")
+
+
+@router.get("/courses/file/{age_group}/{subject}")
+async def list_courses_from_files(age_group: str, subject: str):
+    """List all courses for age group and subject"""
+    courses = content_loader.list_courses(age_group, subject)
+    return {"courses": courses}
+
+
+@router.get("/courses/file/{age_group}/{subject}")
+async def list_courses_in_subject(
+    age_group: str, subject: str, current_user: User = Depends(get_current_active_user)
+):
+    """List all available courses in a subject"""
+    import json
+    from pathlib import Path
+
+    subject_path = Path(__file__).parent.parent / "courses" / age_group / subject
+
+    if not subject_path.exists():
+        return []  # Return empty array, not object
+
+    courses = []
+    for file_path in subject_path.glob("*.json"):
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                course_data = json.load(f)
+
+            course_info = {
+                "id": file_path.stem,
+                "name": file_path.stem,
+                "title": course_data["course"]["title_en"],
+                "description": course_data["course"]["description_en"],
+                "lesson_count": len(course_data["lessons"]),
+                "estimated_duration_minutes": course_data["course"][
+                    "estimated_duration_minutes"
+                ],
+            }
+            courses.append(course_info)
+        except Exception as e:
+            print(f"Error loading {file_path}: {e}")
+            continue
+
+    return courses  # Return array directly, not {courses: [...]}
 
 
 # Export the router

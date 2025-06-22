@@ -1,0 +1,438 @@
+{
+  "course": {
+    "title_en": "Colors and Shapes",
+    "title_ar": "الألوان والأشكال",
+    "description_en": "Discover the rainbow of colors and fun shapes all around us. Learn to spot red, blue, yellow, circles, squares and triangles everywhere!",
+    "description_ar": "اكتشف قوس قزح من الألوان والأشكال الممتعة من حولنا. تعلم أن تجد الأحمر والأزرق والأصفر والدوائر والمربعات والمثلثات في كل مكان!",
+    "age_group_min": 2,
+    "age_group_max": 4,
+    "estimated_duration_minutes": 58,
+    "subject": "math"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "Red Like an Apple",
+      "title_ar": "أحمر مثل التفاحة",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Ruby the Red Fire Truck",
+        "content": "This is Ruby. Ruby is a fire truck. Ruby is RED! Red like a shiny apple. Red like a juicy strawberry. Red like a beautiful rose. Ruby drives around town helping people. When people see Ruby's red color, they know help is coming! Look around you. Can you find something red? Maybe a red toy? Maybe a red book? Red is a bright, happy color. Red makes us think of warm things. Red apples are yummy to eat. Red hearts show love. Ruby the fire truck is proud to be red. Red is everywhere if you look carefully!",
+        "learning_objectives": [
+          "Recognize the color red",
+          "Identify red objects in environment",
+          "Associate red with familiar items"
+        ],
+        "vocabulary_words": [
+          {"word": "red", "definition": "Color like apples, fire trucks, and strawberries"},
+          {"word": "bright", "definition": "Easy to see, not dark"},
+          {"word": "apple", "definition": "Round red fruit that's sweet to eat"},
+          {"word": "fire truck", "definition": "Big red truck that helps put out fires"},
+          {"word": "strawberry", "definition": "Small red fruit that's very sweet"}
+        ],
+        "materials_needed": [
+          "Red objects (apple, red toy, red block)",
+          "Pictures of red things",
+          "Red crayons or markers"
+        ],
+        "parent_guidance": "Point out red objects around the house while reading. Let child hold and examine red items safely. Name each red thing you see together. Make it a fun discovery game.",
+        "safety_notes": [
+          "Use large, safe red objects only",
+          "No small red items that could be choking hazards",
+          "Supervise when handling food items",
+          "Ensure crayons are non-toxic and age-appropriate"
+        ],
+        "discussion_questions": [
+          "What color is Ruby the fire truck?",
+          "Can you find something red in this room?",
+          "What red foods do you like to eat?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Red Hunt Game",
+            "description": "Walk around house pointing to red objects and saying 'red!'",
+            "materials": ["Various red household objects"]
+          },
+          {
+            "title": "Red Coloring Fun",
+            "description": "Color pictures with red crayons - apples, fire trucks, hearts.",
+            "materials": ["Coloring pages", "Red crayons"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "Blue Like the Sky",
+      "title_ar": "أزرق مثل السماء",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Benny the Blue Whale",
+        "content": "This is Benny. Benny is a whale. Benny is BLUE! Blue like the big sky above. Blue like the deep ocean water. Blue like pretty blueberries. Benny swims in the blue ocean all day long. He loves his blue color because it matches the water. Look up at the sky. The sky is blue! Look at your blue jeans. Look at blue toys. Blue is a calm, peaceful color. Blue makes us think of cool water. Blue jeans keep us comfortable. Blue birds fly in the blue sky. Benny is happy to be blue in his blue ocean home!",
+        "learning_objectives": [
+          "Recognize the color blue",
+          "Connect blue with sky and water",
+          "Find blue objects around them"
+        ],
+        "vocabulary_words": [
+          {"word": "blue", "definition": "Color like the sky, ocean, and blueberries"},
+          {"word": "sky", "definition": "Big blue space above us where clouds live"},
+          {"word": "ocean", "definition": "Very big water where whales swim"},
+          {"word": "whale", "definition": "Very big animal that lives in the ocean"},
+          {"word": "peaceful", "definition": "Quiet, calm, and relaxing"},
+          {"word": "blueberries", "definition": "Small round blue fruits that are sweet"}
+        ],
+        "materials_needed": [
+          "Blue objects (blue toy, blue clothing)",
+          "Pictures of sky and ocean",
+          "Blue crayons or blocks"
+        ],
+        "parent_guidance": "Point to the sky when talking about blue. Show blue clothing items. Let child touch different blue objects. Look for blue things outside if weather permits.",
+        "safety_notes": [
+          "Use safe, large blue objects",
+          "When looking at sky, don't look directly at sun",
+          "Supervise outdoor activities",
+          "Ensure all materials are age-appropriate"
+        ],
+        "discussion_questions": [
+          "What color is the sky?",
+          "What color is Benny the whale?",
+          "Can you find something blue to wear?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Blue Sky Watching",
+            "description": "Look outside at blue sky and point out blue things in nature.",
+            "materials": ["Window or outdoor access"]
+          },
+          {
+            "title": "Blue Sorting Game",
+            "description": "Put all blue objects together in one group.",
+            "materials": ["Various blue toys and objects"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "Yellow Like the Sun",
+      "title_ar": "أصفر مثل الشمس",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Sunny Yellow Everywhere",
+        "content": "Yellow is bright like the sun! The sun is big and yellow and warm. Let's find yellow things! Look for yellow bananas. Yummy and sweet! Look for yellow flowers. Pretty and bright! Look for yellow toys. Fun to play with! Yellow makes us happy. Yellow is like sunshine on our face. Let's pretend to be the yellow sun! Stretch your arms up high like sun rays. Spin around slowly like the sun moves across the sky. Say 'I am bright yellow like the sun!' Yellow things make us smile. Yellow is everywhere if we look!",
+        "learning_objectives": [
+          "Recognize the color yellow",
+          "Associate yellow with sun and happiness",
+          "Practice finding yellow objects"
+        ],
+        "vocabulary_words": [
+          {"word": "yellow", "definition": "Bright color like the sun, bananas, and flowers"},
+          {"word": "sun", "definition": "Big bright yellow light in the sky"},
+          {"word": "bright", "definition": "Gives lots of light, easy to see"},
+          {"word": "banana", "definition": "Long yellow fruit that's sweet"},
+          {"word": "sunshine", "definition": "Light and warmth from the yellow sun"},
+          {"word": "rays", "definition": "Lines of light that come from the sun"}
+        ],
+        "materials_needed": [
+          "Yellow objects (banana, yellow toy, yellow clothing)",
+          "Yellow flowers (real or pictures)",
+          "Space for movement activities"
+        ],
+        "parent_guidance": "Let child feel the warmth of sunshine through window. Show real yellow fruits and flowers. Do the sun movement activity together. Make it joyful and energetic.",
+        "safety_notes": [
+          "Never look directly at the real sun",
+          "Use safe space for movement activities",
+          "Supervise when handling food items",
+          "Ensure adequate space for stretching and spinning"
+        ],
+        "discussion_questions": [
+          "What color is the sun?",
+          "How does yellow make you feel?",
+          "What yellow foods do you like?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Yellow Sun Dance",
+            "description": "Dance and move like bright yellow sunshine with arms as rays.",
+            "materials": ["Open space", "Happy music"]
+          },
+          {
+            "title": "Yellow Snack Time",
+            "description": "Eat yellow foods like bananas or yellow crackers.",
+            "materials": ["Yellow healthy snacks"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "Circles All Around",
+      "title_ar": "دوائر في كل مكان",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 9,
+      "content_data": {
+        "title": "Round and Round Like a Circle",
+        "content": "A circle is perfectly round! No corners, no edges. Just round like a ball. Let's find circles everywhere! Look at wheels on cars. Round circles! Look at your dinner plate. Round circle! Look at coins. Round circles! Let's make circles with our bodies! Make a circle with your arms. Go around and around! Draw circles in the air with your finger. Round and round! Circles roll like balls. Circles spin like wheels. Let's walk in a circle! Step step step in a big round circle. Circles are fun shapes!",
+        "learning_objectives": [
+          "Recognize circle shapes",
+          "Understand circles are round with no corners",
+          "Find circles in everyday objects"
+        ],
+        "vocabulary_words": [
+          {"word": "circle", "definition": "Round shape with no corners, like a ball"},
+          {"word": "round", "definition": "Shape like a ball or wheel"},
+          {"word": "corners", "definition": "Sharp points where lines meet"},
+          {"word": "edges", "definition": "Outside lines of a shape"},
+          {"word": "wheel", "definition": "Round circle that helps cars move"},
+          {"word": "plate", "definition": "Round dish for eating food"}
+        ],
+        "materials_needed": [
+          "Circular objects (plates, balls, wheels, coins)",
+          "Large paper and crayons",
+          "Space for walking in circles"
+        ],
+        "parent_guidance": "Let child trace around circular objects with finger. Practice making arm circles together. Walk in circle holding hands. Point out circular objects during daily routines.",
+        "safety_notes": [
+          "Use large coins or tokens, not small coins",
+          "Ensure clear space for walking activities",
+          "Hold child's hand when walking in circles",
+          "Use unbreakable circular objects only"
+        ],
+        "discussion_questions": [
+          "What shape is a ball?",
+          "Can you make a circle with your arms?",
+          "What circles do you see in the kitchen?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Circle Drawing Practice",
+            "description": "Draw circles on paper and trace around circular objects.",
+            "materials": ["Paper", "Crayons", "Circular objects to trace"]
+          },
+          {
+            "title": "Circle Walk Game",
+            "description": "Walk around in different sized circles - big circles, little circles.",
+            "materials": ["Open space"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "Squares Have Four Sides",
+      "title_ar": "المربعات لها أربعة جوانب",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Sammy the Square Block",
+        "content": "This is Sammy. Sammy is a square block. Sammy has FOUR sides. All four sides are the same size. Count them: one, two, three, four! Sammy has FOUR corners too. Corners are where two sides meet. Squares are everywhere! Look at windows. Many windows are square! Look at crackers. Some crackers are square! Look at blocks for building. Many blocks are square! Sammy likes being a square because he can stack well with other square blocks. Squares fit together perfectly. Sammy is proud of his four equal sides and four corners!",
+        "learning_objectives": [
+          "Recognize square shapes",
+          "Count four sides and four corners",
+          "Identify squares in environment"
+        ],
+        "vocabulary_words": [
+          {"word": "square", "definition": "Shape with four equal sides and four corners"},
+          {"word": "sides", "definition": "Straight lines that make the shape"},
+          {"word": "corners", "definition": "Points where two sides come together"},
+          {"word": "equal", "definition": "All the same size"},
+          {"word": "block", "definition": "Square or rectangle toy for building"},
+          {"word": "window", "definition": "Square or rectangle opening to see outside"}
+        ],
+        "materials_needed": [
+          "Square objects (blocks, crackers, square papers)",
+          "Square picture frames or windows to observe",
+          "Building blocks"
+        ],
+        "parent_guidance": "Let child trace the four sides of square objects with their finger. Count sides and corners together. Show how squares stack and fit together. Point out square windows and objects.",
+        "safety_notes": [
+          "Use large, safe building blocks",
+          "Supervise when handling food items like crackers",
+          "Ensure square objects have no sharp edges",
+          "Keep small square objects away from toddlers"
+        ],
+        "discussion_questions": [
+          "How many sides does a square have?",
+          "Can you count the corners on this square?",
+          "What square things do you see in this room?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Square Building Fun",
+            "description": "Stack square blocks and build square towers.",
+            "materials": ["Square building blocks"]
+          },
+          {
+            "title": "Square Hunt",
+            "description": "Walk around house finding square objects and counting their sides.",
+            "materials": ["Various square household objects"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "Triangles Have Three Points",
+      "title_ar": "المثلثات لها ثلاث نقاط",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 9,
+      "content_data": {
+        "title": "Making Triangles Together",
+        "content": "A triangle has THREE sides and THREE corners! Count them: one, two, three! Triangles look like mountain tops. Triangles look like slices of pizza. Triangles look like the tops of houses. Let's make triangles with our bodies! Put your hands above your head. Make a triangle point at the top! Let's make triangles with our fingers! Touch three fingers together to make a triangle shape. Triangles are strong shapes. They help hold up roofs and bridges. Let's draw triangles in the air! Up to a point, down to one side, across to the other side, and back up! Triangles are special three-sided shapes!",
+        "learning_objectives": [
+          "Recognize triangle shapes",
+          "Count three sides and three corners",
+          "Make triangles with body and hands"
+        ],
+        "vocabulary_words": [
+          {"word": "triangle", "definition": "Shape with three sides and three corners"},
+          {"word": "three", "definition": "Number that comes after two"},
+          {"word": "point", "definition": "Sharp tip where lines meet"},
+          {"word": "mountain", "definition": "Very high hill that looks like triangle"},
+          {"word": "pizza", "definition": "Round food cut into triangle slices"},
+          {"word": "roof", "definition": "Top part of house, often triangle shaped"}
+        ],
+        "materials_needed": [
+          "Triangle objects (pizza slice shape, triangle blocks)",
+          "Pictures of mountains and house roofs",
+          "Paper and crayons for drawing"
+        ],
+        "parent_guidance": "Help child make triangle shape with arms above head. Practice counting to three while pointing to triangle sides. Show pictures of triangular objects like mountains and roofs.",
+        "safety_notes": [
+          "Ensure safe arm movements above head",
+          "Use gentle hand positions for triangle making",
+          "Supervise when using triangle-shaped objects",
+          "Keep activities at child's comfort level"
+        ],
+        "discussion_questions": [
+          "How many sides does a triangle have?",
+          "Can you make a triangle with your hands?",
+          "What looks like a triangle on a house?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Triangle Body Shapes",
+            "description": "Make different sized triangles with arms, hands, and whole body.",
+            "materials": ["Open space for movement"]
+          },
+          {
+            "title": "Triangle Art Creation",
+            "description": "Draw and color triangles, then turn them into mountains or houses.",
+            "materials": ["Paper", "Crayons", "Stickers"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "Colors and Shapes Quiz",
+      "title_ar": "اختبار الألوان والأشكال",
+      "lesson_type": "quiz",
+      "estimated_duration_minutes": 6,
+      "content_data": {
+        "title": "Can You Find Colors and Shapes?",
+        "content": "Let's play a fun game with colors and shapes! I will ask you questions about what we learned. Point to the right answer or tell me what you see!",
+        "learning_objectives": [
+          "Review colors red, blue, yellow",
+          "Review shapes circle, square, triangle",
+          "Practice identifying colors and shapes quickly"
+        ],
+        "vocabulary_words": [
+          {"word": "point", "definition": "Use your finger to show something"},
+          {"word": "answer", "definition": "What you say when asked a question"}
+        ],
+        "materials_needed": [
+          "Objects in different colors and shapes",
+          "Pictures of shapes and colored items",
+          "This quiz list"
+        ],
+        "parent_guidance": "Give child time to think about each question. Point to objects together if needed. Celebrate every answer with enthusiasm. Make it feel like a fun game, not a test.",
+        "safety_notes": [
+          "Use only safe objects for pointing",
+          "Keep session positive and encouraging",
+          "Stop if child gets tired or frustrated",
+          "No pressure for perfect answers"
+        ],
+        "discussion_questions": [
+          "What color is this apple? (show red apple)",
+          "What color is the sky outside?",
+          "What color is a banana?",
+          "What shape is a ball?",
+          "How many sides does a square have?",
+          "What shape has three corners?",
+          "Can you find something red in this room?",
+          "Can you make a circle with your arms?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Color and Shape Bingo",
+            "description": "Look around room to find items that match color and shape calls.",
+            "materials": ["Various colored objects in different shapes"]
+          },
+          {
+            "title": "Shape and Color Song",
+            "description": "Sing a song naming colors and shapes while pointing to them.",
+            "materials": ["None needed"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "Rainbow Shape Parade",
+      "title_ar": "موكب أشكال قوس قزح",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 12,
+      "content_data": {
+        "title": "Celebrating Colors and Shapes Together",
+        "content": "Let's have a big celebration of colors and shapes! We learned about RED like apples and fire trucks. We learned about BLUE like the sky and ocean. We learned about YELLOW like the sun and bananas. We learned about CIRCLES that are round like balls. We learned about SQUARES with four equal sides. We learned about TRIANGLES with three points. Now let's march in a parade! Hold up red things and say 'RED!' Hold up blue things and say 'BLUE!' Hold up yellow things and say 'YELLOW!' Make circles with your arms! Count four sides of squares! Point up like triangle tops! Colors and shapes are everywhere around us. You are amazing at finding colors and shapes!",
+        "learning_objectives": [
+          "Review all colors and shapes learned",
+          "Celebrate learning achievement",
+          "Practice identifying colors and shapes together"
+        ],
+        "vocabulary_words": [
+          {"word": "celebration", "definition": "Happy party for something special"},
+          {"word": "parade", "definition": "Fun march with music and decorations"},
+          {"word": "everywhere", "definition": "All around us, in many places"},
+          {"word": "amazing", "definition": "Really wonderful and great"}
+        ],
+        "materials_needed": [
+          "Objects in red, blue, yellow colors",
+          "Objects in circle, square, triangle shapes",
+          "Happy music for marching",
+          "Space for parade movement"
+        ],
+        "parent_guidance": "Join the parade enthusiastically! Help child hold up different colored objects. Make the shape movements together. Take pictures to celebrate this learning milestone. Make it feel very special and fun.",
+        "safety_notes": [
+          "Ensure safe space for marching",
+          "Use large, safe objects for holding",
+          "Keep music at appropriate volume",
+          "Take breaks if child gets excited",
+          "Keep all movements gentle and fun"
+        ],
+        "discussion_questions": [
+          "What's your favorite color we learned?",
+          "What's your favorite shape?",
+          "Where do you see colors and shapes every day?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Color and Shape Art Gallery",
+            "description": "Create artwork using all colors and shapes learned, display proudly.",
+            "materials": ["Paper", "Crayons in red/blue/yellow", "Shape stickers"]
+          },
+          {
+            "title": "Daily Color and Shape Hunt",
+            "description": "Make it a daily game to spot and name colors and shapes everywhere.",
+            "materials": ["Just eyes and enthusiasm!"]
+          }
+        ]
+      }
+    }
+  ]
+}
