@@ -1,0 +1,423 @@
+{
+  "course": {
+    "title_en": "Numbers 1-5",
+    "title_ar": "الأرقام ١-٥",
+    "description_en": "Learn to count from 1 to 5 with fun stories and activities. Discover numbers all around us in our daily life.",
+    "description_ar": "تعلم العد من ١ إلى ٥ مع القصص والأنشطة الممتعة. اكتشف الأرقام من حولنا في حياتنا اليومية.",
+    "age_group_min": 2,
+    "age_group_max": 4,
+    "estimated_duration_minutes": 48,
+    "subject": "math"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "One Little Duck",
+      "title_ar": "البطة الصغيرة الواحدة",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 7,
+      "content_data": {
+        "title": "One Yellow Duck Goes Swimming",
+        "content": "Look! Here is ONE yellow duck. The duck is alone. ONE duck swims in the pond. The duck says QUACK! Count with me. ONE duck. Hold up ONE finger. Look around. Can you find ONE toy? Can you find ONE book? ONE is a special number. ONE means just me. ONE means all by myself. When you are alone, you are ONE person. When you have ONE cookie, it is just for you. ONE duck swims happily in the water. She is happy to be ONE special duck.",
+        "learning_objectives": [
+          "Recognize the number 1",
+          "Understand 'one' means single/alone",
+          "Count to 1 with fingers"
+        ],
+        "vocabulary_words": [
+          {"word": "one", "definition": "The number 1, means just one thing"},
+          {"word": "alone", "definition": "By yourself, no others"},
+          {"word": "single", "definition": "Just one, not more"},
+          {"word": "count", "definition": "Say numbers in order"}
+        ],
+        "materials_needed": [
+          "One finger to hold up",
+          "One toy duck (if available)",
+          "Various single objects around house"
+        ],
+        "parent_guidance": "Hold up one finger clearly when saying 'one'. Point to single objects around the room. Help child find one item of different things. Practice saying 'one' together.",
+        "safety_notes": [
+          "Use large, safe objects for counting",
+          "Ensure no small parts that could be choking hazards",
+          "Supervise when looking for objects"
+        ],
+        "discussion_questions": [
+          "How many ducks do you see?",
+          "Can you show me one finger?",
+          "What is one toy you can find?"
+        ],
+        "extension_activities": [
+          {
+            "title": "One Object Hunt",
+            "description": "Find one book, one cup, one spoon around the house.",
+            "materials": ["Various household objects"]
+          },
+          {
+            "title": "One Duck Dance",
+            "description": "Waddle around like one duck saying 'quack quack'.",
+            "materials": ["None needed"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "Two Best Friends",
+      "title_ar": "صديقان مقربان",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 7,
+      "content_data": {
+        "title": "Two Puppies Play Together",
+        "content": "Look! Here are TWO puppies. One puppy is brown. One puppy is white. TWO puppies together! The brown puppy says WOOF! The white puppy says WOOF! TWO woofs! Count with me. ONE puppy, TWO puppies. Hold up TWO fingers. TWO means together. TWO means a pair. You have TWO eyes. You have TWO hands. You have TWO feet. TWO puppies like to play together. They run and jump. TWO is more than one. TWO friends are better than one!",
+        "learning_objectives": [
+          "Recognize the number 2",
+          "Understand 'two' means a pair",
+          "Count to 2 with fingers"
+        ],
+        "vocabulary_words": [
+          {"word": "two", "definition": "The number 2, means two things"},
+          {"word": "pair", "definition": "Two things that go together"},
+          {"word": "together", "definition": "With each other, not alone"},
+          {"word": "more", "definition": "A bigger number than before"}
+        ],
+        "materials_needed": [
+          "Two fingers to hold up",
+          "Two toy animals (if available)",
+          "Pairs of objects (two cups, two spoons)"
+        ],
+        "parent_guidance": "Hold up two fingers clearly. Point to child's two eyes, two hands, two feet. Show pairs of objects around the house. Practice counting 'one, two' together.",
+        "safety_notes": [
+          "Use large, safe objects for counting",
+          "Make sure child doesn't put small objects in mouth",
+          "Supervise when exploring pairs of objects"
+        ],
+        "discussion_questions": [
+          "How many puppies do you see?",
+          "Can you show me two fingers?",
+          "What two things can you find that are the same?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Find the Pairs",
+            "description": "Look for two shoes, two socks, two toys that match.",
+            "materials": ["Household objects that come in pairs"]
+          },
+          {
+            "title": "Two Puppy Play",
+            "description": "Pretend to be two puppies playing together with a friend or parent.",
+            "materials": ["None needed"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "Three Little Bears",
+      "title_ar": "الدببة الثلاثة الصغيرة",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Three Bears Go for a Walk",
+        "content": "Look! Here are THREE little bears. Papa Bear is big. Mama Bear is medium. Baby Bear is small. THREE bears together! Count with me. ONE bear, TWO bears, THREE bears. Hold up THREE fingers. The THREE bears go for a walk. Papa Bear walks first. Mama Bear walks second. Baby Bear walks last. THREE bears see THREE flowers. THREE bears see THREE birds. THREE bears have THREE bowls at home. THREE is more than two. THREE is a fun number!",
+        "learning_objectives": [
+          "Recognize the number 3",
+          "Count to 3 with fingers",
+          "Understand 3 is more than 2"
+        ],
+        "vocabulary_words": [
+          {"word": "three", "definition": "The number 3, means three things"},
+          {"word": "big", "definition": "Large size"},
+          {"word": "medium", "definition": "Middle size, not big or small"},
+          {"word": "small", "definition": "Little size"},
+          {"word": "first", "definition": "Number one in line"},
+          {"word": "second", "definition": "Number two in line"},
+          {"word": "last", "definition": "The final one"}
+        ],
+        "materials_needed": [
+          "Three fingers to hold up",
+          "Three teddy bears or toys (if available)",
+          "Three of same objects (three blocks, three cups)"
+        ],
+        "parent_guidance": "Hold up three fingers one at a time while counting. Show groups of three objects. Practice size concepts with big, medium, small objects. Count three things around the house.",
+        "safety_notes": [
+          "Use large toys appropriate for age",
+          "Ensure three objects are safe to handle",
+          "Supervise when sorting by size"
+        ],
+        "discussion_questions": [
+          "How many bears are there?",
+          "Which bear is the biggest?",
+          "Can you find three toys?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Three Size Sort",
+            "description": "Sort objects into big, medium, and small groups.",
+            "materials": ["Various sized safe objects"]
+          },
+          {
+            "title": "Three Bear Walk",
+            "description": "Walk around like three bears - big steps, medium steps, small steps.",
+            "materials": ["None needed"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "Four Happy Frogs",
+      "title_ar": "أربعة ضفادع سعيدة",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Four Frogs Jump and Count",
+        "content": "Let's count FOUR green frogs! FOUR frogs sit by the pond. Count with me. ONE frog, TWO frogs, THREE frogs, FOUR frogs! Hold up FOUR fingers. Now let's be frogs! Jump like a frog. Hop one time. Hop two times. Hop three times. Hop four times! FOUR is a big number. FOUR is more than three. You have FOUR legs on a chair. You have FOUR wheels on a car. Let's count FOUR hops together! Ready? One hop! Two hops! Three hops! Four hops! Great job counting to FOUR!",
+        "learning_objectives": [
+          "Recognize the number 4",
+          "Count to 4 with movement",
+          "Practice counting to 4 with objects"
+        ],
+        "vocabulary_words": [
+          {"word": "four", "definition": "The number 4, means four things"},
+          {"word": "hop", "definition": "Jump like a frog"},
+          {"word": "legs", "definition": "Parts that help you walk"},
+          {"word": "wheels", "definition": "Round things that help cars move"}
+        ],
+        "materials_needed": [
+          "Open space for hopping",
+          "Four green objects (blocks, toys)",
+          "Chair to show four legs"
+        ],
+        "parent_guidance": "Demonstrate hopping safely. Count out loud with each hop. Show four fingers clearly. Help child count four objects around the house. Keep activity short and fun.",
+        "safety_notes": [
+          "Ensure safe, clear space for hopping",
+          "Hold child's hand if needed for balance",
+          "Use soft surface for jumping",
+          "Take breaks if child gets tired"
+        ],
+        "discussion_questions": [
+          "How many times did we hop?",
+          "Can you show me four fingers?",
+          "What has four legs like a chair?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Four Object Collection",
+            "description": "Collect four blocks, four toys, four books.",
+            "materials": ["Various sets of four objects"]
+          },
+          {
+            "title": "Four Corner Touch",
+            "description": "Touch four corners of a table or four walls of a room.",
+            "materials": ["Table or room corners"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "Five Busy Bees",
+      "title_ar": "خمسة نحلات مشغولة",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Five Bees Visit Five Flowers",
+        "content": "Look! Here are FIVE busy bees. Buzz buzz buzz! FIVE yellow bees fly around. Count with me. ONE bee, TWO bees, THREE bees, FOUR bees, FIVE bees! Hold up FIVE fingers. That's your whole hand! The FIVE bees visit FIVE pretty flowers. Each bee finds one flower. FIVE bees work hard. They make honey. FIVE is a big number. FIVE is more than four. You have FIVE fingers on each hand. You have FIVE toes on each foot. FIVE bees fly home happy. Buzz buzz buzz!",
+        "learning_objectives": [
+          "Recognize the number 5",
+          "Count to 5 with fingers",
+          "Understand 5 equals one full hand"
+        ],
+        "vocabulary_words": [
+          {"word": "five", "definition": "The number 5, means five things"},
+          {"word": "busy", "definition": "Working hard, doing many things"},
+          {"word": "buzz", "definition": "Sound bees make when flying"},
+          {"word": "honey", "definition": "Sweet food that bees make"},
+          {"word": "fingers", "definition": "Five parts on each hand"},
+          {"word": "toes", "definition": "Five parts on each foot"}
+        ],
+        "materials_needed": [
+          "Both hands to show five fingers",
+          "Five yellow objects (flowers, toys)",
+          "Picture of bees (if available)"
+        ],
+        "parent_guidance": "Show five fingers on one hand clearly. Count child's five fingers and five toes. Make buzzing sounds together. Help child count five objects. Emphasize that five is one whole hand.",
+        "safety_notes": [
+          "Use safe objects for counting",
+          "Keep bee pictures or toys, no real bees",
+          "Count fingers and toes gently",
+          "Ensure buzzing sounds are not too loud"
+        ],
+        "discussion_questions": [
+          "How many bees do you see?",
+          "How many fingers on one hand?",
+          "What sound do bees make?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Five Finger Counting",
+            "description": "Count five fingers, five toes, five toys.",
+            "materials": ["Child's hands and feet, five toys"]
+          },
+          {
+            "title": "Buzzing Bee Dance",
+            "description": "Fly around like five bees making buzzing sounds.",
+            "materials": ["None needed"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "Number Hunt Game",
+      "title_ar": "لعبة البحث عن الأرقام",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 10,
+      "content_data": {
+        "title": "Finding Numbers All Around Us",
+        "content": "Let's go on a number hunt! We will find numbers 1, 2, 3, 4, and 5 around our house. First, find ONE apple. Next, find TWO shoes. Then, find THREE spoons. Now, find FOUR books. Last, find FIVE toys. Great job! Numbers are everywhere. Count each group out loud. ONE apple for a snack. TWO shoes for your feet. THREE spoons for eating. FOUR books for reading. FIVE toys for playing. You are a great number hunter!",
+        "learning_objectives": [
+          "Practice counting 1-5 with real objects",
+          "Find numbers in everyday life",
+          "Review all numbers learned"
+        ],
+        "vocabulary_words": [
+          {"word": "hunt", "definition": "Look for and find things"},
+          {"word": "everywhere", "definition": "In many places around us"},
+          {"word": "group", "definition": "Things that are together"}
+        ],
+        "materials_needed": [
+          "Various household objects",
+          "One apple or fruit",
+          "Two shoes",
+          "Three spoons",
+          "Four books",
+          "Five toys"
+        ],
+        "parent_guidance": "Help child find objects safely. Count each group together. Celebrate each successful find. Make it fun like a treasure hunt. Let child touch and arrange objects while counting.",
+        "safety_notes": [
+          "Choose safe, large objects for young children",
+          "Supervise when handling kitchen items like spoons",
+          "Ensure books are appropriate size",
+          "Keep small objects away from toddlers"
+        ],
+        "discussion_questions": [
+          "Which number is the biggest?",
+          "Which group has the most things?",
+          "What number comes after 3?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Make Number Groups",
+            "description": "Arrange found objects in neat rows to see the numbers clearly.",
+            "materials": ["Objects found during hunt"]
+          },
+          {
+            "title": "Number Story Tell",
+            "description": "Tell a story using the objects found (one apple, two shoes, etc.).",
+            "materials": ["Objects from hunt"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "Counting Quiz Fun",
+      "title_ar": "اختبار العد الممتع",
+      "lesson_type": "quiz",
+      "estimated_duration_minutes": 5,
+      "content_data": {
+        "title": "How Well Do You Know Numbers 1-5?",
+        "content": "Let's play a fun counting game! I will ask you about numbers. You can use your fingers to help you count!",
+        "learning_objectives": [
+          "Review numbers 1-5",
+          "Practice counting skills",
+          "Build confidence with numbers"
+        ],
+        "vocabulary_words": [
+          {"word": "quiz", "definition": "Fun question game"},
+          {"word": "count", "definition": "Say numbers in order"}
+        ],
+        "materials_needed": [
+          "Child's fingers for counting",
+          "Objects to count if needed"
+        ],
+        "parent_guidance": "Ask questions slowly and encouragingly. Let child use fingers to count. Celebrate every answer. Help with counting if needed. Keep it positive and fun.",
+        "safety_notes": [
+          "No safety concerns",
+          "Keep session positive and encouraging"
+        ],
+        "discussion_questions": [
+          "Show me one finger. How many is that?",
+          "If you have two cookies and eat one, how many do you have left?",
+          "Count to three with me. Can you do it alone?",
+          "How many wheels does a car have?",
+          "Show me all five fingers on one hand. Count them!"
+        ],
+        "extension_activities": [
+          {
+            "title": "Number Song",
+            "description": "Sing a counting song: 'One, two, three, four, five, numbers help us stay alive!'",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Finger Number Show",
+            "description": "Hold up fingers for each number while saying it out loud.",
+            "materials": ["Child's hands"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "Number Parade Celebration",
+      "title_ar": "احتفال موكب الأرقام",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 10,
+      "content_data": {
+        "title": "Celebrating All Our Numbers 1-5",
+        "content": "Let's have a number parade! We will march and count together. First, march and say ONE! Hold up one finger. Next, march and say TWO! Hold up two fingers. Then, march and say THREE! Hold up three fingers. Now, march and say FOUR! Hold up four fingers. Finally, march and say FIVE! Hold up five fingers - your whole hand! You did it! You know all the numbers from 1 to 5. You are a number champion! Let's count together one more time: ONE, TWO, THREE, FOUR, FIVE!",
+        "learning_objectives": [
+          "Review all numbers 1-5",
+          "Practice counting in sequence",
+          "Celebrate learning achievement"
+        ],
+        "vocabulary_words": [
+          {"word": "parade", "definition": "Fun marching celebration"},
+          {"word": "march", "definition": "Walk with big steps"},
+          {"word": "champion", "definition": "Someone who is very good at something"},
+          {"word": "sequence", "definition": "Numbers in the right order"}
+        ],
+        "materials_needed": [
+          "Open space for marching",
+          "Child's hands for finger counting",
+          "Optional: music for marching"
+        ],
+        "parent_guidance": "March alongside child enthusiastically. Count loudly and clearly together. Celebrate each number with excitement. Make it feel like a real celebration of learning.",
+        "safety_notes": [
+          "Ensure clear, safe space for marching",
+          "Keep marching pace appropriate for child",
+          "Take breaks if child gets tired",
+          "Keep music volume safe for ears"
+        ],
+        "discussion_questions": [
+          "What's your favorite number from 1 to 5?",
+          "Which number is the biggest?",
+          "Can you count from 1 to 5 all by yourself?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Number Certificate",
+            "description": "Draw a special certificate showing child knows numbers 1-5.",
+            "materials": ["Paper", "Crayons", "Stickers"]
+          },
+          {
+            "title": "Teach Someone Else",
+            "description": "Child can teach numbers 1-5 to a sibling, toy, or family member.",
+            "materials": ["Willing audience or stuffed animal"]
+          }
+        ]
+      }
+    }
+  ]
+}

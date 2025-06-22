@@ -1,0 +1,441 @@
+{
+  "course": {
+    "title_en": "My Body Parts",
+    "title_ar": "أجزاء جسمي",
+    "description_en": "Discover your amazing body and learn about all its special parts. Find out what each part does to help you every day.",
+    "description_ar": "اكتشف جسمك المذهل وتعلم عن جميع أجزائه الخاصة. اكتشف ما يفعله كل جزء لمساعدتك كل يوم.",
+    "age_group_min": 2,
+    "age_group_max": 4,
+    "estimated_duration_minutes": 54,
+    "subject": "science"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "My Head is Special",
+      "title_ar": "رأسي مميز",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "All About My Head",
+        "content": "Look in the mirror! Do you see your head? Your head is at the top. Your head is very important. Your head holds your brain. Your brain helps you think. Your brain helps you remember. On your head, you have hair. Hair can be long or short. Hair can be curly or straight. Hair keeps your head warm. Touch your head gently. Feel your hair. Your head is round like a ball. Your head moves up and down. Your head moves left and right. Your head is amazing! Take care of your special head.",
+        "learning_objectives": [
+          "Identify the head on their body",
+          "Understand the head contains the brain",
+          "Learn about hair and its purpose"
+        ],
+        "vocabulary_words": [
+          {"word": "head", "definition": "Top part of your body that holds your brain"},
+          {"word": "brain", "definition": "Special part inside your head that helps you think"},
+          {"word": "hair", "definition": "Soft strands that grow on your head"},
+          {"word": "think", "definition": "Use your brain to learn and remember"},
+          {"word": "remember", "definition": "Keep things in your brain to think about later"}
+        ],
+        "materials_needed": [
+          "Mirror (large enough for child to see head)",
+          "Gentle brush or comb",
+          "Hat (optional)"
+        ],
+        "parent_guidance": "Let child look in mirror and touch their own head gently. Show them their hair and talk about its texture. Demonstrate head movements safely. Explain that the brain is inside and helps them think.",
+        "safety_notes": [
+          "Always be gentle when touching head",
+          "Use safe, unbreakable mirror",
+          "No rough movements with head",
+          "Supervise hair touching activities"
+        ],
+        "discussion_questions": [
+          "What is inside your head?",
+          "What does your hair feel like?",
+          "Can you move your head up and down?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Head Movement Dance",
+            "description": "Gently move head up, down, left, right to music.",
+            "materials": ["Soft music"]
+          },
+          {
+            "title": "Hair Texture Exploration",
+            "description": "Feel different textures and compare to hair (soft brush, cotton).",
+            "materials": ["Soft brush", "Cotton ball", "Soft fabric"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "My Eyes Can See",
+      "title_ar": "عيناي ترى",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 7,
+      "content_data": {
+        "title": "Amazing Eyes That Help Me See",
+        "content": "Look at your eyes! You have TWO eyes. Your eyes help you see. Your eyes help you see colors. Red, blue, yellow, green! Your eyes help you see shapes. Circle, square, triangle! Your eyes help you see big things. Your eyes help you see small things. Blink your eyes. Close your eyes. Open your eyes. When you close your eyes, you cannot see. When you open your eyes, you can see everything! Your eyes are amazing tools. Let's play with our eyes!",
+        "learning_objectives": [
+          "Identify their two eyes",
+          "Understand eyes help us see",
+          "Practice blinking and eye movements"
+        ],
+        "vocabulary_words": [
+          {"word": "eyes", "definition": "Two special parts that help you see everything"},
+          {"word": "see", "definition": "Look at things with your eyes"},
+          {"word": "blink", "definition": "Close and open your eyes quickly"},
+          {"word": "colors", "definition": "Red, blue, yellow, green and more"},
+          {"word": "shapes", "definition": "Circle, square, triangle forms"}
+        ],
+        "materials_needed": [
+          "Colorful objects (safe toys, blocks)",
+          "Different shaped objects",
+          "Mirror",
+          "Soft cloth for gentle eye area"
+        ],
+        "parent_guidance": "Show child their eyes in mirror. Point out colors and shapes around room. Practice gentle blinking together. Never touch eyes directly. Demonstrate looking at near and far objects.",
+        "safety_notes": [
+          "Never touch eyes directly",
+          "Keep objects away from eye area",
+          "Use only soft materials near face",
+          "No bright lights directly in eyes"
+        ],
+        "discussion_questions": [
+          "How many eyes do you have?",
+          "What color is this toy?",
+          "What happens when you close your eyes?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Color Hunt",
+            "description": "Use eyes to find different colored objects around the room.",
+            "materials": ["Various colored safe objects"]
+          },
+          {
+            "title": "Big and Small Game",
+            "description": "Look for big objects and small objects with your eyes.",
+            "materials": ["Objects of different sizes"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "My Nose Can Smell",
+      "title_ar": "أنفي يشم",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 7,
+      "content_data": {
+        "title": "My Special Nose",
+        "content": "Touch your nose gently. Everyone has ONE nose. Your nose is in the middle of your face. Your nose helps you smell. Your nose helps you breathe. Breathe in through your nose. Breathe out through your nose. Your nose can smell flowers. Your nose can smell food cooking. Your nose can smell soap when you wash hands. Some smells are nice. Some smells tell us to be careful. Your nose has two holes. Air goes in and out. Your nose is always working to help you. Thank you, nose!",
+        "learning_objectives": [
+          "Identify their nose and its location",
+          "Understand nose helps smell and breathe",
+          "Practice breathing through nose"
+        ],
+        "vocabulary_words": [
+          {"word": "nose", "definition": "Part in middle of face that smells and breathes"},
+          {"word": "smell", "definition": "Use your nose to know how things are"},
+          {"word": "breathe", "definition": "Take air in and out through your nose"},
+          {"word": "flowers", "definition": "Pretty plants that smell nice"},
+          {"word": "middle", "definition": "Right in the center"}
+        ],
+        "materials_needed": [
+          "Safe items with pleasant scents (soap, flowers, vanilla)",
+          "Mirror",
+          "Clean tissues"
+        ],
+        "parent_guidance": "Let child touch their nose gently. Practice slow, calm breathing together. Show safe items to smell from distance. Never put anything directly in nose. Demonstrate breathing in and out.",
+        "safety_notes": [
+          "Nothing goes inside the nose",
+          "Keep scented items at safe distance",
+          "Use only mild, pleasant scents",
+          "Supervise all smelling activities"
+        ],
+        "discussion_questions": [
+          "Where is your nose?",
+          "What can your nose do?",
+          "What smells do you like?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Breathing Exercise",
+            "description": "Practice slow breathing in and out through nose.",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Safe Smell Test",
+            "description": "Smell pleasant items like soap or flowers from safe distance.",
+            "materials": ["Soap", "Fresh flowers", "Vanilla extract on cotton"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "My Mouth and Teeth",
+      "title_ar": "فمي وأسناني",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "My Mouth Does Many Things",
+        "content": "Open your mouth wide! Your mouth is amazing. Your mouth helps you eat food. Your mouth helps you drink water. Your mouth helps you talk. Your mouth helps you sing songs. Inside your mouth are your teeth. Teeth help you chew food. Teeth help you bite apples. Show your teeth in a big smile! Your tongue is inside your mouth too. Your tongue helps you taste food. Sweet, salty, yummy! Let's practice with our mouth. Say 'Hello!' Sing 'La la la!' Smile big! Your mouth is wonderful!",
+        "learning_objectives": [
+          "Identify mouth and its functions",
+          "Learn about teeth and tongue",
+          "Practice mouth movements and sounds"
+        ],
+        "vocabulary_words": [
+          {"word": "mouth", "definition": "Opening in your face for eating and talking"},
+          {"word": "teeth", "definition": "White, hard parts that help you chew"},
+          {"word": "tongue", "definition": "Soft part inside mouth that tastes"},
+          {"word": "chew", "definition": "Use teeth to break up food"},
+          {"word": "taste", "definition": "Use tongue to know how food is"},
+          {"word": "smile", "definition": "Happy look with your mouth"}
+        ],
+        "materials_needed": [
+          "Mirror",
+          "Soft toothbrush (for demonstration)",
+          "Pictures of healthy foods"
+        ],
+        "parent_guidance": "Show child their mouth in mirror. Demonstrate gentle teeth brushing motions. Practice making different sounds and expressions. Talk about healthy foods for teeth. Keep activities fun and positive.",
+        "safety_notes": [
+          "No objects go deep in mouth",
+          "Use soft-bristled toothbrush only for demonstration",
+          "Supervise all mouth activities",
+          "No small objects near mouth"
+        ],
+        "discussion_questions": [
+          "What does your mouth help you do?",
+          "How many teeth can you see?",
+          "What does your tongue help with?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Happy Mouth Sounds",
+            "description": "Make different sounds: singing, laughing, saying words.",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Healthy Food for Teeth",
+            "description": "Look at pictures of foods that are good for teeth.",
+            "materials": ["Pictures of fruits, vegetables, milk"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "My Hands Can Do So Much",
+      "title_ar": "يداي تفعلان الكثير",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 9,
+      "content_data": {
+        "title": "Amazing Hands and Fingers",
+        "content": "Look at your hands! You have TWO hands. Each hand has FIVE fingers. Count them: one, two, three, four, five! Your hands can do many things. Your hands can clap. Clap clap clap! Your hands can wave hello. Wave hello! Your hands can pick up toys. Your hands can hug teddy bears. Your hands can help you eat. Your hands can help you play. Your fingers can point to things. Point to your nose! Your hands are helpers. Let's play with our hands!",
+        "learning_objectives": [
+          "Identify hands and count five fingers",
+          "Learn what hands can do",
+          "Practice hand movements and gestures"
+        ],
+        "vocabulary_words": [
+          {"word": "hands", "definition": "Two parts at end of arms with five fingers each"},
+          {"word": "fingers", "definition": "Five long parts on each hand"},
+          {"word": "clap", "definition": "Hit hands together to make sound"},
+          {"word": "wave", "definition": "Move hand back and forth to say hello"},
+          {"word": "point", "definition": "Use finger to show something"},
+          {"word": "pick up", "definition": "Use hands to lift things"}
+        ],
+        "materials_needed": [
+          "Safe toys to pick up",
+          "Soft teddy bear or stuffed animal",
+          "Different textured safe objects",
+          "Large pieces of paper and crayons"
+        ],
+        "parent_guidance": "Count fingers together on both hands. Practice different hand movements. Let child touch different safe textures. Demonstrate gentle hand movements. Celebrate what hands can do.",
+        "safety_notes": [
+          "Use only safe, large objects for handling",
+          "No sharp edges or small parts",
+          "Wash hands before and after activities",
+          "Gentle movements only"
+        ],
+        "discussion_questions": [
+          "How many fingers on one hand?",
+          "What can your hands do?",
+          "Can you clap your hands?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Hand Print Art",
+            "description": "Make hand prints on paper with safe paint or ink pad.",
+            "materials": ["Large paper", "Washable paint", "Wet wipes"]
+          },
+          {
+            "title": "Texture Touch Game",
+            "description": "Touch different safe textures with hands (soft, bumpy, smooth).",
+            "materials": ["Various textured safe objects"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "My Feet Help Me Move",
+      "title_ar": "قدماي تساعدانني على الحركة",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Wonderful Feet and Toes",
+        "content": "Look down at your feet! You have TWO feet. Each foot has FIVE toes. Count them: one, two, three, four, five! Your feet help you walk. Step step step! Your feet help you run. Your feet help you jump. Jump jump jump! Your feet help you dance. Dance dance dance! Your toes help you balance. Stand on your toes! Your feet take you everywhere. To the kitchen, to your bed, to play outside! Let's move with our feet!",
+        "learning_objectives": [
+          "Identify feet and count five toes",
+          "Learn what feet help us do",
+          "Practice different foot movements"
+        ],
+        "vocabulary_words": [
+          {"word": "feet", "definition": "Two parts at end of legs that help you walk"},
+          {"word": "toes", "definition": "Five small parts on each foot"},
+          {"word": "walk", "definition": "Move step by step with your feet"},
+          {"word": "run", "definition": "Move fast with your feet"},
+          {"word": "jump", "definition": "Push up with feet and land down"},
+          {"word": "dance", "definition": "Move feet to music"},
+          {"word": "balance", "definition": "Stand steady without falling"}
+        ],
+        "materials_needed": [
+          "Safe, clear space for movement",
+          "Soft music for dancing",
+          "Non-slip socks or bare feet",
+          "Soft mat or carpet"
+        ],
+        "parent_guidance": "Count toes together on both feet. Practice movements in safe space. Hold child's hand for balance if needed. Keep movements gentle and fun. Ensure safe surface for activities.",
+        "safety_notes": [
+          "Use safe, non-slip surface",
+          "Clear area of obstacles",
+          "Hold child's hand for balance activities",
+          "Start with gentle movements",
+          "No jumping on hard surfaces"
+        ],
+        "discussion_questions": [
+          "How many toes on each foot?",
+          "What do your feet help you do?",
+          "Can you walk on your toes?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Toe Wiggle Game",
+            "description": "Wiggle toes one at a time, then all together.",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Foot Movement Dance",
+            "description": "Dance using different foot movements: stepping, marching, tiptoeing.",
+            "materials": ["Soft music"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "Body Parts Quiz",
+      "title_ar": "اختبار أجزاء الجسم",
+      "lesson_type": "quiz",
+      "estimated_duration_minutes": 6,
+      "content_data": {
+        "title": "Can You Find Your Body Parts?",
+        "content": "Let's play a fun body parts game! I will ask you to find different parts of your body. Use your hands to gently touch each part when I say it!",
+        "learning_objectives": [
+          "Review all body parts learned",
+          "Practice identifying body parts quickly",
+          "Build confidence with body awareness"
+        ],
+        "vocabulary_words": [
+          {"word": "find", "definition": "Look for and point to something"},
+          {"word": "touch", "definition": "Gently put your hand on something"}
+        ],
+        "materials_needed": [
+          "Mirror (optional)",
+          "This quiz list"
+        ],
+        "parent_guidance": "Give child time to find each body part. Demonstrate if needed. Make it fun and encouraging. Celebrate each correct answer. Help guide their hands gently if needed.",
+        "safety_notes": [
+          "Always touch gently",
+          "No poking or pressing hard",
+          "Keep activities positive",
+          "Stop if child gets tired"
+        ],
+        "discussion_questions": [
+          "Can you touch your head?",
+          "Where are your two eyes?",
+          "Show me your nose in the middle of your face.",
+          "Open your mouth and show your teeth.",
+          "Clap your hands together!",
+          "Wiggle all five fingers on one hand.",
+          "Stomp your feet on the ground.",
+          "Point to your toes."
+        ],
+        "extension_activities": [
+          {
+            "title": "Simon Says Body Parts",
+            "description": "Play 'Simon says touch your nose' with different body parts.",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Body Parts Song",
+            "description": "Sing a song naming each body part while touching it.",
+            "materials": ["None needed"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "My Amazing Body Celebration",
+      "title_ar": "احتفال جسمي المذهل",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 11,
+      "content_data": {
+        "title": "Celebrating My Wonderful Body",
+        "content": "Your body is amazing! Let's celebrate all the wonderful things your body can do. Your head thinks great thoughts. Your eyes see beautiful colors. Your nose smells lovely flowers. Your mouth says kind words and smiles. Your hands give warm hugs. Your feet take you on adventures. Let's do a body celebration dance! Touch your head and think happy thoughts. Blink your eyes and see something pretty. Breathe through your nose. Smile with your mouth. Clap your hands with joy. Dance with your feet! You have a wonderful, amazing body that helps you every single day!",
+        "learning_objectives": [
+          "Review all body parts and their functions",
+          "Celebrate body awareness and self-appreciation",
+          "Practice coordinated body movements"
+        ],
+        "vocabulary_words": [
+          {"word": "amazing", "definition": "Very special and wonderful"},
+          {"word": "celebrate", "definition": "Be happy about something special"},
+          {"word": "wonderful", "definition": "Really great and fantastic"},
+          {"word": "adventure", "definition": "Fun journey to explore"},
+          {"word": "joy", "definition": "Very happy feeling"}
+        ],
+        "materials_needed": [
+          "Happy music",
+          "Mirror for full body view",
+          "Colorful scarves or ribbons (optional)",
+          "Space for movement"
+        ],
+        "parent_guidance": "Join in the celebration enthusiastically! Move through each body part together. Make it feel special and positive. Celebrate child's body awareness. Take photos if desired to remember this learning milestone.",
+        "safety_notes": [
+          "Ensure safe space for movement",
+          "Keep music at appropriate volume",
+          "Use gentle movements throughout",
+          "Take breaks if child gets tired",
+          "Keep atmosphere positive and fun"
+        ],
+        "discussion_questions": [
+          "What is your favorite thing your body can do?",
+          "Which body part helps you see?",
+          "How does your body help you every day?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Body Parts Drawing",
+            "description": "Draw a simple picture of themselves showing head, eyes, nose, mouth, hands, feet.",
+            "materials": ["Large paper", "Crayons", "Stickers"]
+          },
+          {
+            "title": "Thank You Body",
+            "description": "Say 'thank you' to each body part for helping them.",
+            "materials": ["None needed"]
+          }
+        ]
+      }
+    }
+  ]
+}
