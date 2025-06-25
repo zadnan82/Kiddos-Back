@@ -1,0 +1,672 @@
+{
+  "course": {
+    "title_en": "Reading Ready",
+    "title_ar": "جاهز للقراءة",
+    "description_en": "Build essential reading skills through systematic phonics instruction, sight word recognition, and comprehension activities. Students will learn to decode simple words, read basic sentences, and understand what they read. This foundational course prepares children for independent reading success through engaging stories, hands-on activities, and progressive skill building.",
+    "description_ar": "بناء مهارات القراءة الأساسية من خلال تعليم الصوتيات المنهجي والتعرف على الكلمات المرئية وأنشطة الفهم. سيتعلم الطلاب فك رموز الكلمات البسيطة وقراءة الجمل الأساسية وفهم ما يقرؤونه. تعد هذه الدورة التأسيسية الأطفال لنجاح القراءة المستقلة من خلال القصص الجذابة والأنشطة العملية وبناء المهارات التدريجي.",
+    "age_group_min": 5,
+    "age_group_max": 7,
+    "estimated_duration_minutes": 120,
+    "subject": "language_arts"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "Letters Make Sounds",
+      "title_ar": "الحروف تصدر أصواتاً",
+      "lesson_type": "phonics_practice",
+      "estimated_duration_minutes": 12,
+      "content_data": {
+        "title": "Connecting Letters to Their Sounds",
+        "content": "Every letter has a special sound! When we see a letter, we can say its sound. This helps us read words. Let's practice with some letters you know. The letter 'A' says /a/ like in 'apple' and 'ant.' The letter 'B' says /b/ like in 'ball' and 'bat.' The letter 'C' says /k/ like in 'cat' and 'cup.' When we put letters together, their sounds blend to make words. Let's try: C-A-T. Say each sound slowly: /k/ /a/ /t/. Now say them faster: cat! You just read a word by blending letter sounds. This is called phonics, and it's the key to reading any word.",
+        "learning_objectives": [
+          "Associate letters with their corresponding sounds",
+          "Practice blending individual letter sounds into words",
+          "Understand that letters combine to form meaningful words",
+          "Develop phonemic awareness through sound manipulation"
+        ],
+        "vocabulary_words": [
+          {"word": "phonics", "definition": "The way letters and sounds work together to make words"},
+          {"word": "blend", "definition": "Put sounds together smoothly to make a word"},
+          {"word": "sound", "definition": "The noise a letter makes when you say it"},
+          {"word": "decode", "definition": "Figure out what a word says by using letter sounds"}
+        ],
+        "materials_needed": [
+          "Alphabet cards or written letters",
+          "Paper and pencil",
+          "Objects that start with target letters",
+          "Mirror for watching mouth movements"
+        ],
+        "parent_guidance": "Help child feel their mouth and throat as they make different sounds. Emphasize that every letter has a job - to make a sound. Practice blending slowly at first, then gradually speed up. Celebrate when child successfully blends a word.",
+        "safety_notes": [
+          "Use large, clear letter cards appropriate for age",
+          "Ensure pencils have erasers and are not too sharp",
+          "Keep small objects away from mouth during sound practice",
+          "Maintain good posture during reading activities"
+        ],
+        "reading_practice_suggestions": [
+          "Practice letter sounds: A, B, C, D, E, F, G, H, I, J",
+          "Blend simple CVC words: cat, bat, hat, sit, pit, hit",
+          "Read letter combinations: at, it, an, in",
+          "Identify beginning sounds in familiar words"
+        ],
+        "assessment_components": [
+          "Can child produce correct sound for each letter?",
+          "Can child blend three sounds to make a word?",
+          "Does child understand that letters represent sounds?",
+          "Can child identify beginning sounds in words?"
+        ],
+        "discussion_questions": [
+          "What sound does the letter B make?",
+          "Can you blend these sounds: C-A-T?",
+          "What other words start with the /b/ sound?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Sound Hunt",
+            "description": "Find objects around house that start with specific letter sounds.",
+            "materials": ["Target letters", "Collection basket", "House objects"]
+          },
+          {
+            "title": "Letter Sound Journal",
+            "description": "Draw pictures of words that start with each letter sound learned.",
+            "materials": ["Notebook", "Crayons", "Letter cards for reference"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "Word Families Are Friends",
+      "title_ar": "عائلات الكلمات أصدقاء",
+      "lesson_type": "phonics_practice",
+      "estimated_duration_minutes": 13,
+      "content_data": {
+        "title": "Learning Word Patterns and Families",
+        "content": "Some words are like family members - they look alike and sound alike! Word families share the same ending sounds and letters. Let's explore the '-at' family: cat, bat, hat, mat, rat, sat. Notice how they all end the same way? Just change the first letter and you get a new word! The '-an' family includes: can, man, pan, ran, tan, van. The '-it' family has: bit, fit, hit, kit, pit, sit. When you know one word in a family, you can read all the others! This makes reading much easier because patterns repeat in many words.",
+        "learning_objectives": [
+          "Recognize common word family patterns (-at, -an, -it, -og, -ug)",
+          "Generate new words by changing initial consonants",
+          "Understand that word families share spelling and sound patterns",
+          "Build reading fluency through pattern recognition"
+        ],
+        "vocabulary_words": [
+          {"word": "word family", "definition": "Words that end with the same letters and sounds"},
+          {"word": "pattern", "definition": "Something that repeats in the same way"},
+          {"word": "rhyme", "definition": "Words that sound the same at the end"},
+          {"word": "consonant", "definition": "Letters that are not vowels (A, E, I, O, U)"}
+        ],
+        "materials_needed": [
+          "Word family cards",
+          "Magnetic letters or letter tiles",
+          "Whiteboard or large paper",
+          "Word family worksheets"
+        ],
+        "parent_guidance": "Start with one word family and help child see the pattern. Use magnetic letters to build words by changing just the first letter. Read the word family words in a rhythmic, chant-like way to emphasize the rhyming pattern.",
+        "safety_notes": [
+          "Ensure magnetic letters are large enough to handle safely",
+          "Use washable markers on whiteboard",
+          "Keep workspace organized to prevent tripping",
+          "Supervise use of small letter manipulatives"
+        ],
+        "reading_practice_suggestions": [
+          "Read -at family: cat, bat, hat, mat, rat, sat, fat, pat",
+          "Read -an family: can, man, pan, ran, tan, van, fan",
+          "Read -it family: bit, fit, hit, kit, pit, sit, wit",
+          "Practice changing first letters to make new words"
+        ],
+        "assessment_components": [
+          "Can child read at least 4 words from each word family?",
+          "Can child create new words by changing the first letter?",
+          "Does child recognize the pattern in word families?",
+          "Can child predict what a new word family word might be?"
+        ],
+        "discussion_questions": [
+          "What do all the -at words have in common?",
+          "If we know 'cat,' can you make a new word by changing the 'c'?",
+          "Which words rhyme with 'sit'?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Word Family Houses",
+            "description": "Draw houses and put word family members in each house.",
+            "materials": ["Paper", "Crayons", "Word cards", "Glue stick"]
+          },
+          {
+            "title": "Rhyming Memory Game",
+            "description": "Match word family words that rhyme with each other.",
+            "materials": ["Word family cards", "Table space for memory game"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "Sight Words Are Everywhere",
+      "title_ar": "الكلمات المرئية في كل مكان",
+      "lesson_type": "reading_exercise",
+      "estimated_duration_minutes": 14,
+      "content_data": {
+        "title": "Recognizing Common Words Instantly",
+        "content": "Some words appear so often in books that we need to recognize them instantly - these are sight words! Words like 'the,' 'and,' 'is,' 'you,' 'to,' 'a,' 'I,' 'it,' 'in,' and 'was' show up in almost every sentence. Some sight words follow phonics rules, but others are tricky and need to be memorized. For example, 'the' doesn't sound like t-h-e if you try to sound it out! We'll practice these important words until you can read them as quickly as you can say your name. Knowing sight words makes reading much easier and faster.",
+        "learning_objectives": [
+          "Instantly recognize the first 20 high-frequency sight words",
+          "Understand the difference between decodable and sight words",
+          "Read sight words in the context of simple sentences",
+          "Build automatic word recognition for reading fluency"
+        ],
+        "vocabulary_words": [
+          {"word": "sight words", "definition": "Common words we should recognize instantly without sounding out"},
+          {"word": "high-frequency", "definition": "Words that appear very often in books and writing"},
+          {"word": "instantly", "definition": "Right away, without having to think about it"},
+          {"word": "memorize", "definition": "Learn something so well you remember it perfectly"}
+        ],
+        "materials_needed": [
+          "Sight word flash cards",
+          "Simple books with sight words",
+          "Sight word worksheets",
+          "Timer for speed practice"
+        ],
+        "parent_guidance": "Practice sight words daily for short periods. Focus on 3-5 words at a time until child masters them, then add new ones. Use the words in sentences and point them out in books. Make it fun with games rather than drilling.",
+        "safety_notes": [
+          "Keep flash card sessions short to prevent eye strain",
+          "Use appropriate lighting for reading activities",
+          "Take breaks if child shows signs of frustration",
+          "Ensure cards are sturdy and won't cause paper cuts"
+        ],
+        "reading_practice_suggestions": [
+          "Practice sight words: the, and, is, you, to, a, I, it, in, was",
+          "Read sentences: 'I can see the cat.' 'You and I go to bed.'",
+          "Find sight words in simple books",
+          "Speed practice: How fast can you read these words?"
+        ],
+        "assessment_components": [
+          "Can child read sight words within 3 seconds each?",
+          "Does child recognize sight words in context of sentences?",
+          "Can child use sight words in their own sentences?",
+          "Has child mastered at least 15 of the 20 target words?"
+        ],
+        "discussion_questions": [
+          "Which word do you see most often in books?",
+          "Can you find the word 'the' in this sentence?",
+          "What makes sight words different from other words?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Sight Word Bingo",
+            "description": "Play bingo using sight words instead of numbers.",
+            "materials": ["Bingo cards with sight words", "Markers", "Word cards"]
+          },
+          {
+            "title": "Sight Word Scavenger Hunt",
+            "description": "Hunt for sight words in magazines, books, and signs around house.",
+            "materials": ["Old magazines", "Highlighter", "Sight word list"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "Building Bigger Words",
+      "title_ar": "بناء كلمات أكبر",
+      "lesson_type": "phonics_practice",
+      "estimated_duration_minutes": 15,
+      "content_data": {
+        "title": "From Simple to Complex Word Structures",
+        "content": "Now that you can read simple three-letter words, let's build bigger ones! We can add letters to the beginning (blends like 'st,' 'br,' 'cl') or to the end (like adding 's' or 'ing'). For example: 'cat' becomes 'cats' or 'sitting.' We can also learn about silent letters that don't make sounds, like the 'e' at the end of 'cake' and 'bike.' This silent 'e' actually changes how the vowel sounds! Compare 'cap' and 'cape,' or 'bit' and 'bite.' Learning these patterns helps you read thousands of new words!",
+        "learning_objectives": [
+          "Recognize and read consonant blends (st, br, cl, tr, etc.)",
+          "Understand the silent 'e' rule and its effect on vowel sounds",
+          "Read words with common endings (-s, -ing, -ed)",
+          "Apply knowledge of word parts to decode unfamiliar words"
+        ],
+        "vocabulary_words": [
+          {"word": "blend", "definition": "Two consonants that work together but keep their sounds"},
+          {"word": "silent letter", "definition": "A letter in a word that doesn't make any sound"},
+          {"word": "vowel", "definition": "The letters A, E, I, O, U that make the main sounds in words"},
+          {"word": "ending", "definition": "Letters added to the end of a word to change its meaning"}
+        ],
+        "materials_needed": [
+          "Letter tiles or magnetic letters",
+          "Word building worksheets",
+          "List of blend words",
+          "Silent 'e' word examples"
+        ],
+        "parent_guidance": "Build words step by step, showing how adding letters changes the word. Use manipulatives to physically show the word building process. Emphasize the magic of silent 'e' by contrasting word pairs. Practice one concept at a time.",
+        "safety_notes": [
+          "Use large letter manipulatives appropriate for age",
+          "Organize materials to prevent loss of small pieces",
+          "Ensure adequate workspace for building activities",
+          "Take breaks to prevent frustration with complex concepts"
+        ],
+        "reading_practice_suggestions": [
+          "Read blend words: stop, blue, clap, tree, frog, snow",
+          "Practice silent 'e' words: cake, bike, rope, cute, wide",
+          "Read words with endings: cats, running, jumped, cars",
+          "Compare short and long vowel words: hop/hope, bit/bite"
+        ],
+        "assessment_components": [
+          "Can child read consonant blend words accurately?",
+          "Does child understand how silent 'e' changes vowel sounds?",
+          "Can child read words with common endings?",
+          "Is child applying word building knowledge to new words?"
+        ],
+        "discussion_questions": [
+          "What happens when we add 'e' to the end of 'cap'?",
+          "How do you read the 'st' in 'stop'?",
+          "What does adding 's' do to the word 'cat'?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Word Building Race",
+            "description": "See how many real words can be built by adding letters to base words.",
+            "materials": ["Letter tiles", "Timer", "Base word cards", "Paper for recording"]
+          },
+          {
+            "title": "Silent E Detective",
+            "description": "Hunt for silent 'e' words in books and magazines.",
+            "materials": ["Books", "Magnifying glass", "Silent 'e' word list"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "Reading My First Sentences",
+      "title_ar": "قراءة جملتي الأولى",
+      "lesson_type": "reading_exercise",
+      "estimated_duration_minutes": 14,
+      "content_data": {
+        "title": "Putting Words Together to Make Meaning",
+        "content": "Now it's time to read whole sentences! A sentence is a group of words that tells us something complete. Every sentence starts with a capital letter and ends with a period. Let's start with simple sentences using words you know: 'The cat is big.' 'I can run fast.' 'You and I are friends.' When you read a sentence, think about what it's telling you. Does it make sense? Can you picture it in your mind? Good readers always think about what they're reading, not just say the words.",
+        "learning_objectives": [
+          "Read simple sentences with 4-6 words accurately",
+          "Understand that sentences convey complete thoughts",
+          "Recognize sentence structure (capital letter, period)",
+          "Demonstrate basic reading comprehension by explaining what was read"
+        ],
+        "vocabulary_words": [
+          {"word": "sentence", "definition": "A group of words that tells a complete thought"},
+          {"word": "capital letter", "definition": "A big letter that starts sentences and names"},
+          {"word": "period", "definition": "The dot that shows a sentence is finished"},
+          {"word": "comprehension", "definition": "Understanding what you read, not just saying words"}
+        ],
+        "materials_needed": [
+          "Simple sentence strips",
+          "Picture books with easy sentences",
+          "Sentence building cards",
+          "Pencil for pointing to words"
+        ],
+        "parent_guidance": "Read sentences together, pointing to each word. Ask 'What did that sentence tell us?' after reading. If child struggles with a word, help them sound it out or provide the word and keep reading. Focus on meaning, not perfection.",
+        "safety_notes": [
+          "Use books with large, clear print",
+          "Ensure good lighting for reading",
+          "Encourage good posture while reading",
+          "Take breaks if child shows eye strain or fatigue"
+        ],
+        "reading_practice_suggestions": [
+          "Read sentences: 'The dog can run.' 'I like to play.' 'We go to bed.'",
+          "Practice with picture support: Match sentences to pictures",
+          "Read predictable sentences: 'I can see a ___.'",
+          "Answer questions: 'Who can run?' 'What do you like to do?'"
+        ],
+        "assessment_components": [
+          "Can child read simple sentences smoothly?",
+          "Does child pause appropriately at periods?",
+          "Can child explain what a sentence was about?",
+          "Is child using picture clues to support reading?"
+        ],
+        "discussion_questions": [
+          "What did this sentence tell you?",
+          "How do you know where the sentence ends?",
+          "Can you read this sentence and tell me what it means?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Sentence Scramble",
+            "description": "Put word cards in order to make complete sentences.",
+            "materials": ["Word cards", "Sentence examples", "Table space"]
+          },
+          {
+            "title": "Picture Story Reading",
+            "description": "Read simple sentences that go with picture sequences.",
+            "materials": ["Picture books", "Simple sentence books", "Comfortable reading spot"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "Stories Have Beginning, Middle, End",
+      "title_ar": "القصص لها بداية ووسط ونهاية",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 15,
+      "content_data": {
+        "title": "Understanding How Stories Work",
+        "content": "Every story has three important parts: beginning, middle, and end. The beginning tells us who the story is about and where it happens. The middle tells us what happens - this is usually the exciting part! The end tells us how everything turns out. Let's read a simple story together: 'Tom the cat was hungry. He looked for food everywhere. He found a bowl of milk and was happy.' Can you find the beginning? (Tom was hungry) The middle? (He looked for food) The end? (He found milk and was happy) Understanding story parts helps us remember what we read.",
+        "learning_objectives": [
+          "Identify beginning, middle, and end of simple stories",
+          "Understand basic story structure and sequence",
+          "Retell stories using proper sequence",
+          "Connect story events to build comprehension"
+        ],
+        "vocabulary_words": [
+          {"word": "beginning", "definition": "The start of a story that introduces characters and setting"},
+          {"word": "middle", "definition": "The main part of the story where most action happens"},
+          {"word": "end", "definition": "How the story finishes and problems get solved"},
+          {"word": "character", "definition": "A person or animal in a story"}
+        ],
+        "materials_needed": [
+          "Simple picture books",
+          "Story sequence cards",
+          "Paper for drawing story parts",
+          "Crayons for illustrations"
+        ],
+        "parent_guidance": "Read stories together and discuss each part. Ask 'What happened first? Then what? How did it end?' Help child identify the main character and setting. Encourage retelling in their own words.",
+        "safety_notes": [
+          "Choose age-appropriate books with simple plots",
+          "Ensure comfortable seating for story time",
+          "Use books with sturdy pages that won't tear easily",
+          "Keep story sessions at appropriate length for attention span"
+        ],
+        "reading_practice_suggestions": [
+          "Read simple stories with clear beginning, middle, end",
+          "Practice retelling: 'First... Then... Finally...'",
+          "Answer questions: 'Who is this story about?' 'What happened?'",
+          "Sequence story events using picture cards"
+        ],
+        "assessment_components": [
+          "Can child identify the three parts of a story?",
+          "Is child able to retell a story in sequence?",
+          "Does child understand who the main character is?",
+          "Can child predict what might happen next in a story?"
+        ],
+        "discussion_questions": [
+          "Who is the main character in this story?",
+          "What happened at the beginning?",
+          "How did the story end?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Story Map Drawing",
+            "description": "Draw pictures showing beginning, middle, and end of a story.",
+            "materials": ["Paper divided in three sections", "Crayons", "Story book"]
+          },
+          {
+            "title": "Story Retelling Theater",
+            "description": "Act out simple stories using props and costume pieces.",
+            "materials": ["Simple props", "Dress-up items", "Story scripts"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "I Can Write Words Too",
+      "title_ar": "أستطيع كتابة الكلمات أيضاً",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 16,
+      "content_data": {
+        "title": "Connecting Reading and Writing Skills",
+        "content": "Reading and writing work together like best friends! When you can read a word, you can also learn to write it. We'll start by tracing letters and words, then copying them, and finally writing them from memory. Remember to start at the top for most letters and use proper spacing between words. Writing helps you understand how words work and makes you a better reader. Let's practice writing some of the words you've learned to read: cat, and, the, big, run. Take your time and make each letter carefully.",
+        "learning_objectives": [
+          "Form letters correctly using proper starting points and direction",
+          "Copy simple words accurately with appropriate spacing",
+          "Write familiar words from memory",
+          "Understand the connection between reading and writing"
+        ],
+        "vocabulary_words": [
+          {"word": "trace", "definition": "Follow over letters that are already written"},
+          {"word": "copy", "definition": "Write words by looking at them and writing the same thing"},
+          {"word": "spacing", "definition": "Leaving the right amount of room between words"},
+          {"word": "memory", "definition": "Writing words without looking at them because you remember how"}
+        ],
+        "materials_needed": [
+          "Lined paper or writing worksheets",
+          "Pencils with erasers",
+          "Letter formation guides",
+          "Word cards for copying practice"
+        ],
+        "parent_guidance": "Help child hold pencil correctly and start letters at the right place. Encourage proper posture and paper position. Praise effort over perfection. If child gets frustrated, take a break and try again later.",
+        "safety_notes": [
+          "Use pencils with good erasers, not too sharp",
+          "Ensure proper lighting for writing activities",
+          "Encourage breaks to prevent hand fatigue",
+          "Use age-appropriate pencil thickness",
+          "Maintain good posture to prevent strain"
+        ],
+        "reading_practice_suggestions": [
+          "Write sight words: the, and, is, you, to, a, I, it",
+          "Copy simple sentences: 'I can see the cat.'",
+          "Write word family words: cat, bat, hat, mat",
+          "Practice writing own name and family names"
+        ],
+        "assessment_components": [
+          "Can child form letters with correct starting points?",
+          "Is child leaving appropriate spaces between words?",
+          "Can child copy simple words accurately?",
+          "Is child beginning to write some words from memory?"
+        ],
+        "discussion_questions": [
+          "Where do you start when writing the letter 'b'?",
+          "How much space should go between words?",
+          "Can you write a word without looking at it?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Personal Word Dictionary",
+            "description": "Create a book of words child can read and write.",
+            "materials": ["Small notebook", "Crayons", "Word cards", "Stapler"]
+          },
+          {
+            "title": "Letter to Family",
+            "description": "Write simple letter or note to family member using known words.",
+            "materials": ["Paper", "Pencil", "Envelope", "Stickers for decoration"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "Reading Check-Up Time",
+      "title_ar": "وقت فحص القراءة",
+      "lesson_type": "assessment",
+      "estimated_duration_minutes": 12,
+      "content_data": {
+        "title": "Celebrating Reading Progress and Skills",
+        "content": "It's time to see how much you've learned! This isn't a test - it's a celebration of your reading skills. We'll play some fun games to show off what you can do. You'll read some words, read a short sentence, and tell me about a simple story. Remember, every reader learns at their own pace, and you should be proud of how far you've come. Reading is like building with blocks - each new skill you learn makes you stronger!",
+        "learning_objectives": [
+          "Demonstrate mastery of taught phonics patterns and sight words",
+          "Read simple sentences with fluency and comprehension",
+          "Show understanding of story structure and sequence",
+          "Build confidence in reading abilities and progress"
+        ],
+        "vocabulary_words": [
+          {"word": "assessment", "definition": "A fun way to show what you have learned"},
+          {"word": "progress", "definition": "Getting better at something by practicing"},
+          {"word": "fluency", "definition": "Reading smoothly and easily"},
+          {"word": "mastery", "definition": "Being really good at something you practiced"}
+        ],
+        "materials_needed": [
+          "Assessment checklist",
+          "Word cards for testing",
+          "Simple reading passage",
+          "Story with pictures for comprehension"
+        ],
+        "parent_guidance": "Keep assessment positive and encouraging. If child struggles with something, make a note to practice it more. Celebrate successes enthusiastically. Use results to guide future learning, not to judge child's abilities.",
+        "safety_notes": [
+          "Keep assessment pressure-free and positive",
+          "Allow child to take breaks if needed",
+          "Focus on effort and progress, not perfection",
+          "Stop if child becomes frustrated or tired"
+        ],
+        "reading_practice_suggestions": [
+          "Read letter sounds: Review all alphabet sounds",
+          "Read sight words: Test mastery of 20 high-frequency words",
+          "Read simple sentences: 'The big dog can run fast.'",
+          "Demonstrate comprehension: Answer questions about what was read"
+        ],
+        "assessment_components": [
+          "Letter-sound correspondence: Can identify sounds for all 26 letters",
+          "Sight word recognition: Reads 15+ sight words automatically",
+          "Decoding ability: Can sound out simple CVC and CVCE words",
+          "Reading comprehension: Can answer simple questions about text",
+          "Story retelling: Can identify beginning, middle, end of story"
+        ],
+        "discussion_questions": [
+          "What is your favorite thing about reading?",
+          "Which words are easiest for you to read?",
+          "What would you like to learn about reading next?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Reading Certificate",
+            "description": "Create special certificate celebrating reading achievements.",
+            "materials": ["Certificate template", "Crayons", "Stickers", "Proud family signatures"]
+          },
+          {
+            "title": "Reading Goals Setting",
+            "description": "Set fun goals for continued reading growth and practice.",
+            "materials": ["Goal chart", "Stickers for progress", "List of new books to try"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 9,
+      "title_en": "Reading Real Books",
+      "title_ar": "قراءة الكتب الحقيقية",
+      "lesson_type": "reading_exercise",
+      "estimated_duration_minutes": 15,
+      "content_data": {
+        "title": "Putting All Skills Together with Real Books",
+        "content": "Now you're ready to read real books! We'll start with books that have lots of pictures and simple words you know. These are called 'beginning reader books' or 'easy readers.' When you come to a word you don't know, try these strategies: look at the picture for clues, sound out the word using phonics, or think about what would make sense in the sentence. Remember, all readers - even grown-ups - sometimes come across words they don't know. The important thing is to keep trying and enjoy the story!",
+        "learning_objectives": [
+          "Apply all learned reading skills to read connected text",
+          "Use multiple strategies when encountering unknown words",
+          "Read with expression and appropriate pacing",
+          "Develop independence and confidence as a reader"
+        ],
+        "vocabulary_words": [
+          {"word": "strategy", "definition": "A helpful way to figure out something difficult"},
+          {"word": "expression", "definition": "Reading with feeling, like you're talking"},
+          {"word": "pacing", "definition": "Reading at a good speed - not too fast or slow"},
+          {"word": "independence", "definition": "Being able to do something by yourself"}
+        ],
+        "materials_needed": [
+          "Beginning reader books at appropriate level",
+          "Bookmark for keeping place",
+          "Comfortable reading area",
+          "Reading log or chart"
+        ],
+        "parent_guidance": "Choose books slightly below child's frustration level for confidence building. Read together, taking turns with pages or sentences. Don't correct every mistake - focus on meaning and enjoyment. Celebrate reading milestones.",
+        "safety_notes": [
+          "Provide good lighting for reading",
+          "Use books with appropriate print size",
+          "Encourage breaks to prevent eye strain",
+          "Choose books with sturdy binding",
+          "Maintain comfortable reading position"
+        ],
+        "reading_practice_suggestions": [
+          "Read level-appropriate beginning reader books",
+          "Practice reading with expression and feeling",
+          "Use picture clues to help with unknown words",
+          "Read favorite books multiple times for fluency"
+        ],
+        "assessment_components": [
+          "Can child read simple books independently?",
+          "Does child use strategies when stuck on words?",
+          "Is child reading with appropriate expression?",
+          "Does child demonstrate comprehension through discussion?"
+        ],
+        "discussion_questions": [
+          "What happened in the story you just read?",
+          "What strategy did you use for that tricky word?",
+          "Which character did you like best and why?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Book Review Drawing",
+            "description": "Draw pictures showing favorite parts of books read.",
+            "materials": ["Paper", "Crayons", "Books read", "Star rating system"]
+          },
+          {
+            "title": "Reading to Others",
+            "description": "Practice reading familiar books to family members or stuffed animals.",
+            "materials": ["Familiar books", "Audience (family/toys)", "Reading chair"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 10,
+      "title_en": "I Am a Reader!",
+      "title_ar": "أنا قارئ!",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 18,
+      "content_data": {
+        "title": "Celebrating Your Reading Journey",
+        "content": "Congratulations! You are now a reader! Think about your amazing journey: you learned that letters make sounds, sounds blend into words, words combine into sentences, and sentences tell stories. You can read sight words instantly, decode new words using phonics, and understand what you read. You know that stories have beginnings, middles, and ends. You can even write some of the words you read! Reading opens up a whole world of adventures, information, and imagination. Every book you read makes you a stronger reader. Keep practicing, keep exploring, and most importantly, keep enjoying the wonderful world of reading!",
+        "learning_objectives": [
+          "Reflect on reading skills acquired throughout the course",
+          "Demonstrate confidence and enthusiasm for reading",
+          "Set goals for continued reading growth and development",
+          "Understand that reading is a lifelong skill and pleasure"
+        ],
+        "vocabulary_words": [
+          {"word": "congratulations", "definition": "A happy way to say someone did something wonderful"},
+          {"word": "journey", "definition": "A trip or adventure from one place to another"},
+          {"word": "imagination", "definition": "Using your mind to picture things and create stories"},
+          {"word": "lifelong", "definition": "Something that lasts your whole life"}
+        ],
+        "materials_needed": [
+          "All books and materials from previous lessons",
+          "Reading certificate or diploma",
+          "Photo props for celebration pictures",
+          "Reading goal chart for future"
+        ],
+        "parent_guidance": "Celebrate this major milestone enthusiastically! Take photos, create a special reading certificate, and plan continued reading adventures. Establish regular reading routines and visit libraries or bookstores together. Make reading a valued family activity.",
+        "safety_notes": [
+          "Keep celebration positive and age-appropriate",
+          "Take photos safely if desired",
+          "Ensure all celebration materials are safe",
+          "Focus on effort and progress achieved"
+        ],
+        "reading_practice_suggestions": [
+          "Read favorite books from the course again",
+          "Try new books at similar or slightly higher levels",
+          "Practice reading to family members",
+          "Start a personal reading log or journal"
+        ],
+        "assessment_components": [
+          "Overall reading progress from beginning to end of course",
+          "Child's confidence and attitude toward reading",
+          "Demonstration of key skills: phonics, sight words, comprehension",
+          "Readiness for next level reading materials"
+        ],
+        "discussion_questions": [
+          "What was your favorite part of learning to read?",
+          "What kind of books do you want to read next?",
+          "How do you feel about being a reader now?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Reader's Portfolio",
+            "description": "Create special folder with examples of reading progress and achievements.",
+            "materials": ["Folder", "Work samples", "Photos", "Reading certificate"]
+          },
+          {
+            "title": "Family Reading Night",
+            "description": "Plan special evening where child demonstrates reading skills to family.",
+            "materials": ["Favorite books", "Reading certificate", "Celebration snacks"]
+          },
+          {
+            "title": "Library Adventure",
+            "description": "Visit library to choose new books and get library card.",
+            "materials": ["Transportation to library", "Library card application", "Excitement for new books"]
+          }
+        ]
+      }
+    }
+  ]
+}

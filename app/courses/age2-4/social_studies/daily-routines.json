@@ -1,0 +1,462 @@
+{
+  "course": {
+    "title_en": "Daily Routines",
+    "title_ar": "الروتين اليومي",
+    "description_en": "Learn about the special things we do every day from morning to night. Discover how routines help us stay healthy, happy, and organized.",
+    "description_ar": "تعلم عن الأشياء المميزة التي نفعلها كل يوم من الصباح إلى الليل. اكتشف كيف تساعدنا الروتينات على البقاء بصحة جيدة وسعداء ومنظمين.",
+    "age_group_min": 2,
+    "age_group_max": 4,
+    "estimated_duration_minutes": 58,
+    "subject": "social_studies"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "Good Morning Time",
+      "title_ar": "وقت صباح الخير",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Wake Up, Sunshine! Starting Our Day",
+        "content": "Good morning! The sun is up. Time to wake up! First, we stretch our arms high. Stretch, stretch, stretch! Then we get out of bed. We put our feet on the floor. Next, we brush our teeth. Brush, brush, brush! After that, we wash our face. Splash with water! Then we get dressed. Put on shirt. Put on pants. Last, we eat breakfast. Yummy food gives us energy! Morning time makes us ready for the day. What a great start!",
+        "learning_objectives": [
+          "Learn the steps of a morning routine",
+          "Understand the importance of starting the day well",
+          "Practice sequencing daily activities"
+        ],
+        "vocabulary_words": [
+          {"word": "morning", "definition": "Early time of day when the sun comes up"},
+          {"word": "wake up", "definition": "Stop sleeping and open your eyes"},
+          {"word": "stretch", "definition": "Make your arms and body long and wide"},
+          {"word": "brush", "definition": "Clean your teeth with a toothbrush"},
+          {"word": "breakfast", "definition": "First meal we eat in the morning"},
+          {"word": "energy", "definition": "Power that helps your body move and play"}
+        ],
+        "materials_needed": [
+          "Child's toothbrush (for demonstration)",
+          "Clothes to practice getting dressed",
+          "Mirror for morning routine",
+          "Pretend breakfast items or pictures"
+        ],
+        "parent_guidance": "Go through each morning step with child. Let them practice brushing teeth with dry toothbrush. Help with getting dressed. Make stretching fun and gentle. Use actual morning routine items when possible. Connect lesson to their real morning routine.",
+        "safety_notes": [
+          "Supervise toothbrush use - no toothpaste for demonstration",
+          "Ensure clothes are appropriate size for practice",
+          "Use unbreakable mirror if available",
+          "Keep stretching gentle to prevent injury",
+          "Use only safe pretend food items"
+        ],
+        "discussion_questions": [
+          "What do we do first when we wake up?",
+          "Why do we brush our teeth?",
+          "What gives us energy in the morning?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Morning Routine Practice",
+            "description": "Act out the whole morning routine step by step with child.",
+            "materials": ["Morning routine items", "Mirror", "Practice clothes"]
+          },
+          {
+            "title": "Morning Checklist",
+            "description": "Make a simple picture checklist of morning activities.",
+            "materials": ["Paper", "Crayons", "Stickers for completion"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "Meal Time Fun",
+      "title_ar": "متعة وقت الطعام",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Three Special Meals Every Day",
+        "content": "We eat three meals every day! First is breakfast in the morning. Breakfast gives us energy to play. Next is lunch in the middle of the day. Lunch keeps us strong. Last is dinner at night with family. Dinner brings us together. Before we eat, we wash our hands. Clean hands keep us healthy! We sit at the table nicely. We use our fork and spoon. We say 'please' and 'thank you.' After eating, we clean up together. Meal time is special family time!",
+        "learning_objectives": [
+          "Identify the three main meals of the day",
+          "Learn proper meal time manners and hygiene",
+          "Understand meal times as family bonding time"
+        ],
+        "vocabulary_words": [
+          {"word": "breakfast", "definition": "Morning meal that starts our day"},
+          {"word": "lunch", "definition": "Middle-of-the-day meal"},
+          {"word": "dinner", "definition": "Evening meal eaten with family"},
+          {"word": "healthy", "definition": "Good for your body and keeps you strong"},
+          {"word": "manners", "definition": "Polite ways to behave, especially when eating"},
+          {"word": "family", "definition": "People who live together and love each other"}
+        ],
+        "materials_needed": [
+          "Play dishes and utensils",
+          "Pretend food items",
+          "Small table or eating area",
+          "Hand towel for washing demonstration"
+        ],
+        "parent_guidance": "Set up pretend meal time with child. Practice proper hand washing before eating. Show how to use fork and spoon correctly. Emphasize 'please' and 'thank you.' Make it fun by having pretend family meal together. Connect to your family's actual meal routines.",
+        "safety_notes": [
+          "Use only safe, large play food items",
+          "Ensure play utensils have no sharp edges",
+          "Supervise all pretend eating activities",
+          "Keep play dishes unbreakable",
+          "Demonstrate proper hand washing with soap and water"
+        ],
+        "discussion_questions": [
+          "What are the three meals we eat?",
+          "What do we do before we eat?",
+          "How do we use good manners at meal time?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Pretend Restaurant",
+            "description": "Set up pretend restaurant where child practices ordering and eating politely.",
+            "materials": ["Play dishes", "Pretend menu", "Play food"]
+          },
+          {
+            "title": "Meal Planning Game",
+            "description": "Look at pictures of foods and sort them into breakfast, lunch, and dinner.",
+            "materials": ["Food pictures", "Three boxes labeled with meals"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "Play Time and Learn Time",
+      "title_ar": "وقت اللعب والتعلم",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 9,
+      "content_data": {
+        "title": "Fun Times During Our Day",
+        "content": "Every day has special times for different activities! Play time is when we have fun. We play with toys. We run and laugh. We use our imagination. Learn time is when we discover new things. We read books. We sing songs. We practice counting. Sometimes we play outside. Fresh air feels good! Sometimes we play inside. We stay safe and warm. We take turns with toys. We share with friends. We clean up when done. Play time and learn time help us grow big and smart!",
+        "learning_objectives": [
+          "Distinguish between play time and learning time",
+          "Understand the importance of both play and learning",
+          "Practice sharing and taking turns"
+        ],
+        "vocabulary_words": [
+          {"word": "play time", "definition": "Special time for having fun with toys and games"},
+          {"word": "learn time", "definition": "Special time for discovering and practicing new things"},
+          {"word": "imagination", "definition": "Using your mind to pretend and create stories"},
+          {"word": "fresh air", "definition": "Clean air from outside that feels good to breathe"},
+          {"word": "share", "definition": "Let others use your toys too"},
+          {"word": "turns", "definition": "Everyone gets a chance to play with something"}
+        ],
+        "materials_needed": [
+          "Various safe toys for demonstration",
+          "Books for learning time",
+          "Puzzle or simple learning game",
+          "Timer for taking turns (optional)"
+        ],
+        "parent_guidance": "Show difference between play activities and learning activities. Practice taking turns with toys. Demonstrate sharing behaviors. Let child choose between play and learning activities. Emphasize that both are important and fun. Help child clean up after activities.",
+        "safety_notes": [
+          "Use only age-appropriate, safe toys",
+          "Ensure all toys are large enough to prevent choking",
+          "Supervise outdoor play references",
+          "Keep all activities at child's developmental level",
+          "Monitor sharing activities to prevent conflicts"
+        ],
+        "discussion_questions": [
+          "What do we do during play time?",
+          "What do we do during learn time?",
+          "How do we share toys with others?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Activity Sorting Game",
+            "description": "Sort pictures of activities into 'play time' and 'learn time' categories.",
+            "materials": ["Activity pictures", "Two boxes or areas for sorting"]
+          },
+          {
+            "title": "Turn-Taking Practice",
+            "description": "Practice taking turns with a special toy using a timer.",
+            "materials": ["Special toy", "Simple timer", "Patience"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "Clean Up and Tidy Time",
+      "title_ar": "وقت التنظيف والترتيب",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Helping Hands Make Everything Clean",
+        "content": "After we play, it's time to clean up! Toys need to go back home. Books go on the shelf. Blocks go in the box. Cars go in the garage. We are helpers! We pick up toys one by one. We put them in the right place. Clean up makes our home nice. Clean up keeps things safe. When everything is tidy, we feel happy. Cleaning up is fast when we all help. We sing the clean-up song! 'Clean up, clean up, everybody everywhere!' Good helpers make the best homes!",
+        "learning_objectives": [
+          "Learn the importance of cleaning up after activities",
+          "Practice putting things in their proper places",
+          "Develop responsibility and helping skills"
+        ],
+        "vocabulary_words": [
+          {"word": "clean up", "definition": "Put toys and things back where they belong"},
+          {"word": "tidy", "definition": "Neat and organized, everything in its place"},
+          {"word": "helpers", "definition": "People who do good things to help others"},
+          {"word": "shelf", "definition": "Flat place on the wall where we put books"},
+          {"word": "garage", "definition": "Special place where cars and trucks live"},
+          {"word": "responsibility", "definition": "Job you do to help your family"}
+        ],
+        "materials_needed": [
+          "Various toys to practice cleaning up",
+          "Boxes or containers for toy storage",
+          "Books to put on shelf",
+          "Designated places for different toys"
+        ],
+        "parent_guidance": "Make cleaning up fun, not a chore. Sing the clean-up song together. Show child where each type of toy belongs. Help child put things away correctly. Praise efforts, not just results. Start with just a few items to avoid overwhelming child.",
+        "safety_notes": [
+          "Ensure storage containers are safe and stable",
+          "Help child reach appropriate heights safely",
+          "Don't overload child with too many items at once",
+          "Make sure shelves and storage areas are child-safe",
+          "Supervise to prevent injuries while cleaning"
+        ],
+        "discussion_questions": [
+          "Where do the toys go when we're done playing?",
+          "Why is it important to clean up?",
+          "How can we be good helpers?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Toy Home Matching",
+            "description": "Match different toys to their correct 'homes' or storage places.",
+            "materials": ["Various toys", "Storage containers", "Labels with pictures"]
+          },
+          {
+            "title": "Clean-Up Race",
+            "description": "See how quickly child can put toys away (make it fun, not stressful).",
+            "materials": ["Timer", "Toys to clean up", "Cheerful encouragement"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "Bath Time and Getting Clean",
+      "title_ar": "وقت الاستحمام والنظافة",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Splash, Splash! Time to Get Clean",
+        "content": "Bath time is fun and important! We take baths to get clean. First, we fill the tub with warm water. Warm water feels nice. We add some bubbles. Bubbles are fun to pop! We wash our hair with shampoo. We wash our body with soap. We scrub our hands and feet. We rinse with clean water. After bath, we dry off with a soft towel. We put on clean pajamas. Bath time makes us fresh and clean. Clean bodies feel good and healthy!",
+        "learning_objectives": [
+          "Understand the importance of personal hygiene",
+          "Learn the steps of taking a bath",
+          "Practice bath time vocabulary and actions"
+        ],
+        "vocabulary_words": [
+          {"word": "bath", "definition": "Washing your whole body in water"},
+          {"word": "clean", "definition": "Not dirty, washed with soap and water"},
+          {"word": "bubbles", "definition": "Little round soap balls that float in water"},
+          {"word": "shampoo", "definition": "Special soap for washing hair"},
+          {"word": "rinse", "definition": "Wash away soap with clean water"},
+          {"word": "pajamas", "definition": "Special clothes for sleeping"}
+        ],
+        "materials_needed": [
+          "Doll or stuffed animal for bath demonstration",
+          "Small basin or bowl for pretend bath",
+          "Washcloth and small towel",
+          "Empty shampoo bottle (clean)",
+          "Bubbles for demonstration (optional)"
+        ],
+        "parent_guidance": "Use doll to demonstrate bath steps safely. Let child practice washing doll. Talk about each step as you do it. Make bath time sound fun, not scary. If child is afraid of baths, go slowly and keep demonstration positive. Connect to their real bath routine.",
+        "safety_notes": [
+          "Never leave child alone during any water activities",
+          "Use only small amounts of water for demonstration",
+          "Keep demonstration area safe from slipping",
+          "Ensure all materials are clean and safe",
+          "No real bathing during lesson - demonstration only"
+        ],
+        "discussion_questions": [
+          "Why do we take baths?",
+          "What do we use to wash our hair?",
+          "How do we get dry after a bath?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Doll Bath Time",
+            "description": "Give a baby doll a pretend bath, practicing all the steps learned.",
+            "materials": ["Baby doll", "Small basin", "Washcloth", "Towel"]
+          },
+          {
+            "title": "Bath Time Story",
+            "description": "Read books about bath time or create stories about getting clean.",
+            "materials": ["Bath time books", "Imagination"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "Bedtime and Sweet Dreams",
+      "title_ar": "وقت النوم والأحلام الحلوة",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 9,
+      "content_data": {
+        "title": "Getting Ready for a Good Night's Sleep",
+        "content": "When the sun goes down, it's time for bed. Bedtime helps our bodies rest. First, we put on our cozy pajamas. Next, we brush our teeth again. Clean teeth sleep better! Then we wash our face and hands. After that, we read a story together. Stories help us feel calm. We say goodnight to family. We hug our teddy bear. We pull up our warm blanket. We close our eyes. Sleep helps us grow. Sleep gives us energy for tomorrow. Sweet dreams until morning!",
+        "learning_objectives": [
+          "Learn the steps of a bedtime routine",
+          "Understand why sleep is important for growing bodies",
+          "Practice calming bedtime activities"
+        ],
+        "vocabulary_words": [
+          {"word": "bedtime", "definition": "Special time when we go to sleep"},
+          {"word": "pajamas", "definition": "Soft clothes we wear to sleep"},
+          {"word": "cozy", "definition": "Warm and comfortable feeling"},
+          {"word": "calm", "definition": "Peaceful and quiet, not excited"},
+          {"word": "blanket", "definition": "Soft cover that keeps us warm in bed"},
+          {"word": "dreams", "definition": "Pictures and stories in our mind while sleeping"}
+        ],
+        "materials_needed": [
+          "Child's pajamas",
+          "Toothbrush for demonstration",
+          "Favorite bedtime story book",
+          "Stuffed animal or teddy bear",
+          "Small blanket"
+        ],
+        "parent_guidance": "Keep this lesson calm and soothing. Practice bedtime routine gently. Let child hold comfort items during lesson. Read in soft voice. Connect to child's actual bedtime routine. Make bedtime sound peaceful and safe, not scary.",
+        "safety_notes": [
+          "Keep lesson atmosphere calm and quiet",
+          "Ensure all bedtime items are safe",
+          "Use child's actual comfort items if possible",
+          "Make sure stuffed animals are clean",
+          "Keep lighting soft and comfortable"
+        ],
+        "discussion_questions": [
+          "What do we do to get ready for bed?",
+          "Why is sleep important for our bodies?",
+          "What helps you feel calm at bedtime?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Teddy Bear Bedtime",
+            "description": "Put teddy bear to bed using all the bedtime routine steps.",
+            "materials": ["Teddy bear", "Small blanket", "Tiny pillow"]
+          },
+          {
+            "title": "Bedtime Story Creation",
+            "description": "Make up a simple bedtime story about going to sleep.",
+            "materials": ["Imagination", "Soft voice", "Cozy setting"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "Daily Routines Quiz",
+      "title_ar": "اختبار الروتين اليومي",
+      "lesson_type": "quiz",
+      "estimated_duration_minutes": 6,
+      "content_data": {
+        "title": "What Do You Know About Our Daily Routines?",
+        "content": "Let's play a fun game about our daily routines! I will ask you questions about the things we do every day. You can point to pictures, act it out, or tell me with words!",
+        "learning_objectives": [
+          "Review all daily routine activities learned",
+          "Practice sequencing daily events",
+          "Show understanding of routine importance"
+        ],
+        "vocabulary_words": [
+          {"word": "quiz", "definition": "Fun game with questions about what you learned"},
+          {"word": "routines", "definition": "Things we do the same way every day"}
+        ],
+        "materials_needed": [
+          "Pictures of daily routine activities",
+          "Clock or time indicators",
+          "Props from previous lessons for demonstration"
+        ],
+        "parent_guidance": "Ask questions gently and give child plenty of time to respond. Accept any form of answer - pointing, acting, or words. Use pictures to help child remember. Keep quiz fun and encouraging. Celebrate every response positively.",
+        "safety_notes": [
+          "Keep quiz atmosphere positive and stress-free",
+          "No pressure for perfect answers",
+          "Take breaks if child seems tired",
+          "Use familiar, safe materials only"
+        ],
+        "discussion_questions": [
+          "What do we do first when we wake up in the morning?",
+          "Show me how we brush our teeth!",
+          "What are the three meals we eat every day?",
+          "Point to what we do during play time!",
+          "How do we clean up our toys?",
+          "What do we wear to take a bath?",
+          "Show me how we get ready for bed!",
+          "Which comes first - breakfast or dinner?",
+          "What helps our bodies rest and grow?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Routine Sequencing Game",
+            "description": "Put pictures of daily activities in the correct order from morning to night.",
+            "materials": ["Daily routine picture cards", "Timeline or sequence board"]
+          },
+          {
+            "title": "Daily Routine Acting",
+            "description": "Act out different parts of daily routine while others guess which activity it is.",
+            "materials": ["Props from lessons", "Imagination", "Safe acting space"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "My Special Day Celebration",
+      "title_ar": "احتفال يومي المميز",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 12,
+      "content_data": {
+        "title": "Celebrating Our Wonderful Daily Routines",
+        "content": "Let's celebrate all the special things we do every day! Our daily routines help us stay healthy and happy. From morning wake-up to nighttime sleep, every part of our day is important. Let's go through our whole day together! Morning: Wake up, stretch, brush teeth, get dressed, eat breakfast. Daytime: Play, learn, eat lunch, clean up. Evening: Eat dinner, take bath, brush teeth, bedtime story, sleep. Every routine helps us grow big and strong! We are such good routine followers! Let's sing our Daily Routine Song: 'Morning, noon, and night, we do things right!'",
+        "learning_objectives": [
+          "Review and celebrate all daily routines learned",
+          "Understand the complete flow of a day",
+          "Build confidence in following routines independently"
+        ],
+        "vocabulary_words": [
+          {"word": "celebrate", "definition": "Be very happy about something good"},
+          {"word": "routines", "definition": "Special things we do the same way every day"},
+          {"word": "healthy", "definition": "Good for your body and makes you strong"},
+          {"word": "independent", "definition": "Doing things by yourself like a big kid"},
+          {"word": "flow", "definition": "How things go from one to the next smoothly"},
+          {"word": "followers", "definition": "People who do the right things in the right order"}
+        ],
+        "materials_needed": [
+          "All pictures and props from previous lessons",
+          "Large paper for routine timeline",
+          "Stickers for completion rewards",
+          "Celebration music",
+          "Camera for commemoration (optional)"
+        ],
+        "parent_guidance": "Go through entire day's routine enthusiastically with child. Use all props and pictures from previous lessons. Take photos of child demonstrating different routines if desired. Make this feel like a real celebration of learning. Emphasize how grown-up child is becoming with good routines.",
+        "safety_notes": [
+          "Keep celebration positive and encouraging",
+          "Use all previously verified safe materials",
+          "Keep music at appropriate volume",
+          "Take breaks if child becomes overstimulated",
+          "Ensure all activities remain age-appropriate"
+        ],
+        "discussion_questions": [
+          "What's your favorite part of the daily routine?",
+          "Which routine helps you stay healthy?",
+          "How do routines help our family?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Personal Routine Chart",
+            "description": "Create a special chart showing child's own daily routine with pictures.",
+            "materials": ["Large paper", "Photos or drawings", "Stickers", "Markers"]
+          },
+          {
+            "title": "Routine Helper Badge",
+            "description": "Make a special 'Routine Helper' badge for child to wear proudly.",
+            "materials": ["Paper", "Crayons", "Safety pin or tape", "Ribbon"]
+          },
+          {
+            "title": "Family Routine Show",
+            "description": "Child teaches family members about daily routines like a teacher.",
+            "materials": ["All lesson materials", "Willing family audience", "Confidence"]
+          }
+        ]
+      }
+    }
+  ]
+}

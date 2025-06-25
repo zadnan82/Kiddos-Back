@@ -1,0 +1,456 @@
+{
+  "course": {
+    "title_en": "Weather",
+    "title_ar": "الطقس",
+    "description_en": "Discover different types of weather and how they make us feel. Learn about sun, rain, wind, and clouds through fun stories and safe activities.",
+    "description_ar": "اكتشف أنواع الطقس المختلفة وكيف تجعلنا نشعر. تعلم عن الشمس والمطر والرياح والغيوم من خلال القصص الممتعة والأنشطة الآمنة.",
+    "age_group_min": 2,
+    "age_group_max": 4,
+    "estimated_duration_minutes": 56,
+    "subject": "science"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "Sunny Day Fun",
+      "title_ar": "متعة اليوم المشمس",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 7,
+      "content_data": {
+        "title": "Mr. Sun Comes Out to Play",
+        "content": "Look up at the sky! Do you see the bright yellow sun? The sun is warm. The sun is bright. The sun makes light. When the sun shines, it is a sunny day. On sunny days, we feel happy. We can play outside. We can see everything clearly. The sun helps flowers grow. The sun makes us warm. But the sun is very hot! We must be careful. We wear hats in the sun. We stay in shade sometimes. The sun is our friend when we are safe!",
+        "learning_objectives": [
+          "Recognize sunny weather",
+          "Understand the sun gives light and warmth",
+          "Learn basic sun safety"
+        ],
+        "vocabulary_words": [
+          {"word": "sun", "definition": "Big bright yellow circle in the sky that gives light"},
+          {"word": "sunny", "definition": "When the sun is shining and it's bright outside"},
+          {"word": "bright", "definition": "Having lots of light, easy to see"},
+          {"word": "warm", "definition": "Nice feeling, not cold"},
+          {"word": "shade", "definition": "Cool place where sun doesn't shine"},
+          {"word": "hat", "definition": "Thing you wear on your head to stay safe"}
+        ],
+        "materials_needed": [
+          "Window to look outside",
+          "Yellow circle cut from paper (to represent sun)",
+          "Hat for child to try on",
+          "Flashlight (parent-controlled only)"
+        ],
+        "parent_guidance": "Point to the sun outside if it's visible (never let child look directly at sun). Use flashlight to show how sun gives light. Let child feel warmth from sunny window. Practice putting on hat. Talk about sunny day activities like going to park.",
+        "safety_notes": [
+          "Never look directly at the real sun",
+          "Keep flashlight away from eyes",
+          "Ensure hat fits properly and safely",
+          "Always supervise outdoor sun activities",
+          "Teach importance of shade and sun protection"
+        ],
+        "discussion_questions": [
+          "What color is the sun?",
+          "How does sunny weather make you feel?",
+          "What do we wear to stay safe in the sun?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Sun Safety Practice",
+            "description": "Practice putting on hat and sunglasses (if available) for sun protection.",
+            "materials": ["Child-safe hat", "Sunglasses (optional)"]
+          },
+          {
+            "title": "Sunny Day Drawing",
+            "description": "Draw a big yellow sun with crayons on paper.",
+            "materials": ["Large paper", "Yellow crayon", "Other colors"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "Rainy Day Drops",
+      "title_ar": "قطرات اليوم الممطر",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Little Raindrops Fall Down",
+        "content": "Look outside! Gray clouds are in the sky. The raindrops fall down. Pitter patter, pitter patter! Rain comes from clouds. Rain is water from the sky. On rainy days, we stay inside. We watch rain through the window. Rain helps plants grow. Rain fills up puddles. Rain makes everything clean. We wear raincoats when we go outside. We use umbrellas to stay dry. Rain sounds peaceful. Listen to the gentle rain!",
+        "learning_objectives": [
+          "Recognize rainy weather",
+          "Understand rain comes from clouds",
+          "Learn what to wear in rain"
+        ],
+        "vocabulary_words": [
+          {"word": "rain", "definition": "Water drops that fall from clouds in the sky"},
+          {"word": "rainy", "definition": "When rain is falling from the sky"},
+          {"word": "clouds", "definition": "Gray or white fluffy things in the sky that hold water"},
+          {"word": "raindrops", "definition": "Small drops of water that fall from clouds"},
+          {"word": "umbrella", "definition": "Thing that keeps rain off you"},
+          {"word": "puddles", "definition": "Small pools of water on the ground"}
+        ],
+        "materials_needed": [
+          "Window to watch rain (if raining)",
+          "Spray bottle with water (parent use only)",
+          "Small umbrella (child-safe)",
+          "Raincoat or jacket"
+        ],
+        "parent_guidance": "If it's raining, watch through window together. Use spray bottle to gently demonstrate rain (away from child's face). Let child hold umbrella safely. Practice putting on raincoat. Make 'pitter patter' sounds together.",
+        "safety_notes": [
+          "Never use spray bottle near child's face",
+          "Ensure umbrella has no sharp points",
+          "Keep child away from windows during storms",
+          "Make sure raincoat isn't too large (tripping hazard)",
+          "Always supervise umbrella play"
+        ],
+        "discussion_questions": [
+          "What sound does rain make?",
+          "Where does rain come from?",
+          "What do we use to stay dry in rain?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Rain Sound Making",
+            "description": "Tap fingers gently on table to make rain sounds: pitter patter.",
+            "materials": ["Table or hard surface", "Gentle finger tapping"]
+          },
+          {
+            "title": "Raindrop Art",
+            "description": "Use blue finger paint dots to make raindrops on paper.",
+            "materials": ["Paper", "Blue washable paint", "Wet wipes"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "Windy Day Dancing",
+      "title_ar": "رقص اليوم العاصف",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Wind Makes Everything Move",
+        "content": "Feel the wind! Wind is moving air. We cannot see wind, but we can feel it. Wind makes leaves dance. Wind makes flags wave. Wind makes our hair move. Let's be like things in the wind! Wave your arms like tree branches. Sway back and forth gently. Move like leaves falling down. Wind can be gentle. Wind can be strong. On windy days, we hold grown-up's hand outside. Let's dance like the wind!",
+        "learning_objectives": [
+          "Understand wind is moving air",
+          "Learn wind makes things move",
+          "Practice gentle movement like wind"
+        ],
+        "vocabulary_words": [
+          {"word": "wind", "definition": "Moving air that we can feel but cannot see"},
+          {"word": "windy", "definition": "When wind is blowing and moving things around"},
+          {"word": "leaves", "definition": "Green parts that grow on trees"},
+          {"word": "dance", "definition": "Move your body to music or for fun"},
+          {"word": "sway", "definition": "Move gently back and forth"},
+          {"word": "gentle", "definition": "Soft and careful, not rough"}
+        ],
+        "materials_needed": [
+          "Open safe space for movement",
+          "Lightweight scarf or ribbon",
+          "Fan (parent-controlled only)",
+          "Soft background music (optional)"
+        ],
+        "parent_guidance": "Use fan on lowest setting to let child feel moving air (keep fan away from child). Wave scarf to show wind movement. Do movements together - swaying, arm waving. Keep all movements gentle and controlled.",
+        "safety_notes": [
+          "Keep fan away from child - parent holds only",
+          "Ensure open space for movement",
+          "Keep movements gentle to avoid falls",
+          "Hold child's hand during swaying if needed",
+          "Use only soft, safe materials for wind demonstration"
+        ],
+        "discussion_questions": [
+          "Can you feel the wind?",
+          "What does wind make move?",
+          "How do trees move in the wind?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Scarf Wind Dance",
+            "description": "Wave lightweight scarf or tissue to see how wind moves things.",
+            "materials": ["Light scarf", "Tissue paper", "Open space"]
+          },
+          {
+            "title": "Wind Observation",
+            "description": "Look outside to see what wind is moving (trees, flags, leaves).",
+            "materials": ["Window for safe observation"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "Fluffy Cloud Friends",
+      "title_ar": "أصدقاء الغيوم الناعمة",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 7,
+      "content_data": {
+        "title": "Clouds Float in the Blue Sky",
+        "content": "Look up at the sky! Do you see white fluffy clouds? Clouds are made of tiny water drops. Clouds float in the sky. Some clouds are white and fluffy. Some clouds are gray and full of rain. Clouds move slowly across the sky. Clouds have different shapes. Some look like animals. Some look like cotton balls. Clouds are fun to watch. They change shapes as they move. Clouds help make weather. White clouds mean nice weather!",
+        "learning_objectives": [
+          "Recognize clouds in the sky",
+          "Understand clouds are made of water",
+          "Learn clouds come in different shapes"
+        ],
+        "vocabulary_words": [
+          {"word": "clouds", "definition": "White or gray fluffy things that float in the sky"},
+          {"word": "fluffy", "definition": "Soft and light like cotton or pillows"},
+          {"word": "float", "definition": "Stay up in the air without falling"},
+          {"word": "shapes", "definition": "Different forms like circles, squares, or animals"},
+          {"word": "cotton", "definition": "Soft white fluffy material"},
+          {"word": "move", "definition": "Go from one place to another"}
+        ],
+        "materials_needed": [
+          "Window or safe outdoor viewing area",
+          "Cotton balls",
+          "White and gray paper",
+          "Blue paper for sky background"
+        ],
+        "parent_guidance": "Point out real clouds outside if visible. Let child touch cotton balls to feel 'fluffy' texture. Help child make cloud shapes with cotton balls on blue paper. Talk about different cloud shapes you see together.",
+        "safety_notes": [
+          "Supervise outdoor cloud watching",
+          "Keep cotton balls large enough to prevent choking",
+          "Ensure child doesn't put cotton in mouth",
+          "Use safe viewing area away from traffic",
+          "Don't look directly at sun while cloud watching"
+        ],
+        "discussion_questions": [
+          "What do clouds feel like?",
+          "What colors can clouds be?",
+          "What shapes do you see in the clouds?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Cotton Ball Clouds",
+            "description": "Glue cotton balls on blue paper to make a sky with clouds.",
+            "materials": ["Blue paper", "Cotton balls", "Safe glue stick"]
+          },
+          {
+            "title": "Cloud Shape Game",
+            "description": "Look at clouds and guess what shapes they look like (animals, objects).",
+            "materials": ["View of the sky", "Imagination"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "Snowy Day Magic",
+      "title_ar": "سحر اليوم الثلجي",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 9,
+      "content_data": {
+        "title": "White Snowflakes Fall Like Magic",
+        "content": "Brrr! It's cold outside. Look! White snowflakes fall from the sky. Snow is frozen water from clouds. Each snowflake is different. Snow covers the ground like a white blanket. Snow makes everything look magical. We wear warm clothes in snow. We wear coats and mittens. We wear boots to keep feet warm. Let's pretend to be snowflakes! Spin around slowly. Float down gently. Land softly on the ground. Snow is fun but very cold!",
+        "learning_objectives": [
+          "Recognize snowy weather",
+          "Understand snow is frozen water",
+          "Learn about warm winter clothes"
+        ],
+        "vocabulary_words": [
+          {"word": "snow", "definition": "White frozen water that falls from clouds when it's very cold"},
+          {"word": "snowflakes", "definition": "Small white pieces of snow that fall from the sky"},
+          {"word": "cold", "definition": "Not warm, makes you want to wear a coat"},
+          {"word": "frozen", "definition": "Water that got so cold it became hard and white"},
+          {"word": "mittens", "definition": "Warm coverings for hands in cold weather"},
+          {"word": "magical", "definition": "Special and wonderful like in fairy tales"}
+        ],
+        "materials_needed": [
+          "White paper cut into snowflake shapes",
+          "Winter clothes to try on (coat, mittens, hat)",
+          "White cotton balls or tissue paper",
+          "Safe space for gentle spinning"
+        ],
+        "parent_guidance": "Show winter clothes and let child try them on. Demonstrate gentle spinning and floating movements. Use white paper pieces to show how snowflakes fall. If it's snowing outside, watch safely through window.",
+        "safety_notes": [
+          "Keep spinning movements very gentle to prevent dizziness",
+          "Ensure winter clothes fit properly and aren't tripping hazards",
+          "Hold child's hand during spinning if needed",
+          "Keep paper pieces large enough to prevent choking",
+          "Never let child play in real snow without proper supervision and clothing"
+        ],
+        "discussion_questions": [
+          "What color is snow?",
+          "What do we wear when it's cold and snowy?",
+          "How do snowflakes move in the air?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Paper Snowflake Drop",
+            "description": "Drop white paper pieces and watch them 'fall like snow'.",
+            "materials": ["White paper pieces", "Safe indoor space"]
+          },
+          {
+            "title": "Winter Clothes Dress-Up",
+            "description": "Practice putting on winter clothes like coats, hats, and mittens.",
+            "materials": ["Child-sized winter clothing items"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "Weather Helpers",
+      "title_ar": "مساعدو الطقس",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 9,
+      "content_data": {
+        "title": "Things That Help Us in Different Weather",
+        "content": "Different weather needs different helpers! In sunny weather, we use hats and sunglasses. In rainy weather, we use umbrellas and raincoats. In windy weather, we hold hands with grown-ups. In cold weather, we wear warm coats. Let's practice using weather helpers! Put on a hat for sunny days. Open an umbrella for rainy days. Put on a coat for cold days. Weather helpers keep us safe and comfortable. We are smart to use the right helpers!",
+        "learning_objectives": [
+          "Match weather helpers to weather types",
+          "Practice using weather protection items",
+          "Understand how to stay safe in different weather"
+        ],
+        "vocabulary_words": [
+          {"word": "helpers", "definition": "Things that help us stay safe and comfortable"},
+          {"word": "sunglasses", "definition": "Dark glasses that protect eyes from bright sun"},
+          {"word": "comfortable", "definition": "Feeling good and cozy, not too hot or cold"},
+          {"word": "protect", "definition": "Keep safe from harm"},
+          {"word": "practice", "definition": "Do something over and over to get better"},
+          {"word": "smart", "definition": "Making good choices and thinking well"}
+        ],
+        "materials_needed": [
+          "Hat for sun protection",
+          "Child-safe umbrella",
+          "Light jacket or coat",
+          "Sunglasses (child-safe, optional)",
+          "Different weather pictures"
+        ],
+        "parent_guidance": "Show each weather helper and let child practice using them. Make it a game - show weather picture and ask child to pick the right helper. Practice putting items on and taking them off safely.",
+        "safety_notes": [
+          "Ensure all items are child-appropriate size",
+          "Check that umbrella has no sharp points",
+          "Make sure clothes aren't too large (tripping hazard)",
+          "Supervise trying on all items",
+          "Use only safe, unbreakable sunglasses if available"
+        ],
+        "discussion_questions": [
+          "What do we wear on sunny days?",
+          "What helps us stay dry in rain?",
+          "How do we stay warm when it's cold?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Weather Helper Match Game",
+            "description": "Match pictures of weather with the right helper items.",
+            "materials": ["Weather pictures", "Helper items", "Large surface"]
+          },
+          {
+            "title": "Dress for Weather Game",
+            "description": "Parent calls out weather type, child finds and puts on right helper.",
+            "materials": ["Various weather helper items"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "Weather Quiz Fun",
+      "title_ar": "متعة اختبار الطقس",
+      "lesson_type": "quiz",
+      "estimated_duration_minutes": 6,
+      "content_data": {
+        "title": "What Do You Know About Weather?",
+        "content": "Let's play a fun weather game! I will ask you about different types of weather. You can point to pictures or show me with actions!",
+        "learning_objectives": [
+          "Review all weather types learned",
+          "Practice identifying weather conditions",
+          "Show understanding through actions and words"
+        ],
+        "vocabulary_words": [
+          {"word": "quiz", "definition": "Fun game with questions to show what you learned"},
+          {"word": "actions", "definition": "Moving your body to show something"}
+        ],
+        "materials_needed": [
+          "Pictures of different weather types",
+          "Weather helper items for demonstration",
+          "Child's hands for pointing and actions"
+        ],
+        "parent_guidance": "Ask questions slowly and give child time to think. Accept pointing, actions, or simple words as answers. Celebrate every response. Use pictures and items to help child answer.",
+        "safety_notes": [
+          "Keep quiz short and fun",
+          "No pressure for perfect answers",
+          "Take breaks if child gets tired or frustrated"
+        ],
+        "discussion_questions": [
+          "Point to the sun! What weather does the sun make?",
+          "What falls from clouds when it's rainy?",
+          "Show me how trees move in the wind!",
+          "What color are fluffy clouds?",
+          "What do we wear when it's cold and snowy?",
+          "What helps us stay dry in the rain?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Weather Actions Game",
+            "description": "Do actions for each weather type - shine like sun, fall like rain, sway like wind.",
+            "materials": ["Open space for movement"]
+          },
+          {
+            "title": "Weather Picture Story",
+            "description": "Tell a simple story using weather pictures.",
+            "materials": ["Weather pictures", "Imagination"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "Weather Day Celebration",
+      "title_ar": "احتفال يوم الطقس",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 12,
+      "content_data": {
+        "title": "Celebrating All Types of Weather",
+        "content": "Let's celebrate all the weather we learned about! First, let's be the bright sun! Stretch your arms wide and smile big. Next, let's be gentle rain! Wiggle your fingers as raindrops fall down. Then, let's be the wind! Sway and move like leaves in the breeze. Now, let's be fluffy clouds! Float and move slowly across the sky. Finally, let's be snowflakes! Spin gently and land softly. All weather is special! Sun gives us light. Rain helps plants grow. Wind moves things around. Clouds make shapes in the sky. Snow makes everything magical. You know so much about weather! You are a weather expert!",
+        "learning_objectives": [
+          "Review all weather types through movement",
+          "Understand each weather type is important",
+          "Celebrate learning about weather"
+        ],
+        "vocabulary_words": [
+          {"word": "celebrate", "definition": "Be happy about something special we learned"},
+          {"word": "expert", "definition": "Someone who knows a lot about something"},
+          {"word": "stretch", "definition": "Make your arms and body long and wide"},
+          {"word": "breeze", "definition": "Gentle, soft wind that feels nice"},
+          {"word": "special", "definition": "Important and wonderful"},
+          {"word": "important", "definition": "Really matters and helps us"}
+        ],
+        "materials_needed": [
+          "Open safe space for movement",
+          "All weather helper items from previous lessons",
+          "Celebration music (optional)",
+          "Stickers or small rewards (optional)"
+        ],
+        "parent_guidance": "Join in all the movements enthusiastically! Do each weather action together. Celebrate child's learning with praise. Take photos if desired. Make it feel like a real celebration of their weather knowledge.",
+        "safety_notes": [
+          "Ensure safe space for all movements",
+          "Keep spinning gentle to prevent dizziness",
+          "Hold child's hand during movements if needed",
+          "Take breaks between different weather actions",
+          "Keep music at safe volume levels"
+        ],
+        "discussion_questions": [
+          "Which weather is your favorite?",
+          "What does each type of weather do to help us?",
+          "Can you name all the weather types we learned?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Weather Book Creation",
+            "description": "Make a simple book with drawings of all weather types learned.",
+            "materials": ["Paper", "Crayons", "Stapler (parent use)", "Stickers"]
+          },
+          {
+            "title": "Weather Report Game",
+            "description": "Child can 'report' the weather outside like on TV.",
+            "materials": ["Window for observation", "Pretend microphone"]
+          },
+          {
+            "title": "Weather Dance Party",
+            "description": "Dance and move like different weather types to music.",
+            "materials": ["Safe space", "Happy music"]
+          }
+        ]
+      }
+    }
+  ]
+}

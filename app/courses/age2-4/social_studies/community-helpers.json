@@ -1,0 +1,460 @@
+{
+  "course": {
+    "title_en": "Community Helpers",
+    "title_ar": "مساعدو المجتمع",
+    "description_en": "Meet the special people who help us every day in our community. Learn about doctors, firefighters, teachers, and other helpers who keep us safe and happy.",
+    "description_ar": "تعرف على الأشخاص المميزين الذين يساعدوننا كل يوم في مجتمعنا. تعلم عن الأطباء ورجال الإطفاء والمعلمين وغيرهم من المساعدين الذين يحافظون على سلامتنا وسعادتنا.",
+    "age_group_min": 2,
+    "age_group_max": 4,
+    "estimated_duration_minutes": 60,
+    "subject": "social_studies"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "Doctor Helps Us Feel Better",
+      "title_ar": "الطبيب يساعدنا لنشعر بتحسن",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Dr. Sarah Takes Care of Everyone",
+        "content": "Meet Dr. Sarah! She is a doctor. Doctors help people feel better. Dr. Sarah wears a white coat. She has a stethoscope around her neck. The stethoscope listens to your heart. Thump thump, thump thump! Dr. Sarah is very kind. When you feel sick, she helps you. She checks your temperature. She looks in your ears. She makes sure you are healthy. Dr. Sarah gives medicine to help you feel better. She tells you to rest and drink water. Thank you, Dr. Sarah, for taking care of us!",
+        "learning_objectives": [
+          "Identify what doctors do to help people",
+          "Recognize doctor tools and clothing",
+          "Understand doctors help us when we're sick"
+        ],
+        "vocabulary_words": [
+          {"word": "doctor", "definition": "Person who helps sick people feel better"},
+          {"word": "stethoscope", "definition": "Tool doctors use to listen to your heart"},
+          {"word": "medicine", "definition": "Special help that makes sick people better"},
+          {"word": "healthy", "definition": "Feeling good and strong, not sick"},
+          {"word": "temperature", "definition": "How hot or cold your body is"},
+          {"word": "kind", "definition": "Nice and caring to other people"}
+        ],
+        "materials_needed": [
+          "White shirt or coat for dress-up",
+          "Toy stethoscope or pretend one",
+          "Teddy bear for 'patient'",
+          "Pretend thermometer (toy)"
+        ],
+        "parent_guidance": "Let child play doctor with teddy bear. Demonstrate listening to heartbeat gently. Explain that doctors help us and are not scary. Use positive, reassuring language about doctor visits. Practice being gentle with 'patient'.",
+        "safety_notes": [
+          "Use only safe, large toy medical instruments",
+          "No real medical equipment",
+          "Supervise all pretend play",
+          "Keep role-play gentle and positive",
+          "Ensure teddy bear is clean and safe"
+        ],
+        "discussion_questions": [
+          "What does a doctor wear?",
+          "How do doctors help us?",
+          "What does a stethoscope do?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Teddy Bear Hospital",
+            "description": "Set up pretend hospital and take care of stuffed animals.",
+            "materials": ["Stuffed animals", "Toy doctor kit", "Blankets"]
+          },
+          {
+            "title": "Doctor Tools Match",
+            "description": "Match pictures of doctor tools to what they do.",
+            "materials": ["Pictures of stethoscope, thermometer, etc."]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "Firefighter Keeps Us Safe",
+      "title_ar": "رجل الإطفاء يحافظ على سلامتنا",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Captain Mike Fights Fires",
+        "content": "Meet Captain Mike the firefighter! Firefighters are very brave. They help when there are fires. Captain Mike wears a special helmet. His helmet is hard and keeps his head safe. He wears heavy boots and a big coat. The coat protects him from fire. Captain Mike rides in a big red fire truck. The fire truck has a loud siren. Wee-ooh, wee-ooh! It has long hoses to spray water. Water puts out fires. Captain Mike also helps rescue people. He climbs tall ladders. He is strong and brave. Let's practice being firefighters! Put on your helmet! Climb the ladder! Spray water on the fire! Thank you, Captain Mike!",
+        "learning_objectives": [
+          "Learn what firefighters do to help people",
+          "Identify firefighter equipment and vehicles",
+          "Practice firefighter movements safely"
+        ],
+        "vocabulary_words": [
+          {"word": "firefighter", "definition": "Brave person who puts out fires and saves people"},
+          {"word": "helmet", "definition": "Hard hat that protects your head"},
+          {"word": "fire truck", "definition": "Big red truck that carries water to put out fires"},
+          {"word": "siren", "definition": "Loud sound that warns people emergency vehicle is coming"},
+          {"word": "rescue", "definition": "Save someone who needs help"},
+          {"word": "brave", "definition": "Not scared, willing to help even when it's dangerous"}
+        ],
+        "materials_needed": [
+          "Toy helmet or hat",
+          "Red toy truck or box",
+          "Garden hose or pretend hose",
+          "Sturdy step stool for 'ladder'"
+        ],
+        "parent_guidance": "Emphasize how firefighters help people. Let child practice climbing step stool safely with supervision. Make siren sounds together. Demonstrate spraying water motion with pretend hose. Keep focus on helping others.",
+        "safety_notes": [
+          "Always supervise step stool climbing",
+          "Ensure helmet fits properly if used",
+          "No real water spraying indoors",
+          "Keep climbing activities low and safe",
+          "Hold child's hand during ladder practice"
+        ],
+        "discussion_questions": [
+          "What do firefighters wear to stay safe?",
+          "What sound does a fire truck make?",
+          "How do firefighters put out fires?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Fire Safety Practice",
+            "description": "Practice stop, drop, and roll and calling for help.",
+            "materials": ["Open safe space", "Pretend phone"]
+          },
+          {
+            "title": "Fire Truck Building",
+            "description": "Build fire truck with blocks or boxes and pretend to drive to help people.",
+            "materials": ["Building blocks", "Red paper", "Imagination"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "Teacher Helps Us Learn",
+      "title_ar": "المعلم يساعدنا على التعلم",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 7,
+      "content_data": {
+        "title": "Miss Emma Teaches Every Day",
+        "content": "Meet Miss Emma! She is a teacher. Teachers help children learn new things. Miss Emma works at a school. She has a big classroom with desks and chairs. Miss Emma reads books to her students. She teaches letters and numbers. A, B, C and 1, 2, 3! She shows pictures and tells stories. Miss Emma is very patient. She helps children when they don't understand. She smiles a lot and uses a kind voice. Miss Emma has books, crayons, and paper. She helps children draw and write. At the end of the day, she says goodbye with a wave. Thank you, Miss Emma, for helping us learn!",
+        "learning_objectives": [
+          "Understand what teachers do to help children",
+          "Identify classroom items and learning tools",
+          "Appreciate teachers' role in learning"
+        ],
+        "vocabulary_words": [
+          {"word": "teacher", "definition": "Person who helps children learn new things"},
+          {"word": "school", "definition": "Place where children go to learn"},
+          {"word": "classroom", "definition": "Room where teacher teaches children"},
+          {"word": "student", "definition": "Child who comes to school to learn"},
+          {"word": "patient", "definition": "Calm and kind, not rushing or getting angry"},
+          {"word": "learn", "definition": "Find out new things and remember them"}
+        ],
+        "materials_needed": [
+          "Books for story time",
+          "Crayons and paper",
+          "Small chair for 'teacher desk'",
+          "Toy pointer or ruler"
+        ],
+        "parent_guidance": "Set up pretend classroom with child as teacher. Let child 'teach' you letters or numbers. Practice reading books together. Emphasize how teachers are helpers who care about children. Make learning fun and positive.",
+        "safety_notes": [
+          "Use only safe, non-toxic crayons",
+          "Ensure books are age-appropriate",
+          "Supervise use of pointer - no hitting",
+          "Keep classroom setup safe and organized",
+          "Use child-sized furniture when possible"
+        ],
+        "discussion_questions": [
+          "What does a teacher do?",
+          "Where do teachers work?",
+          "How do teachers help you learn?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Play School",
+            "description": "Set up classroom and take turns being teacher and student.",
+            "materials": ["School supplies", "Dolls or stuffed animals as students"]
+          },
+          {
+            "title": "Thank You Teacher",
+            "description": "Draw picture or make card to thank a teacher you know.",
+            "materials": ["Paper", "Crayons", "Stickers"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "Police Officer Keeps Us Safe",
+      "title_ar": "ضابط الشرطة يحافظ على سلامتنا",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Officer Tom Helps Everyone",
+        "content": "Meet Officer Tom! He is a police officer. Police officers keep everyone safe. Officer Tom wears a special uniform. It has a badge that shines. The badge shows he is a police officer. He has a hat and strong boots. Officer Tom drives a police car. It has flashing lights and a siren. The lights help people see him coming. Officer Tom helps find lost children. He helps people cross the street safely. He makes sure everyone follows the rules. Officer Tom is friendly and helpful. He waves to children and smiles. If you ever need help, you can ask a police officer. They are there to help you!",
+        "learning_objectives": [
+          "Learn how police officers help keep people safe",
+          "Identify police uniform and equipment",
+          "Understand police officers are helpers we can trust"
+        ],
+        "vocabulary_words": [
+          {"word": "police officer", "definition": "Person who helps keep everyone safe and follows rules"},
+          {"word": "uniform", "definition": "Special clothes that show what job someone has"},
+          {"word": "badge", "definition": "Shiny thing police officers wear to show their job"},
+          {"word": "rules", "definition": "Important things we must do to stay safe"},
+          {"word": "lost", "definition": "When you can't find your way home"},
+          {"word": "trust", "definition": "Believe someone will help you and keep you safe"}
+        ],
+        "materials_needed": [
+          "Toy police hat or cap",
+          "Toy badge or star sticker",
+          "Toy police car",
+          "Whistle (adult-supervised use only)"
+        ],
+        "parent_guidance": "Emphasize that police officers are helpers, not scary. Practice crossing street safely. Explain when and how to ask police for help. Role-play meeting a friendly police officer. Keep all interactions positive.",
+        "safety_notes": [
+          "Supervise whistle use - limit volume",
+          "Use only safe toy police equipment",
+          "Ensure positive association with police",
+          "Practice safety rules in controlled environment",
+          "No real police equipment"
+        ],
+        "discussion_questions": [
+          "How do police officers help us?",
+          "What does a police officer wear?",
+          "When might you ask a police officer for help?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Safety Rules Practice",
+            "description": "Practice looking both ways, holding hands when crossing street.",
+            "materials": ["Safe indoor space", "Tape for 'street lines'"]
+          },
+          {
+            "title": "Community Helper Parade",
+            "description": "March around as different community helpers with their tools.",
+            "materials": ["All helper costumes/props from lessons"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "Mail Carrier Brings Letters",
+      "title_ar": "ساعي البريد يجلب الرسائل",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 7,
+      "content_data": {
+        "title": "Mr. Carlos Delivers the Mail",
+        "content": "Meet Mr. Carlos! He is a mail carrier. Mail carriers bring letters and packages to our homes. Mr. Carlos has a big bag full of mail. He walks from house to house every day. Mr. Carlos wears comfortable shoes for walking. He has a hat to protect him from sun and rain. He drives a mail truck that stops at every mailbox. Mr. Carlos puts letters in the mailbox. He brings packages to the door. Sometimes he brings birthday cards! Sometimes he brings important letters for grown-ups. Mr. Carlos knows every house on his route. He waves and says hello to everyone. Thank you, Mr. Carlos, for bringing our mail!",
+        "learning_objectives": [
+          "Understand what mail carriers do for the community",
+          "Learn about letters, packages, and mailboxes",
+          "Appreciate daily services that help families"
+        ],
+        "vocabulary_words": [
+          {"word": "mail carrier", "definition": "Person who brings letters and packages to your house"},
+          {"word": "letters", "definition": "Messages written on paper and sent to people"},
+          {"word": "packages", "definition": "Boxes with things inside sent to people"},
+          {"word": "mailbox", "definition": "Special box where mail carrier puts your letters"},
+          {"word": "route", "definition": "Path mail carrier takes to visit all the houses"},
+          {"word": "comfortable", "definition": "Feeling good, not hurt or sore"}
+        ],
+        "materials_needed": [
+          "Toy mail bag or large bag",
+          "Envelopes or pretend letters",
+          "Small boxes for 'packages'",
+          "Toy mailbox or container"
+        ],
+        "parent_guidance": "Let child play mail carrier delivering letters around the house. Practice writing or drawing on envelopes. Explain how mail gets from one person to another. Show real mailbox outside if safe to do so.",
+        "safety_notes": [
+          "Use only safe, lightweight packages",
+          "Ensure mail bag isn't too heavy for child",
+          "Supervise outdoor mailbox visits",
+          "Use clean envelopes and materials",
+          "Keep all mail play indoors unless supervised"
+        ],
+        "discussion_questions": [
+          "What does a mail carrier bring us?",
+          "Where does the mail carrier put letters?",
+          "How does mail get to our house?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Family Mail Delivery",
+            "description": "Deliver pretend letters to family members around the house.",
+            "materials": ["Envelopes", "Drawings or stickers", "Mail bag"]
+          },
+          {
+            "title": "Thank You Card Making",
+            "description": "Make thank you cards for community helpers learned so far.",
+            "materials": ["Paper", "Crayons", "Stickers"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "Grocery Store Worker Helps Us Shop",
+      "title_ar": "عامل متجر البقالة يساعدنا في التسوق",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Ms. Rosa Helps at the Store",
+        "content": "Meet Ms. Rosa! She works at the grocery store. Grocery store workers help us find food to buy. Ms. Rosa stocks the shelves with food. She puts apples with apples. She puts milk in the cold section. Ms. Rosa helps customers find what they need. 'Where are the bananas?' 'Right here!' she says with a smile. She works at the checkout too. Beep, beep, beep! She scans the food. She puts groceries in bags carefully. Ms. Rosa makes sure the store is clean and organized. She helps make shopping easy for families. Let's play grocery store! We can stock shelves and help customers too!",
+        "learning_objectives": [
+          "Learn how grocery store workers help communities",
+          "Understand shopping and food organization",
+          "Practice helping and organizing skills"
+        ],
+        "vocabulary_words": [
+          {"word": "grocery store", "definition": "Place where families buy food and things they need"},
+          {"word": "shelves", "definition": "Long flat places in store where food sits"},
+          {"word": "customers", "definition": "People who come to buy things at the store"},
+          {"word": "checkout", "definition": "Place where you pay for things you want to buy"},
+          {"word": "organized", "definition": "Everything in the right place, neat and tidy"},
+          {"word": "scan", "definition": "Use special tool to read the price of food"}
+        ],
+        "materials_needed": [
+          "Empty food boxes and containers",
+          "Shopping basket or bag",
+          "Toy cash register or box",
+          "Play money or paper pieces"
+        ],
+        "parent_guidance": "Set up pretend grocery store with empty containers. Let child be both worker and customer. Practice organizing items by type. Emphasize being helpful and polite. Make shopping fun and educational.",
+        "safety_notes": [
+          "Use only empty, clean food containers",
+          "Ensure no sharp edges on containers",
+          "Keep play money large enough to be safe",
+          "Supervise all store setup activities",
+          "Check that all props are age-appropriate"
+        ],
+        "discussion_questions": [
+          "What does Ms. Rosa do at the store?",
+          "How do grocery store workers help us?",
+          "Where do we pay for our food?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Store Organization Game",
+            "description": "Sort play food into groups - fruits, vegetables, milk products.",
+            "materials": ["Play food items", "Baskets or containers for sorting"]
+          },
+          {
+            "title": "Shopping List Adventure",
+            "description": "Make picture shopping list and 'shop' for items in pretend store.",
+            "materials": ["Paper", "Crayons", "Pictures of food items"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "Community Helpers Quiz",
+      "title_ar": "اختبار مساعدي المجتمع",
+      "lesson_type": "quiz",
+      "estimated_duration_minutes": 6,
+      "content_data": {
+        "title": "Who Helps Us in Our Community?",
+        "content": "Let's play a fun game about all the community helpers we learned about! I will ask you questions about the special people who help us every day. You can point to pictures or tell me the answers!",
+        "learning_objectives": [
+          "Review all community helpers learned",
+          "Match helpers to their tools and jobs",
+          "Show understanding of how helpers serve community"
+        ],
+        "vocabulary_words": [
+          {"word": "quiz", "definition": "Fun game with questions about what you learned"},
+          {"word": "community", "definition": "All the people who live and work near you"}
+        ],
+        "materials_needed": [
+          "Pictures of all community helpers",
+          "Pictures of their tools and vehicles",
+          "Comfortable seating area"
+        ],
+        "parent_guidance": "Show pictures clearly and give child time to think. Accept pointing or simple words as answers. Use encouraging tone throughout. Celebrate every response positively. Help child connect helpers to their jobs.",
+        "safety_notes": [
+          "Keep quiz atmosphere fun and pressure-free",
+          "No stress about perfect answers",
+          "Take breaks if child seems tired",
+          "Use positive reinforcement only"
+        ],
+        "discussion_questions": [
+          "Who helps us when we are sick?",
+          "Point to the person who puts out fires!",
+          "Who teaches children at school?",
+          "Which helper keeps us safe and follows rules?",
+          "Who brings letters to our house?",
+          "Point to the person who helps us buy food!",
+          "What does a doctor use to listen to your heart?",
+          "What vehicle does a firefighter drive?",
+          "Where does a teacher work?",
+          "What does a mail carrier carry?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Helper Tools Match",
+            "description": "Match pictures of tools to the right community helper.",
+            "materials": ["Pictures of helpers", "Pictures of their tools"]
+          },
+          {
+            "title": "Community Helper Charades",
+            "description": "Act out what different helpers do while others guess.",
+            "materials": ["Helper props from previous lessons"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "Thank You Community Helpers",
+      "title_ar": "شكرًا مساعدي المجتمع",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 12,
+      "content_data": {
+        "title": "Celebrating All Our Community Helpers",
+        "content": "Let's celebrate all the wonderful people who help us every day! Dr. Sarah helps us feel better when we're sick. Captain Mike keeps us safe from fires. Miss Emma helps us learn new things. Officer Tom protects us and keeps everyone safe. Mr. Carlos brings our mail every day. Ms. Rosa helps us buy food at the store. All these helpers make our community a better place to live! They work hard every day to help families. Let's say thank you to each helper! 'Thank you, Doctor!' 'Thank you, Firefighter!' 'Thank you, Teacher!' 'Thank you, Police Officer!' 'Thank you, Mail Carrier!' 'Thank you, Store Worker!' We can help others too! We can be kind. We can share. We can help clean up. We can be good community helpers!",
+        "learning_objectives": [
+          "Review and appreciate all community helpers learned",
+          "Understand how helpers make community better",
+          "Learn ways children can help their community too"
+        ],
+        "vocabulary_words": [
+          {"word": "celebrate", "definition": "Be happy and thankful for something special"},
+          {"word": "community", "definition": "Place where we live with all our neighbors"},
+          {"word": "protect", "definition": "Keep safe from danger or harm"},
+          {"word": "appreciate", "definition": "Be thankful and understand how good something is"},
+          {"word": "kind", "definition": "Nice and caring to other people"},
+          {"word": "share", "definition": "Let others use or have some of what you have"}
+        ],
+        "materials_needed": [
+          "All props and costumes from previous lessons",
+          "Thank you cards or paper",
+          "Stickers and crayons",
+          "Camera for photos (optional)"
+        ],
+        "parent_guidance": "Help child try on different helper costumes and act out their jobs. Make thank you cards together for real community helpers you know. Take photos of child as different helpers. Discuss ways your family helps the community.",
+        "safety_notes": [
+          "Ensure all costumes fit safely",
+          "Supervise use of all props",
+          "Keep celebration activities calm and organized",
+          "Use safe art supplies for card making",
+          "Take photos safely if desired"
+        ],
+        "discussion_questions": [
+          "Which community helper is your favorite?",
+          "How do all these helpers make our town better?",
+          "What can you do to help others?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Community Helper Book",
+            "description": "Make book with pictures of all helpers and what they do.",
+            "materials": ["Paper", "Crayons", "Photos from lessons", "Stapler"]
+          },
+          {
+            "title": "Real Helper Visit",
+            "description": "Plan to visit or invite real community helper to meet child.",
+            "materials": ["Coordination with local helpers", "Thank you cards"]
+          },
+          {
+            "title": "Family Helper Plan",
+            "description": "Make plan for how family can help community (picking up litter, etc.).",
+            "materials": ["Paper", "Family discussion", "Simple action plan"]
+          }
+        ]
+      }
+    }
+  ]
+}

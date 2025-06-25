@@ -1,0 +1,464 @@
+{
+  "course": {
+    "title_en": "Letters A-M",
+    "title_ar": "الحروف أ-م",
+    "description_en": "Learn the first half of the alphabet through fun stories and activities. Discover letters A through M and the sounds they make with simple words.",
+    "description_ar": "تعلم النصف الأول من الأبجدية من خلال القصص والأنشطة الممتعة. اكتشف الحروف من أ إلى م والأصوات التي تصدرها مع الكلمات البسيطة.",
+    "age_group_min": 2,
+    "age_group_max": 4,
+    "estimated_duration_minutes": 62,
+    "subject": "language_arts"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "A is for Apple",
+      "title_ar": "أ للتفاحة",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Annie Apple's Big Adventure",
+        "content": "Meet Annie Apple! Annie is red and round. Annie starts with the letter A. A says 'ah' like when you open your mouth wide. Annie Apple lives on a tree. Annie is very proud of her letter A. Let's find more A words! Ant says A. Airplane says A. Alligator says A. When we see the letter A, we say 'ah, ah, A!' Annie Apple wants to teach you. A is the first letter. A is very important. Point to the letter A. Say 'A is for Apple!'",
+        "learning_objectives": [
+          "Recognize the letter A",
+          "Learn that A makes the 'ah' sound",
+          "Identify words that start with A"
+        ],
+        "vocabulary_words": [
+          {"word": "apple", "definition": "Round red fruit that is yummy to eat"},
+          {"word": "letter", "definition": "Shape that makes sounds and helps spell words"},
+          {"word": "sound", "definition": "Noise that letters make when we say them"},
+          {"word": "ant", "definition": "Very small bug that works hard"},
+          {"word": "airplane", "definition": "Big machine that flies in the sky"},
+          {"word": "alligator", "definition": "Big green animal with lots of teeth"}
+        ],
+        "materials_needed": [
+          "Real apple or apple picture",
+          "Large letter A written on paper",
+          "Pictures of ant, airplane, alligator",
+          "Red crayon or marker"
+        ],
+        "parent_guidance": "Show the letter A clearly and have child trace it with finger. Make the 'ah' sound together multiple times. Point to each picture and emphasize the A sound at the beginning of each word. Let child hold or touch the apple while learning.",
+        "safety_notes": [
+          "If using real apple, wash it thoroughly first",
+          "Ensure apple pieces are large enough to prevent choking",
+          "Use safe, non-toxic crayons",
+          "Keep all materials large and age-appropriate",
+          "Supervise any food-related activities"
+        ],
+        "discussion_questions": [
+          "What letter does apple start with?",
+          "What sound does A make?",
+          "Can you find the letter A?"
+        ],
+        "extension_activities": [
+          {
+            "title": "A Hunt Around the House",
+            "description": "Look for things that start with A around the house (apple, ant toy, etc.).",
+            "materials": ["Various A-word objects around house"]
+          },
+          {
+            "title": "Letter A Tracing",
+            "description": "Trace the letter A with finger on paper or in sand/rice.",
+            "materials": ["Large paper with letter A", "Safe tracing material"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "B is for Ball and Bear",
+      "title_ar": "ب للكرة والدب",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Bouncing with Letter B",
+        "content": "Let's learn about the letter B! B makes the sound 'buh' like when you say 'ball.' Let's bounce like the letter B! Hold a soft ball. Ball starts with B. Say 'B is for Ball!' Now let's be bears! Bears start with B too. Bears say 'buh, buh' when they talk. Let's practice B sounds together. Butterfly starts with B. Banana starts with B. Boat starts with B. Every time we say a B word, we bounce the ball gently. Ready? Ball! Bounce! Bear! Bounce! B is a bouncy letter!",
+        "learning_objectives": [
+          "Recognize the letter B",
+          "Learn that B makes the 'buh' sound",
+          "Practice B words through movement"
+        ],
+        "vocabulary_words": [
+          {"word": "ball", "definition": "Round toy that can bounce and roll"},
+          {"word": "bear", "definition": "Big furry animal that likes honey"},
+          {"word": "bounce", "definition": "Go up and down like a ball"},
+          {"word": "butterfly", "definition": "Pretty flying insect with colorful wings"},
+          {"word": "banana", "definition": "Long yellow fruit that monkeys like"},
+          {"word": "boat", "definition": "Thing that floats on water"}
+        ],
+        "materials_needed": [
+          "Soft ball (large enough to be safe)",
+          "Large letter B written on paper",
+          "Pictures of bear, butterfly, banana, boat",
+          "Teddy bear (if available)"
+        ],
+        "parent_guidance": "Demonstrate gentle bouncing with the ball. Help child make the 'buh' sound clearly. Use the teddy bear to act out being a bear. Keep bouncing activities controlled and safe. Practice the B sound with each new word.",
+        "safety_notes": [
+          "Use only soft, age-appropriate balls",
+          "Ensure bouncing area is safe and clear",
+          "Keep bouncing gentle and controlled",
+          "Supervise all ball activities",
+          "Choose balls large enough to prevent choking"
+        ],
+        "discussion_questions": [
+          "What sound does B make?",
+          "Can you bounce the ball?",
+          "What other words start with B?"
+        ],
+        "extension_activities": [
+          {
+            "title": "B Sound Safari",
+            "description": "Go around house making 'buh' sound and finding B objects.",
+            "materials": ["Various B-word objects", "Imagination"]
+          },
+          {
+            "title": "Bear Dance",
+            "description": "Dance and move like bears while saying 'B is for Bear!'",
+            "materials": ["Open space", "Optional teddy bear"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "C is for Cat and Car",
+      "title_ar": "ج للقطة والسيارة",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Curious Cat Drives a Car",
+        "content": "Meet Curious Cat! Cat starts with the letter C. C makes the sound 'kuh' like when you cough gently. Curious Cat loves to drive her car. Car also starts with C! Cat says 'kuh, kuh' when she purrs. Car says 'kuh, kuh' when it starts. Let's help Cat drive her car! We'll make C sounds together. Cup starts with C. Cookie starts with C. Cow starts with C. Curious Cat drives to see them all. 'Kuh, kuh, car!' says Cat. 'Kuh, kuh, C!' we say back!",
+        "learning_objectives": [
+          "Recognize the letter C",
+          "Learn that C makes the 'kuh' sound",
+          "Connect letter sounds to story characters"
+        ],
+        "vocabulary_words": [
+          {"word": "cat", "definition": "Soft furry animal that says meow and purrs"},
+          {"word": "car", "definition": "Machine with wheels that takes people places"},
+          {"word": "curious", "definition": "Wanting to learn and see new things"},
+          {"word": "cup", "definition": "Thing you drink from"},
+          {"word": "cookie", "definition": "Sweet treat that's round and yummy"},
+          {"word": "cow", "definition": "Big black and white animal that says moo"}
+        ],
+        "materials_needed": [
+          "Toy car (large enough to be safe)",
+          "Stuffed cat or cat picture",
+          "Large letter C written on paper",
+          "Pictures of cup, cookie, cow"
+        ],
+        "parent_guidance": "Make the 'kuh' sound clearly and have child repeat it. Use the toy car to act out the story. Show how cats purr with the 'kuh' sound. Practice the C sound at the beginning of each new word introduced.",
+        "safety_notes": [
+          "Use only large, safe toy cars",
+          "Ensure no small parts that could be choking hazards",
+          "Keep stuffed animals clean",
+          "Supervise all toy activities",
+          "Use age-appropriate, sturdy toys"
+        ],
+        "discussion_questions": [
+          "What sound does C make?",
+          "Where is Curious Cat going in her car?",
+          "What other things start with C?"
+        ],
+        "extension_activities": [
+          {
+            "title": "C Word Car Ride",
+            "description": "Pretend to drive car to different C-word destinations.",
+            "materials": ["Toy car", "Pictures of C-words", "Imagination"]
+          },
+          {
+            "title": "Cat Purring Practice",
+            "description": "Practice making purring sounds like cats with the C sound.",
+            "materials": ["Stuffed cat or cat picture"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "D, E, F Friends Together",
+      "title_ar": "أصدقاء د، هـ، ف معًا",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 9,
+      "content_data": {
+        "title": "Three Letter Friends: Dog, Elephant, and Fish",
+        "content": "Today we meet three letter friends! First is D for Dog. Dog says 'duh, duh' when he barks. Dogs are friendly pets. Next is E for Elephant. Elephant says 'eh, eh' with his trunk. Elephants are very big! Last is F for Fish. Fish says 'fuh, fuh' as he swims. Fish live in water. Let's visit each friend! Crawl like a dog and say 'duh!' Stomp like an elephant and say 'eh!' Swim like a fish and say 'fuh!' D, E, F are great friends. They like to play together!",
+        "learning_objectives": [
+          "Recognize letters D, E, and F",
+          "Learn the sounds 'duh', 'eh', and 'fuh'",
+          "Practice letter sounds through animal movements"
+        ],
+        "vocabulary_words": [
+          {"word": "dog", "definition": "Friendly animal that barks and wags tail"},
+          {"word": "elephant", "definition": "Very big gray animal with long trunk"},
+          {"word": "fish", "definition": "Animal that swims in water and has fins"},
+          {"word": "trunk", "definition": "Long nose that elephants have"},
+          {"word": "swim", "definition": "Move through water like fish do"},
+          {"word": "friendly", "definition": "Nice and kind to others"}
+        ],
+        "materials_needed": [
+          "Large letters D, E, F written on paper",
+          "Pictures of dog, elephant, fish",
+          "Open space for animal movements",
+          "Blue scarf for 'water' (optional)"
+        ],
+        "parent_guidance": "Practice each letter sound clearly. Demonstrate the animal movements safely. Help child connect each letter to its animal and sound. Keep movements gentle and age-appropriate. Practice one letter at a time before combining them.",
+        "safety_notes": [
+          "Ensure safe space for crawling and stomping",
+          "Keep movements gentle to prevent falls",
+          "Hold child's hand during elephant stomping if needed",
+          "Use soft surface for crawling activities",
+          "Supervise all movement activities"
+        ],
+        "discussion_questions": [
+          "Which animal starts with D?",
+          "What sound does the elephant letter make?",
+          "Can you swim like a fish?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Animal Letter Parade",
+            "description": "March around room being each animal while saying their letter sounds.",
+            "materials": ["Pictures of D, E, F animals", "Safe marching space"]
+          },
+          {
+            "title": "Letter Sound Orchestra",
+            "description": "Make D, E, F sounds together like a musical orchestra.",
+            "materials": ["None needed - just voices"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "G, H, I Adventure",
+      "title_ar": "مغامرة ج، ح، ي",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 9,
+      "content_data": {
+        "title": "Goat, Hat, and Ice Cream's Fun Day",
+        "content": "Let's go on an adventure with three friends! First we meet Goat. G makes the sound 'guh.' Goat likes to jump and play. Goat wears a special Hat! H makes the sound 'huh.' Hat keeps Goat's head warm. They want to get Ice cream! I makes the sound 'ih.' Ice cream is cold and yummy. 'Guh for Goat!' says Goat. 'Huh for Hat!' says Hat. 'Ih for Ice cream!' says Ice cream. Together they have a wonderful day. G, H, I are happy letters!",
+        "learning_objectives": [
+          "Recognize letters G, H, and I",
+          "Learn the sounds 'guh', 'huh', and 'ih'",
+          "Follow a simple story with letter characters"
+        ],
+        "vocabulary_words": [
+          {"word": "goat", "definition": "Animal with horns that likes to jump and eat grass"},
+          {"word": "hat", "definition": "Thing you wear on your head to stay warm"},
+          {"word": "ice cream", "definition": "Cold, sweet treat that comes in many flavors"},
+          {"word": "adventure", "definition": "Fun trip or journey to new places"},
+          {"word": "jump", "definition": "Push up with feet and go into the air"},
+          {"word": "wonderful", "definition": "Really great and makes you happy"}
+        ],
+        "materials_needed": [
+          "Large letters G, H, I written on paper",
+          "Pictures of goat, hat, ice cream",
+          "Real hat for child to try on",
+          "Pretend ice cream cone (toy or paper)"
+        ],
+        "parent_guidance": "Practice each letter sound clearly with child. Let child try on the hat during the H part. Use pretend ice cream to make the story interactive. Help child make gentle jumping motions for the goat. Keep the story engaging and interactive.",
+        "safety_notes": [
+          "Ensure hat is clean and fits properly",
+          "Keep jumping movements gentle and low",
+          "Use only safe pretend food items",
+          "Hold child's hand during jumping if needed",
+          "Supervise hat-wearing activity"
+        ],
+        "discussion_questions": [
+          "What does Goat like to do?",
+          "What does Hat do for Goat?",
+          "What letter does Ice cream start with?"
+        ],
+        "extension_activities": [
+          {
+            "title": "G-H-I Story Acting",
+            "description": "Act out the story wearing hat, jumping like goat, pretending to eat ice cream.",
+            "materials": ["Hat", "Pretend ice cream", "Safe jumping space"]
+          },
+          {
+            "title": "Letter Friends Drawing",
+            "description": "Draw pictures of Goat, Hat, and Ice cream together.",
+            "materials": ["Paper", "Crayons", "G-H-I letter guides"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "J, K, L, M Musical March",
+      "title_ar": "مسيرة موسيقية ج، ك، ل، م",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 10,
+      "content_data": {
+        "title": "Jumping, Kicking, Laughing, and Marching with Letters",
+        "content": "Let's finish our first letters with a musical march! J is for Jump! Jump says 'juh, juh!' Jump up and down gently. K is for Kick! Kick says 'kuh, kuh!' Kick your legs softly. L is for Laugh! Laugh says 'luh, luh!' Laugh and giggle happily. M is for March! March says 'muh, muh!' March around like soldiers. Now let's do them all together! Jump and say 'juh!' Kick and say 'kuh!' Laugh and say 'luh!' March and say 'muh!' J, K, L, M are the end of our alphabet friends!",
+        "learning_objectives": [
+          "Recognize letters J, K, L, and M",
+          "Learn the sounds 'juh', 'kuh', 'luh', and 'muh'",
+          "Practice letter sounds through physical movements"
+        ],
+        "vocabulary_words": [
+          {"word": "jump", "definition": "Go up and down with your feet"},
+          {"word": "kick", "definition": "Move your leg forward gently"},
+          {"word": "laugh", "definition": "Happy sound you make when something is funny"},
+          {"word": "march", "definition": "Walk with big steps like in a parade"},
+          {"word": "musical", "definition": "Having rhythm and sounds like music"},
+          {"word": "soldiers", "definition": "People who march together in lines"}
+        ],
+        "materials_needed": [
+          "Large letters J, K, L, M written on paper",
+          "Soft background music for marching",
+          "Open safe space for movements",
+          "Pictures of jumping, kicking, laughing, marching"
+        ],
+        "parent_guidance": "Demonstrate each movement safely before child tries it. Keep jumping low and gentle. Make kicking movements soft and controlled. Encourage laughing and giggling naturally. March together holding hands. Practice each letter sound with its movement.",
+        "safety_notes": [
+          "Keep all movements gentle and controlled",
+          "Ensure safe, clear space for activities",
+          "Hold child's hand during movements if needed",
+          "Keep jumping low to prevent falls",
+          "Use soft surface for jumping and marching"
+        ],
+        "discussion_questions": [
+          "Which letter makes the 'juh' sound?",
+          "Can you march like the letter M?",
+          "What makes you laugh?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Alphabet Review Parade",
+            "description": "March through all letters A-M making their sounds and movements.",
+            "materials": ["All letter cards A-M", "Marching music", "Safe space"]
+          },
+          {
+            "title": "Letter Sound Dance Party",
+            "description": "Dance while saying all the letter sounds learned so far.",
+            "materials": ["Happy music", "Letter visual aids"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "Alphabet A-M Quiz",
+      "title_ar": "اختبار الأبجدية أ-م",
+      "lesson_type": "quiz",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "What Letters Do You Know?",
+        "content": "Let's play a fun letter game! I will show you letters and ask you questions. You can point, make sounds, or tell me the answers!",
+        "learning_objectives": [
+          "Review all letters A through M",
+          "Practice letter sounds and recognition",
+          "Show understanding of letter-word connections"
+        ],
+        "vocabulary_words": [
+          {"word": "quiz", "definition": "Fun game with questions about what you learned"},
+          {"word": "recognize", "definition": "See something and know what it is"}
+        ],
+        "materials_needed": [
+          "Large letter cards A through M",
+          "Pictures of words starting with each letter",
+          "Comfortable seating area"
+        ],
+        "parent_guidance": "Show each letter clearly and give child time to respond. Accept pointing, sounds, or words as answers. Celebrate every response positively. Use pictures to help child remember. Keep quiz fun and pressure-free.",
+        "safety_notes": [
+          "Keep quiz session short and enjoyable",
+          "No pressure for perfect answers",
+          "Take breaks if child seems tired",
+          "Use encouraging tone throughout"
+        ],
+        "discussion_questions": [
+          "Point to the letter A! What sound does it make?",
+          "Which letter does Ball start with?",
+          "Can you make the sound for Cat's letter?",
+          "Show me the letter that Dog starts with!",
+          "What letter does Elephant begin with?",
+          "Find the letter F! What word starts with F?",
+          "Which letter makes the 'guh' sound?",
+          "Point to H! What starts with H?",
+          "What sound does the letter I make?",
+          "Can you jump like the J letter?",
+          "Show me K and make its sound!",
+          "Which letter makes you Laugh?",
+          "Find M and march like it!"
+        ],
+        "extension_activities": [
+          {
+            "title": "Letter Memory Game",
+            "description": "Show letters quickly and see which ones child remembers.",
+            "materials": ["Letter cards A-M", "Timer (optional)"]
+          },
+          {
+            "title": "Alphabet Song Practice",
+            "description": "Sing ABC song focusing on letters A through M learned.",
+            "materials": ["Letter visual aids", "Simple ABC tune"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "Letters A-M Celebration",
+      "title_ar": "احتفال الحروف أ-م",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 12,
+      "content_data": {
+        "title": "Celebrating Our First Half of the Alphabet",
+        "content": "Let's celebrate all the letters we learned! We know A through M now. That's thirteen letters! Let's visit all our letter friends one more time. A says 'ah' for Apple. B says 'buh' for Ball. C says 'kuh' for Cat. D says 'duh' for Dog. E says 'eh' for Elephant. F says 'fuh' for Fish. G says 'guh' for Goat. H says 'huh' for Hat. I says 'ih' for Ice cream. J says 'juh' for Jump. K says 'kuh' for Kick. L says 'luh' for Laugh. M says 'muh' for March. You learned so many letters! You are an alphabet star! Let's sing and dance with all our letters!",
+        "learning_objectives": [
+          "Review and celebrate all letters A-M",
+          "Practice the complete sequence A through M",
+          "Build confidence in letter knowledge"
+        ],
+        "vocabulary_words": [
+          {"word": "celebrate", "definition": "Be very happy about something good you did"},
+          {"word": "alphabet", "definition": "All the letters from A to Z together"},
+          {"word": "thirteen", "definition": "The number 13, how many letters we learned"},
+          {"word": "sequence", "definition": "Things that come one after another in order"},
+          {"word": "star", "definition": "Someone who did a great job"},
+          {"word": "confidence", "definition": "Feeling good about what you can do"}
+        ],
+        "materials_needed": [
+          "All letter cards A through M",
+          "Pictures representing each letter",
+          "Celebration music",
+          "Stickers or small rewards",
+          "Large paper for alphabet display"
+        ],
+        "parent_guidance": "Go through each letter enthusiastically with child. Make all the sounds together. Do the movements for action letters. Take photos of this achievement if desired. Make child feel very proud of learning 13 letters. Consider making a special alphabet book together.",
+        "safety_notes": [
+          "Keep celebration positive and exciting",
+          "Use safe materials for any crafts",
+          "Keep music at appropriate volume",
+          "Ensure all activities are age-appropriate",
+          "Take breaks if child gets overstimulated"
+        ],
+        "discussion_questions": [
+          "Which letter was your favorite to learn?",
+          "Can you say all the letters from A to M?",
+          "What was the most fun letter activity?"
+        ],
+        "extension_activities": [
+          {
+            "title": "A-M Alphabet Book",
+            "description": "Create a special book with all letters A-M and their pictures.",
+            "materials": ["Paper", "Crayons", "Stickers", "Stapler (parent use)"]
+          },
+          {
+            "title": "Letter Achievement Certificate",
+            "description": "Make a special certificate showing child learned letters A-M.",
+            "materials": ["Certificate paper", "Crayons", "Stickers", "Proud parent"]
+          },
+          {
+            "title": "Alphabet Parade",
+            "description": "March around holding letter cards and making each sound proudly.",
+            "materials": ["All letter cards A-M", "Marching music", "Safe space"]
+          }
+        ]
+      }
+    }
+  ]
+}

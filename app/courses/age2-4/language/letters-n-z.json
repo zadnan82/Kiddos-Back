@@ -1,0 +1,465 @@
+{
+  "course": {
+    "title_en": "Letters N-Z",
+    "title_ar": "الحروف ن-ي",
+    "description_en": "Complete your alphabet journey by learning the second half of letters. Discover letters N through Z with fun characters, stories, and activities that make learning exciting.",
+    "description_ar": "أكمل رحلة الأبجدية من خلال تعلم النصف الثاني من الحروف. اكتشف الحروف من ن إلى ي مع الشخصيات والقصص والأنشطة الممتعة التي تجعل التعلم مثيرًا.",
+    "age_group_min": 2,
+    "age_group_max": 4,
+    "estimated_duration_minutes": 64,
+    "subject": "language_arts"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "N is for Nose and Net",
+      "title_ar": "ن للأنف والشبكة",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Nelly's Nose and Nathan's Net",
+        "content": "Meet Nelly! Nelly has a special nose. N makes the sound 'nuh' like when you say 'no.' Nelly's nose can smell nice things. Flowers smell nice. Cookies smell nice. Nelly meets Nathan with his net. Net also starts with N! Nathan catches butterflies with his net. 'Nuh for nose!' says Nelly. 'Nuh for net!' says Nathan. They find more N words together. Nuts start with N. Nap starts with N. Night starts with N. N is a wonderful letter!",
+        "learning_objectives": [
+          "Recognize the letter N",
+          "Learn that N makes the 'nuh' sound",
+          "Identify words that start with N"
+        ],
+        "vocabulary_words": [
+          {"word": "nose", "definition": "Part of your face that smells things"},
+          {"word": "net", "definition": "Thing with holes that catches butterflies or fish"},
+          {"word": "nice", "definition": "Good and pleasant, makes you happy"},
+          {"word": "nuts", "definition": "Hard little foods that squirrels like to eat"},
+          {"word": "nap", "definition": "Short sleep during the day"},
+          {"word": "night", "definition": "Dark time when we sleep"}
+        ],
+        "materials_needed": [
+          "Large letter N written on paper",
+          "Pictures of nose, net, nuts",
+          "Something with nice smell (flowers, vanilla)",
+          "Toy net or colander"
+        ],
+        "parent_guidance": "Point to child's nose and yours when talking about noses. Let child smell safe, pleasant scents. Show how nets work with toy or kitchen colander. Practice the 'nuh' sound clearly and have child repeat it.",
+        "safety_notes": [
+          "Use only safe, pleasant smells",
+          "Keep scented items at safe distance from nose",
+          "Ensure toy nets have no sharp edges",
+          "Supervise all smelling activities",
+          "Use large, safe objects for demonstration"
+        ],
+        "discussion_questions": [
+          "What does your nose do?",
+          "What sound does N make?",
+          "What nice things can you smell?"
+        ],
+        "extension_activities": [
+          {
+            "title": "N Sound Hunt",
+            "description": "Look for things around house that start with N sound.",
+            "materials": ["Various N-word objects around house"]
+          },
+          {
+            "title": "Nose Smelling Game",
+            "description": "Safely smell different pleasant items and describe them.",
+            "materials": ["Safe scented items", "Adult supervision"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "O, P, Q Animal Friends",
+      "title_ar": "أصدقاء الحيوانات و، ف، ق",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 9,
+      "content_data": {
+        "title": "Owl, Pig, and Queen Bee Adventures",
+        "content": "Let's meet three special letter friends! O is for Owl. Owl says 'oh, oh' and flies at night. Owls are very wise birds. P is for Pig. Pig says 'puh, puh' and loves to roll in mud. Pigs are pink and round. Q is for Queen bee. Queen says 'kwuh, kwuh' and wears a crown. Queen bees are very important! Let's move like our animal friends! Flap your arms like Owl and say 'oh!' Roll around like Pig and say 'puh!' March proudly like Queen bee and say 'kwuh!' O, P, Q are special letters!",
+        "learning_objectives": [
+          "Recognize letters O, P, and Q",
+          "Learn the sounds 'oh', 'puh', and 'kwuh'",
+          "Practice letter sounds through animal movements"
+        ],
+        "vocabulary_words": [
+          {"word": "owl", "definition": "Bird with big eyes that flies at night"},
+          {"word": "pig", "definition": "Pink farm animal that says oink"},
+          {"word": "queen", "definition": "Very important lady who wears a crown"},
+          {"word": "wise", "definition": "Very smart and knows many things"},
+          {"word": "crown", "definition": "Special hat that queens and kings wear"},
+          {"word": "important", "definition": "Very special and needed"}
+        ],
+        "materials_needed": [
+          "Large letters O, P, Q written on paper",
+          "Pictures of owl, pig, queen bee",
+          "Paper crown (optional)",
+          "Open space for animal movements"
+        ],
+        "parent_guidance": "Practice each letter sound clearly with child. Demonstrate the animal movements safely. Help child understand that Q usually needs U to make the 'kwuh' sound. Keep movements gentle and fun.",
+        "safety_notes": [
+          "Keep all movements gentle and controlled",
+          "Ensure safe space for flapping and rolling motions",
+          "Hold child's hand during movements if needed",
+          "If using crown, ensure it fits safely",
+          "Take breaks between different animal actions"
+        ],
+        "discussion_questions": [
+          "What sound does the owl letter make?",
+          "How do pigs like to play?",
+          "What makes the queen bee special?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Animal Sound Orchestra",
+            "description": "Make all three letter sounds together like a musical group.",
+            "materials": ["None needed - just voices"]
+          },
+          {
+            "title": "Letter Animal Parade",
+            "description": "March around room being each animal while making their letter sounds.",
+            "materials": ["Pictures of O, P, Q animals", "Safe marching space"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "R, S, T Fun Time",
+      "title_ar": "وقت ممتع ر، س، ت",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 9,
+      "content_data": {
+        "title": "Robot, Sun, and Tiger's Great Day",
+        "content": "Today we meet three busy friends! First is Robot who starts with R. R says 'ruh, ruh' like a motor running. Robot moves with stiff arms and legs. Next is Sun who starts with S. S says 'sss' like a snake. Sun shines bright and warm all day. Last is Tiger who starts with T. T says 'tuh, tuh' like tapping. Tiger has orange stripes and likes to prowl. Robot, Sun, and Tiger decide to play together! Robot marches in the sunshine. Sun warms Tiger's stripes. Tiger plays with Robot's shadow. 'Ruh, ruh, Robot!' 'Sss, sss, Sun!' 'Tuh, tuh, Tiger!' They are the best of friends!",
+        "learning_objectives": [
+          "Recognize letters R, S, and T",
+          "Learn the sounds 'ruh', 'sss', and 'tuh'",
+          "Follow a story with multiple letter characters"
+        ],
+        "vocabulary_words": [
+          {"word": "robot", "definition": "Machine that moves and can help people"},
+          {"word": "sun", "definition": "Bright yellow circle in sky that gives light"},
+          {"word": "tiger", "definition": "Big orange cat with black stripes"},
+          {"word": "motor", "definition": "Part of machine that makes it move"},
+          {"word": "stripes", "definition": "Lines of different colors"},
+          {"word": "shadow", "definition": "Dark shape you make when sun shines on you"}
+        ],
+        "materials_needed": [
+          "Large letters R, S, T written on paper",
+          "Pictures of robot, sun, tiger",
+          "Flashlight for shadow play",
+          "Orange and black crayons for stripes"
+        ],
+        "parent_guidance": "Act out the story with child using props. Practice robot movements with stiff arms. Use flashlight to show how shadows work. Let child draw simple stripes. Make each letter sound clearly.",
+        "safety_notes": [
+          "Keep robot movements gentle to prevent falls",
+          "Use flashlight safely - avoid shining in eyes",
+          "Supervise all shadow play activities",
+          "Ensure crayons are non-toxic and age-appropriate",
+          "Keep story activities calm and controlled"
+        ],
+        "discussion_questions": [
+          "How does Robot move?",
+          "What does Sun do for us?",
+          "What do Tiger's stripes look like?"
+        ],
+        "extension_activities": [
+          {
+            "title": "R-S-T Story Acting",
+            "description": "Act out the story being Robot, Sun, and Tiger with movements.",
+            "materials": ["Story props", "Safe acting space", "Imagination"]
+          },
+          {
+            "title": "Shadow Play Fun",
+            "description": "Use flashlight to make hand shadows on wall.",
+            "materials": ["Flashlight", "Wall space", "Adult supervision"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "U, V, W Wave Hello",
+      "title_ar": "و، ف، و يلوحون بالسلام",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Umbrella, Van, and Wave Say Hello",
+        "content": "Let's meet three friends who like to say hello! U is for Umbrella. U says 'uh, uh' when rain comes down. Umbrellas keep us dry! V is for Van. V says 'vuh, vuh' like a motor vrooming. Vans take families on trips. W is for Wave. W says 'wuh, wuh' like water moving. Waves splash at the beach! Now let's move with our friends! Hold umbrella up high and say 'uh!' Drive like a van and say 'vuh!' Wave your arms like water and say 'wuh!' U, V, W are great letter friends!",
+        "learning_objectives": [
+          "Recognize letters U, V, and W",
+          "Learn the sounds 'uh', 'vuh', and 'wuh'",
+          "Practice letter sounds through movement activities"
+        ],
+        "vocabulary_words": [
+          {"word": "umbrella", "definition": "Thing that keeps rain off you"},
+          {"word": "van", "definition": "Big car that carries many people"},
+          {"word": "wave", "definition": "Water that moves up and down at beach"},
+          {"word": "dry", "definition": "Not wet, no water on it"},
+          {"word": "trip", "definition": "Going somewhere fun in a car or van"},
+          {"word": "splash", "definition": "Sound water makes when it moves"}
+        ],
+        "materials_needed": [
+          "Large letters U, V, W written on paper",
+          "Small umbrella (child-safe)",
+          "Toy van or car",
+          "Blue scarf for wave movement"
+        ],
+        "parent_guidance": "Let child hold umbrella safely during U part. Use toy van to demonstrate driving motions. Show wave movements with scarf or arms. Practice each letter sound clearly with child.",
+        "safety_notes": [
+          "Ensure umbrella has no sharp points",
+          "Supervise umbrella use at all times",
+          "Use only large, safe toy vehicles",
+          "Keep wave movements gentle to prevent falls",
+          "Ensure safe space for all movement activities"
+        ],
+        "discussion_questions": [
+          "When do we use an umbrella?",
+          "Where can vans take us?",
+          "How do waves move at the beach?"
+        ],
+        "extension_activities": [
+          {
+            "title": "U-V-W Motion Dance",
+            "description": "Dance using umbrella, van, and wave movements to music.",
+            "materials": ["Props from lesson", "Gentle music", "Safe dance space"]
+          },
+          {
+            "title": "Transportation Game",
+            "description": "Pretend to travel in different vehicles making V sounds.",
+            "materials": ["Toy vehicles", "Imagination"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "X Marks the Spot",
+      "title_ar": "إكس تحدد المكان",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "X-ray and Xylophone's Treasure Hunt",
+        "content": "Today we learn about the special letter X! X is different from other letters. X makes the 'ks' sound like in 'box.' But X can also make the 'z' sound like in 'xylophone!' Let's meet X-ray! X-ray helps doctors see inside our bodies. X-ray says 'ks, ks' like the end of 'box.' Now meet Xylophone! Xylophone makes beautiful music. Xylophone says 'z, z' like buzzing. Let's go on a treasure hunt! X marks the spot where treasure hides. Can you find the X? Point to the X and say 'ks!' Hit the xylophone and say 'z!' X is a very special letter!",
+        "learning_objectives": [
+          "Recognize the letter X",
+          "Learn X can make 'ks' and 'z' sounds",
+          "Understand 'X marks the spot' concept"
+        ],
+        "vocabulary_words": [
+          {"word": "x-ray", "definition": "Special picture that shows inside your body"},
+          {"word": "xylophone", "definition": "Musical instrument you hit with sticks"},
+          {"word": "treasure", "definition": "Special things that are hidden and valuable"},
+          {"word": "spot", "definition": "Exact place where something is"},
+          {"word": "doctors", "definition": "People who help keep you healthy"},
+          {"word": "buzzing", "definition": "Sound like bees make"}
+        ],
+        "materials_needed": [
+          "Large letter X written on paper",
+          "Toy xylophone or pots and spoons",
+          "X stickers or tape to mark spots",
+          "Pictures of x-ray and xylophone"
+        ],
+        "parent_guidance": "Explain that X is special because it makes different sounds. Use toy xylophone or pots as substitute. Place X stickers around room for treasure hunt. Keep explanation simple about x-rays helping doctors.",
+        "safety_notes": [
+          "Use only safe, age-appropriate musical toys",
+          "Supervise all treasure hunt activities",
+          "Ensure X markers are large enough to be safe",
+          "Keep xylophone mallets away from face",
+          "Use gentle tapping sounds only"
+        ],
+        "discussion_questions": [
+          "What sound does X make?",
+          "How do doctors use x-rays?",
+          "What does 'X marks the spot' mean?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Treasure Map Game",
+            "description": "Create simple treasure map with X marking special spots.",
+            "materials": ["Paper", "X stickers", "Simple 'treasures' (toys)"]
+          },
+          {
+            "title": "Xylophone Music Time",
+            "description": "Make music with xylophone while practicing X sounds.",
+            "materials": ["Toy xylophone", "Safe mallets"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "Y, Z Grand Finale",
+      "title_ar": "ي، ز النهاية الكبرى",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 10,
+      "content_data": {
+        "title": "Yo-yo and Zebra Finish Our Alphabet",
+        "content": "We're almost done with our alphabet! Let's meet the last two letters! Y is for Yo-yo. Y says 'yuh, yuh' when it goes up and down. Yo-yos are fun toys that spin! Z is for Zebra. Z says 'zzz' like when you sleep. Zebras have black and white stripes! Let's celebrate with Yo-yo and Zebra! Move your hand up and down like a yo-yo and say 'yuh!' Gallop around like a zebra and say 'zzz!' We learned all the letters from A to Z! A, B, C, D, E, F, G... all the way to X, Y, Z! You are an alphabet champion!",
+        "learning_objectives": [
+          "Recognize letters Y and Z",
+          "Learn the sounds 'yuh' and 'zzz'",
+          "Celebrate completing the alphabet"
+        ],
+        "vocabulary_words": [
+          {"word": "yo-yo", "definition": "Toy that goes up and down on a string"},
+          {"word": "zebra", "definition": "Animal like a horse with black and white stripes"},
+          {"word": "spin", "definition": "Go around and around in circles"},
+          {"word": "gallop", "definition": "How horses run with big jumping steps"},
+          {"word": "champion", "definition": "Someone who did something really well"},
+          {"word": "celebrate", "definition": "Be happy about something special you did"}
+        ],
+        "materials_needed": [
+          "Large letters Y and Z written on paper",
+          "Toy yo-yo (if available)",
+          "Pictures of zebra",
+          "Black and white striped paper",
+          "All alphabet letters A-Z for review"
+        ],
+        "parent_guidance": "If using yo-yo, supervise carefully and keep movements gentle. Help child make galloping motions safely. Review all alphabet letters learned. Celebrate this major accomplishment enthusiastically!",
+        "safety_notes": [
+          "Supervise yo-yo use carefully",
+          "Keep yo-yo string appropriate length",
+          "Ensure safe space for galloping motions",
+          "Hold child's hand during running movements if needed",
+          "Keep celebration positive and controlled"
+        ],
+        "discussion_questions": [
+          "How does a yo-yo move?",
+          "What do zebra stripes look like?",
+          "Can you say the whole alphabet?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Alphabet Parade",
+            "description": "March through all letters A-Z making their sounds.",
+            "materials": ["All letter cards A-Z", "Marching music"]
+          },
+          {
+            "title": "Zebra Stripe Art",
+            "description": "Create zebra stripes using black and white crayons.",
+            "materials": ["Paper", "Black and white crayons"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "Alphabet N-Z Quiz",
+      "title_ar": "اختبار الأبجدية ن-ي",
+      "lesson_type": "quiz",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "What Letters N-Z Do You Remember?",
+        "content": "Let's play a fun game about the letters we just learned! I will show you letters N through Z and ask you questions. You can point, make sounds, or tell me the answers!",
+        "learning_objectives": [
+          "Review letters N through Z",
+          "Practice letter sounds and recognition",
+          "Show understanding of letter-word connections"
+        ],
+        "vocabulary_words": [
+          {"word": "quiz", "definition": "Fun game with questions about what you learned"},
+          {"word": "remember", "definition": "Keep things in your mind from before"}
+        ],
+        "materials_needed": [
+          "Large letter cards N through Z",
+          "Pictures of words starting with each letter",
+          "Comfortable seating area"
+        ],
+        "parent_guidance": "Show each letter clearly and give child time to respond. Accept pointing, sounds, or words as answers. Use pictures to help child remember. Keep quiz fun and encouraging.",
+        "safety_notes": [
+          "Keep quiz session positive and fun",
+          "No pressure for perfect answers",
+          "Take breaks if child seems tired",
+          "Celebrate every attempt"
+        ],
+        "discussion_questions": [
+          "Point to letter N! What sound does it make?",
+          "Which letter does Owl start with?",
+          "Show me the letter that Pig begins with!",
+          "Find the letter Q! What animal starts with Q?",
+          "Which letter makes the 'ruh' sound?",
+          "Point to S! What starts with S?",
+          "Show me the letter that Tiger begins with!",
+          "Which letter does Umbrella start with?",
+          "Find V! What starts with V?",
+          "Point to W! What makes waves?",
+          "Show me the special letter X!",
+          "Which letter does Yo-yo start with?",
+          "Find Z! What animal has stripes?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Letter Sound Symphony",
+            "description": "Make all the letter sounds N-Z together like music.",
+            "materials": ["Letter cards N-Z", "Rhythm"]
+          },
+          {
+            "title": "Quick Letter Find",
+            "description": "Show letters quickly and see which ones child recognizes fastest.",
+            "materials": ["Letter cards N-Z"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "Complete Alphabet Celebration",
+      "title_ar": "احتفال الأبجدية الكاملة",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 14,
+      "content_data": {
+        "title": "Celebrating Our Complete Alphabet Journey A-Z",
+        "content": "WOW! You learned the WHOLE alphabet! From A to Z, you know them all! Let's celebrate every single letter! A says 'ah' for Apple. B says 'buh' for Ball. C says 'kuh' for Cat. D says 'duh' for Dog. E says 'eh' for Elephant. F says 'fuh' for Fish. G says 'guh' for Goat. H says 'huh' for Hat. I says 'ih' for Ice cream. J says 'juh' for Jump. K says 'kuh' for Kick. L says 'luh' for Laugh. M says 'muh' for March. N says 'nuh' for Nose. O says 'oh' for Owl. P says 'puh' for Pig. Q says 'kwuh' for Queen. R says 'ruh' for Robot. S says 'sss' for Sun. T says 'tuh' for Tiger. U says 'uh' for Umbrella. V says 'vuh' for Van. W says 'wuh' for Wave. X says 'ks' for X-ray. Y says 'yuh' for Yo-yo. Z says 'zzz' for Zebra. You are an ALPHABET SUPERSTAR!",
+        "learning_objectives": [
+          "Review complete alphabet A-Z",
+          "Practice all letter sounds in sequence",
+          "Celebrate major learning achievement"
+        ],
+        "vocabulary_words": [
+          {"word": "whole", "definition": "All of it, every single part"},
+          {"word": "celebrate", "definition": "Be very happy about something amazing you did"},
+          {"word": "journey", "definition": "Long trip or adventure"},
+          {"word": "complete", "definition": "All finished, nothing missing"},
+          {"word": "superstar", "definition": "Someone who did something really, really well"},
+          {"word": "achievement", "definition": "Something great that you worked hard to do"}
+        ],
+        "materials_needed": [
+          "Complete set of letter cards A-Z",
+          "Pictures for every letter",
+          "Celebration music",
+          "Stickers or rewards",
+          "Camera for photos (optional)"
+        ],
+        "parent_guidance": "Go through every letter enthusiastically with child. Make all sounds together. Do movements for action letters. Take photos to commemorate this huge achievement. Make child feel incredibly proud of learning all 26 letters!",
+        "safety_notes": [
+          "Keep celebration exciting but controlled",
+          "Take breaks during long review if needed",
+          "Keep music at safe volume",
+          "Ensure all materials are safe",
+          "Watch for signs of overstimulation"
+        ],
+        "discussion_questions": [
+          "Which letter was your favorite to learn?",
+          "Can you sing the alphabet song now?",
+          "What letter do you want to practice more?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Complete Alphabet Book",
+            "description": "Create special book with all letters A-Z and their pictures.",
+            "materials": ["26 pages", "Crayons", "Stickers", "Stapler (parent use)"]
+          },
+          {
+            "title": "Alphabet Master Certificate",
+            "description": "Make special certificate showing child mastered entire alphabet.",
+            "materials": ["Certificate paper", "Decorations", "Proud signatures"]
+          },
+          {
+            "title": "Alphabet Teaching Time",
+            "description": "Child teaches alphabet to family member, toy, or pet.",
+            "materials": ["Letter cards", "Willing audience", "Confidence"]
+          }
+        ]
+      }
+    }
+  ]
+}

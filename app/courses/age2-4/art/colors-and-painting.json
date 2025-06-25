@@ -1,0 +1,477 @@
+{
+  "course": {
+    "title_en": "Colors and Painting",
+    "title_ar": "الألوان والرسم",
+    "description_en": "Discover the magical world of colors through fun painting activities and creative expression. Learn about primary colors, mixing, and creating beautiful art safely with toddler-friendly materials.",
+    "description_ar": "اكتشف العالم السحري للألوان من خلال أنشطة الرسم الممتعة والتعبير الإبداعي. تعلم عن الألوان الأساسية والخلط وإنشاء فن جميل بأمان مع المواد المناسبة للأطفال الصغار.",
+    "age_group_min": 2,
+    "age_group_max": 4,
+    "estimated_duration_minutes": 60,
+    "subject": "art"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "Red is Everywhere",
+      "title_ar": "الأحمر في كل مكان",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Ruby Red's Colorful Adventure",
+        "content": "Meet Ruby Red! She is a happy color. Red is bright and cheerful. Ruby Red lives all around us! She lives in red apples. Yummy and sweet! She lives in red fire trucks. Big and strong! She lives in red roses. Pretty and soft! Ruby Red loves to paint. She dances on paper with paintbrushes. When Ruby Red paints, she makes beautiful pictures. Red strawberries, red hearts, red balloons! Ruby Red says, 'Look for me everywhere! I make the world beautiful!' Let's help Ruby Red paint red pictures today!",
+        "learning_objectives": [
+          "Recognize the color red in everyday objects",
+          "Understand red as a primary color",
+          "Practice identifying red things around them"
+        ],
+        "vocabulary_words": [
+          {"word": "red", "definition": "Bright color like apples, fire trucks, and strawberries"},
+          {"word": "color", "definition": "What makes things look different - red, blue, yellow"},
+          {"word": "bright", "definition": "Easy to see, not dark or dim"},
+          {"word": "paint", "definition": "Colorful liquid used to make pictures"},
+          {"word": "paintbrush", "definition": "Tool with soft hairs used to paint"},
+          {"word": "beautiful", "definition": "Very pretty and nice to look at"}
+        ],
+        "materials_needed": [
+          "Red washable paint",
+          "Large paintbrush",
+          "White paper",
+          "Red objects (apple, toy, crayon)",
+          "Wet wipes for cleanup"
+        ],
+        "parent_guidance": "Point out red objects around the house during the lesson. Let child hold and examine red items safely. Use washable, non-toxic paint only. Set up painting area with protective covering. Keep painting session short and positive.",
+        "safety_notes": [
+          "Use only washable, non-toxic paints",
+          "Cover work surface with plastic or newspaper",
+          "Dress child in old clothes or use smock",
+          "Keep paint containers stable and secure",
+          "Have wet wipes ready for immediate cleanup",
+          "Supervise all painting activities closely"
+        ],
+        "discussion_questions": [
+          "What color is this apple?",
+          "Can you find something red in our room?",
+          "How does red paint feel on the brush?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Red Hunt Adventure",
+            "description": "Walk around house looking for red objects and naming them.",
+            "materials": ["Red objects around house", "Basket to collect items"]
+          },
+          {
+            "title": "Red Handprint Art",
+            "description": "Make red handprints on paper and turn them into flowers or hearts.",
+            "materials": ["Red washable paint", "Paper", "Wet wipes"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "Blue Like the Sky",
+      "title_ar": "الأزرق مثل السماء",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Bobby Blue Paints the World",
+        "content": "Meet Bobby Blue! He is a calm and peaceful color. Blue is cool like water. Bobby Blue lives in the big sky above us. Look up! He lives in the deep ocean. So much water! He lives in blue jeans and blue toys. Everywhere we look! Let's paint with Bobby Blue today! Dip your brush in blue paint. Make blue circles like bubbles! Paint blue lines like waves! Blue feels cool and smooth. Paint the sky blue. Paint water blue. Blue is one of the three magic primary colors. Red, yellow, and blue are special colors that help make all other colors!",
+        "learning_objectives": [
+          "Recognize the color blue in nature and objects",
+          "Practice painting with blue color",
+          "Learn blue is a primary color"
+        ],
+        "vocabulary_words": [
+          {"word": "blue", "definition": "Cool color like the sky, water, and ocean"},
+          {"word": "sky", "definition": "Big blue space above us where clouds live"},
+          {"word": "ocean", "definition": "Very big water where fish swim"},
+          {"word": "cool", "definition": "Not warm, feels fresh and calm"},
+          {"word": "primary", "definition": "Special first colors that help make other colors"},
+          {"word": "waves", "definition": "How water moves up and down"}
+        ],
+        "materials_needed": [
+          "Blue washable paint",
+          "Paintbrushes (different sizes)",
+          "White paper",
+          "Water cup for rinsing brush",
+          "Blue objects for reference"
+        ],
+        "parent_guidance": "Show child how to dip brush in paint and make different strokes. Practice making circles and lines together. Point to blue sky outside if visible. Explain that blue feels 'cool' compared to 'warm' red. Help child rinse brush in water between uses.",
+        "safety_notes": [
+          "Keep water cup stable and away from paint",
+          "Use brushes with secure handles",
+          "Wipe up spills immediately",
+          "Show child how to hold brush safely",
+          "Keep painting area well-lit",
+          "Change water if it gets too murky"
+        ],
+        "discussion_questions": [
+          "Where do we see blue in nature?",
+          "How does blue paint feel different from red?",
+          "What shapes can you make with blue paint?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Blue Sky Painting",
+            "description": "Paint a big blue sky and add white cotton ball clouds.",
+            "materials": ["Blue paint", "White cotton balls", "Glue stick", "Paper"]
+          },
+          {
+            "title": "Water Wave Art",
+            "description": "Use blue paint to create wave patterns with different brush strokes.",
+            "materials": ["Blue paint", "Various brushes", "Large paper"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "Yellow Sunshine Bright",
+      "title_ar": "الأصفر شمس مشرقة",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Sunny Yellow's Happy Day",
+        "content": "Meet Sunny Yellow! She is the happiest color of all. Yellow is warm like sunshine. Sunny Yellow lives in the bright sun above us. She makes everything warm and cheerful! She lives in yellow flowers called daisies. Pretty and bright! She lives in yellow bananas. Sweet and yummy! She lives in yellow school buses. Big and safe! Sunny Yellow loves to paint happy pictures. When she paints, everything looks cheerful and bright. Yellow makes us feel happy inside. It's like having sunshine in a paintbrush! Yellow is the third primary color. Red, blue, and yellow together can make any color in the world!",
+        "learning_objectives": [
+          "Recognize yellow as a warm, happy color",
+          "Understand yellow is the third primary color",
+          "Connect yellow to sunshine and happy feelings"
+        ],
+        "vocabulary_words": [
+          {"word": "yellow", "definition": "Bright warm color like sunshine, bananas, and flowers"},
+          {"word": "sunshine", "definition": "Warm, bright light that comes from the sun"},
+          {"word": "warm", "definition": "Nice cozy feeling, like being in sunshine"},
+          {"word": "cheerful", "definition": "Happy and bright, makes you smile"},
+          {"word": "daisies", "definition": "Small white and yellow flowers"},
+          {"word": "primary colors", "definition": "Red, yellow, and blue - special colors that make others"}
+        ],
+        "materials_needed": [
+          "Yellow washable paint",
+          "Paintbrushes",
+          "White paper",
+          "Yellow objects (banana, flower, toy)",
+          "Pictures of sun and sunflowers"
+        ],
+        "parent_guidance": "Emphasize how yellow makes us feel happy and warm. Show real yellow objects and let child touch them safely. Compare yellow to sunshine and warmth. Point out how yellow is different from red and blue. Make painting fun and joyful.",
+        "safety_notes": [
+          "Use fresh, clean yellow paint",
+          "Ensure yellow objects are safe to handle",
+          "Keep real flowers away from mouth",
+          "Use artificial flowers if real ones unavailable",
+          "Monitor for any allergies to flowers",
+          "Keep food items (banana) clean and safe"
+        ],
+        "discussion_questions": [
+          "How does yellow make you feel?",
+          "What yellow things do you see outside?",
+          "Why do you think yellow feels warm?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Sunshine Painting",
+            "description": "Paint a big yellow sun with rays spreading out in all directions.",
+            "materials": ["Yellow paint", "Large brushes", "Paper"]
+          },
+          {
+            "title": "Happy Yellow Collage",
+            "description": "Collect yellow items and make collage with yellow paint as background.",
+            "materials": ["Yellow paint", "Yellow objects", "Glue", "Paper"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "Mixing Colors is Magic",
+      "title_ar": "خلط الألوان سحر",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 10,
+      "content_data": {
+        "title": "Color Magic: Making New Colors",
+        "content": "Today we become color magicians! We will mix our primary colors to make brand new colors. This is real magic! Watch carefully! When we mix red and yellow together, we get orange! Like pumpkins and carrots! When we mix blue and yellow together, we get green! Like grass and leaves! When we mix red and blue together, we get purple! Like grapes and violets! Let's try this magic! Put some red paint on your paper. Now add yellow next to it. Use your brush to mix them together. Look! Orange appears like magic! Try mixing blue and yellow. Green appears! This is how artists make all the colors in the world!",
+        "learning_objectives": [
+          "Understand how primary colors mix to make new colors",
+          "Practice color mixing with paint",
+          "Learn about orange, green, and purple as secondary colors"
+        ],
+        "vocabulary_words": [
+          {"word": "mixing", "definition": "Putting two things together to make something new"},
+          {"word": "magic", "definition": "Something amazing that seems impossible"},
+          {"word": "orange", "definition": "Color made when you mix red and yellow"},
+          {"word": "green", "definition": "Color made when you mix blue and yellow"},
+          {"word": "purple", "definition": "Color made when you mix red and blue"},
+          {"word": "artists", "definition": "People who make beautiful paintings and art"}
+        ],
+        "materials_needed": [
+          "Red, blue, and yellow washable paints",
+          "Small paper plates for mixing",
+          "Paintbrushes",
+          "White paper",
+          "Plastic spoons for mixing"
+        ],
+        "parent_guidance": "Start with small amounts of paint for mixing. Show child how to blend colors gently. Let them discover the new colors themselves. Express excitement about the 'magic' happening. Clean brushes between mixing different combinations.",
+        "safety_notes": [
+          "Use small amounts of paint to avoid waste",
+          "Keep mixing plates stable on surface",
+          "Clean brushes between different color mixes",
+          "Wipe up mixed paint spills immediately",
+          "Use plastic spoons to avoid sharp edges",
+          "Have plenty of water available for cleanup"
+        ],
+        "discussion_questions": [
+          "What happens when you mix red and yellow?",
+          "Can you make green by mixing colors?",
+          "Which new color is your favorite?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Color Mixing Chart",
+            "description": "Create simple chart showing which colors make which new colors.",
+            "materials": ["Paper divided into sections", "All paint colors", "Brushes"]
+          },
+          {
+            "title": "Rainbow Creation",
+            "description": "Use mixed colors to paint a simple rainbow.",
+            "materials": ["All primary and mixed colors", "Large paper", "Brushes"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "Painting with Our Hands",
+      "title_ar": "الرسم بأيدينا",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 9,
+      "content_data": {
+        "title": "Handprint Art Adventures",
+        "content": "Today we paint with our hands! Our hands are special paintbrushes. We can make handprints on paper. Put your hand in paint. Press it down on paper. Look! You made a perfect handprint! Our fingers can paint too. Dip one finger in paint. Make dots like raindrops! Use two fingers to make tracks. Use your whole hand to make big strokes. Handprint painting is so much fun! We can make handprint flowers. We can make handprint trees. We can make handprint animals! Your hands are amazing art tools. Every handprint is special because it's yours!",
+        "learning_objectives": [
+          "Explore painting with hands and fingers",
+          "Create art using body parts as tools",
+          "Develop fine motor skills through finger painting"
+        ],
+        "vocabulary_words": [
+          {"word": "handprint", "definition": "Picture of your hand made with paint"},
+          {"word": "fingers", "definition": "Five long parts on your hand for painting"},
+          {"word": "dots", "definition": "Small round marks made with fingertips"},
+          {"word": "tracks", "definition": "Lines or marks that show where something went"},
+          {"word": "tools", "definition": "Things that help you make art"},
+          {"word": "amazing", "definition": "Really wonderful and special"}
+        ],
+        "materials_needed": [
+          "Washable finger paints (all colors)",
+          "Large sheets of paper",
+          "Shallow plates for paint",
+          "Warm soapy water for cleanup",
+          "Towels for drying hands"
+        ],
+        "parent_guidance": "Set up easy cleanup area before starting. Use lukewarm water for comfortable hand washing. Encourage child to explore different finger and hand movements. Take photos of handprint creations. Keep activity relaxed and creative.",
+        "safety_notes": [
+          "Use only washable, non-toxic finger paints",
+          "Keep paint plates shallow to prevent spilling",
+          "Have warm soapy water ready for immediate cleanup",
+          "Check that child has no cuts on hands before painting",
+          "Supervise hand washing after painting",
+          "Use towels specifically designated for art projects"
+        ],
+        "discussion_questions": [
+          "How does paint feel on your hands?",
+          "What can you make with your handprint?",
+          "Which finger makes the best dots?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Handprint Garden",
+            "description": "Make handprint flowers with different colors and add green stems.",
+            "materials": ["Various colored paints", "Green paint", "Large paper"]
+          },
+          {
+            "title": "Family Handprint Tree",
+            "description": "Create tree trunk and add handprints from family members as leaves.",
+            "materials": ["Brown paint", "Colorful paints", "Large paper"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "Painting Different Shapes",
+      "title_ar": "رسم أشكال مختلفة",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Circles, Lines, and Shapes Galore",
+        "content": "Let's paint different shapes with our brushes! Shapes are everywhere around us. First, let's paint circles. Round and round we go! Make big circles. Make small circles. Circles look like wheels and balls! Next, let's paint straight lines. Up and down! Side to side! Lines can be thick or thin. Now let's paint zigzag lines. Back and forth like lightning! We can paint wavy lines like water. We can paint dots everywhere! All these shapes together make beautiful art. Look around our house. Can you see circles, lines, and shapes? Let's paint what we see!",
+        "learning_objectives": [
+          "Practice painting basic shapes and lines",
+          "Develop brush control and fine motor skills",
+          "Recognize shapes in art and environment"
+        ],
+        "vocabulary_words": [
+          {"word": "shapes", "definition": "Different forms like circles, lines, and squares"},
+          {"word": "circles", "definition": "Round shapes like wheels and balls"},
+          {"word": "lines", "definition": "Long marks that can be straight or curved"},
+          {"word": "zigzag", "definition": "Lines that go back and forth like teeth"},
+          {"word": "wavy", "definition": "Lines that go up and down like water"},
+          {"word": "thick", "definition": "Wide and fat, not thin"}
+        ],
+        "materials_needed": [
+          "Various colored paints",
+          "Brushes of different sizes",
+          "Large white paper",
+          "Objects with different shapes for reference",
+          "Examples of shape artwork"
+        ],
+        "parent_guidance": "Show child how to hold brush for different strokes. Start with simple circles and lines. Don't worry about perfection - focus on exploration. Point out shapes in the room as examples. Praise effort and creativity over accuracy.",
+        "safety_notes": [
+          "Use brushes appropriate for small hands",
+          "Keep paint amounts manageable",
+          "Show proper brush holding technique",
+          "Ensure work surface is stable",
+          "Have cleanup materials nearby",
+          "Monitor brush pressure to prevent damage"
+        ],
+        "discussion_questions": [
+          "What shapes can you paint with your brush?",
+          "Can you find circles in our room?",
+          "How do you make thick lines vs thin lines?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Shape Hunt and Paint",
+            "description": "Find shapes around house and paint pictures of them.",
+            "materials": ["Shape reference objects", "Paints", "Paper"]
+          },
+          {
+            "title": "Abstract Shape Art",
+            "description": "Combine different shapes and colors to make abstract artwork.",
+            "materials": ["Various paints", "Brushes", "Large paper"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "Colors and Painting Quiz",
+      "title_ar": "اختبار الألوان والرسم",
+      "lesson_type": "quiz",
+      "estimated_duration_minutes": 6,
+      "content_data": {
+        "title": "What Do You Know About Colors and Painting?",
+        "content": "Let's play a fun game about all the colors and painting we learned! I will ask you questions about colors and painting. You can point to colors, show me with paint, or tell me the answers!",
+        "learning_objectives": [
+          "Review all colors and painting concepts learned",
+          "Practice identifying primary and mixed colors",
+          "Show understanding of painting techniques"
+        ],
+        "vocabulary_words": [
+          {"word": "quiz", "definition": "Fun game with questions about what you learned"},
+          {"word": "painting", "definition": "Making pictures with paint and brushes"}
+        ],
+        "materials_needed": [
+          "Color cards or painted samples",
+          "Paint and brushes for demonstration",
+          "Objects in different colors",
+          "Previous artwork from lessons"
+        ],
+        "parent_guidance": "Keep quiz interactive and hands-on rather than just verbal. Let child show answers by painting or pointing. Celebrate every response positively. Use artwork from previous lessons as examples.",
+        "safety_notes": [
+          "Keep quiz atmosphere fun and pressure-free",
+          "No wrong answers - all attempts are celebrated",
+          "Have cleanup materials ready if using paint",
+          "Keep session short to maintain attention",
+          "End on encouraging, positive note"
+        ],
+        "discussion_questions": [
+          "Point to something red! What else is red?",
+          "Show me the color blue! Where do we see blue?",
+          "What color is like sunshine?",
+          "What happens when you mix red and yellow?",
+          "Can you make green by mixing colors?",
+          "What color do red and blue make together?",
+          "Show me how to paint with your fingers!",
+          "What shapes can you paint with a brush?",
+          "Which colors are the primary colors?",
+          "What's your favorite color to paint with?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Color Memory Game",
+            "description": "Look at colored objects, close eyes, and try to remember what you saw.",
+            "materials": ["Various colored objects", "Cloth to cover them"]
+          },
+          {
+            "title": "Quick Color Painting",
+            "description": "Name a color and quickly paint something that color.",
+            "materials": ["All paint colors", "Brushes", "Paper"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "My Art Gallery Celebration",
+      "title_ar": "احتفال معرض فني",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 13,
+      "content_data": {
+        "title": "Celebrating Our Beautiful Artwork",
+        "content": "Let's celebrate all the beautiful art we created! You are a real artist now! Artists make beautiful things with colors and paint. Look at all your wonderful paintings! You learned about red, the bright and cheerful color. You learned about blue, the cool and calm color. You learned about yellow, the warm and happy color. You learned to mix colors like magic! Red and yellow make orange. Blue and yellow make green. Red and blue make purple. You painted with brushes and with your hands! You made circles, lines, and shapes. Every painting you made is special because you made it! Let's make an art gallery to show your beautiful work. An art gallery is where people go to see beautiful art. You should be very proud of being an artist!",
+        "learning_objectives": [
+          "Review and celebrate all colors and techniques learned",
+          "Understand the concept of being an artist",
+          "Display and appreciate their own artwork"
+        ],
+        "vocabulary_words": [
+          {"word": "artist", "definition": "Person who makes beautiful art with colors and paint"},
+          {"word": "gallery", "definition": "Special place where people go to see beautiful art"},
+          {"word": "celebrate", "definition": "Be very happy about something wonderful you did"},
+          {"word": "display", "definition": "Show your artwork so others can see it"},
+          {"word": "proud", "definition": "Feeling very good about something you did well"},
+          {"word": "appreciate", "definition": "Think something is beautiful and special"}
+        ],
+        "materials_needed": [
+          "All artwork created during course",
+          "String or tape for hanging art",
+          "Stickers or stars for decoration",
+          "Camera for photos (optional)",
+          "Special frame made from cardboard (optional)"
+        ],
+        "parent_guidance": "Display child's artwork prominently and admiringly. Take photos of child with their art. Point out specific things you love about each piece. Use positive, encouraging language. Make child feel like a real artist.",
+        "safety_notes": [
+          "Hang artwork at child-safe heights",
+          "Use safe hanging materials",
+          "Ensure displayed art is completely dry",
+          "Take photos safely if desired",
+          "Keep celebration positive and affirming",
+          "Handle artwork carefully to preserve it"
+        ],
+        "discussion_questions": [
+          "Which painting is your favorite?",
+          "What was the most fun part of painting?",
+          "What new colors did you learn to make?",
+          "How does it feel to be an artist?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Art Show for Family",
+            "description": "Invite family members to see the art gallery and explain each painting.",
+            "materials": ["Displayed artwork", "Family audience", "Artist confidence"]
+          },
+          {
+            "title": "Artist Portfolio",
+            "description": "Create special folder or book to keep all artwork safe.",
+            "materials": ["Large folder", "Plastic sleeves", "Labels", "All artwork"]
+          },
+          {
+            "title": "Thank You Artist Card",
+            "description": "Make card thanking child for sharing their beautiful art with family.",
+            "materials": ["Card paper", "Crayons", "Stickers", "Loving words"]
+          }
+        ]
+      }
+    }
+  ]
+}

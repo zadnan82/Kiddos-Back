@@ -1,0 +1,454 @@
+{
+  "course": {
+    "title_en": "My Family",
+    "title_ar": "عائلتي",
+    "description_en": "Learn about family members and how families love and care for each other. Discover who is in your family and what makes families special.",
+    "description_ar": "تعلم عن أفراد الأسرة وكيف تحب الأسر وتعتني ببعضها البعض. اكتشف من في أسرتك وما يجعل الأسر مميزة.",
+    "age_group_min": 2,
+    "age_group_max": 4,
+    "estimated_duration_minutes": 58,
+    "subject": "social_studies"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "Mommy and Me",
+      "title_ar": "ماما وأنا",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "My Special Mommy Loves Me",
+        "content": "This is my mommy. Mommy loves me very much. Mommy takes care of me every day. Mommy gives me hugs when I'm sad. Mommy feeds me yummy food. Mommy reads me stories at bedtime. Mommy helps me get dressed. Mommy plays with me. Mommy keeps me safe. Mommy has a warm smile. When mommy smiles, I feel happy. Mommy and I do fun things together. We sing songs. We play games. I love my mommy so much!",
+        "learning_objectives": [
+          "Identify mommy as a family member",
+          "Understand how mommy cares for them",
+          "Express love for family members"
+        ],
+        "vocabulary_words": [
+          {"word": "mommy", "definition": "Special lady who loves you and takes care of you"},
+          {"word": "love", "definition": "Very strong happy feeling for someone special"},
+          {"word": "care", "definition": "Help and take good care of someone"},
+          {"word": "hug", "definition": "Wrap arms around someone to show love"},
+          {"word": "smile", "definition": "Happy look on face that shows joy"},
+          {"word": "safe", "definition": "Protected and not in danger"}
+        ],
+        "materials_needed": [
+          "Family photos with mommy",
+          "Mirror to practice smiling",
+          "Soft stuffed animal for hugging practice"
+        ],
+        "parent_guidance": "Point to yourself in family photos. Give child gentle hugs during the lesson. Ask child to show what mommy does (pretend to cook, read, etc.). Keep the focus positive and loving. Adapt language to fit your family structure.",
+        "safety_notes": [
+          "Use only recent, safe family photos",
+          "Ensure mirror is unbreakable",
+          "Choose soft, clean stuffed animals",
+          "Keep activities calm and comforting",
+          "Be sensitive to different family structures"
+        ],
+        "discussion_questions": [
+          "Where is mommy in this picture?",
+          "What does mommy do to take care of you?",
+          "How does mommy make you feel?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Mommy and Me Drawing",
+            "description": "Draw a simple picture of you and mommy together.",
+            "materials": ["Large paper", "Crayons", "Stickers"]
+          },
+          {
+            "title": "Thank You Mommy",
+            "description": "Give mommy extra hugs and say 'thank you' for taking care of you.",
+            "materials": ["None needed - just hugs and words"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "Daddy and Me",
+      "title_ar": "بابا وأنا",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "My Wonderful Daddy Loves Me",
+        "content": "This is my daddy. Daddy loves me very much too. Daddy plays with me. Daddy makes me laugh. Daddy gives me piggyback rides. Daddy reads me stories. Daddy helps me learn new things. Daddy keeps me safe. Daddy has strong arms for hugs. Daddy works hard for our family. When daddy comes home, I feel so happy! Daddy and I have fun together. We build with blocks. We go for walks. I love my daddy so much!",
+        "learning_objectives": [
+          "Identify daddy as a family member",
+          "Understand how daddy cares for family",
+          "Recognize daddy's special role in family"
+        ],
+        "vocabulary_words": [
+          {"word": "daddy", "definition": "Special man who loves you and takes care of you"},
+          {"word": "laugh", "definition": "Happy sound you make when something is funny"},
+          {"word": "piggyback", "definition": "Ride on someone's back for fun"},
+          {"word": "strong", "definition": "Having power to lift and carry things"},
+          {"word": "work", "definition": "Do important jobs to help the family"},
+          {"word": "build", "definition": "Put things together to make something new"}
+        ],
+        "materials_needed": [
+          "Family photos with daddy",
+          "Building blocks or safe stacking toys",
+          "Picture books that daddy can 'read'"
+        ],
+        "parent_guidance": "Point to daddy in family photos. Let child practice 'building' with safe blocks. Demonstrate gentle hugs. If daddy is present, encourage interaction. Adapt content for single-parent families or different family structures.",
+        "safety_notes": [
+          "Use large, safe building materials only",
+          "Ensure no small blocks that could be choking hazards",
+          "Keep activities appropriate for child's motor skills",
+          "Be inclusive of all family structures",
+          "Supervise all building activities"
+        ],
+        "discussion_questions": [
+          "What fun things do you do with daddy?",
+          "How does daddy help our family?",
+          "What makes daddy special?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Building Together",
+            "description": "Build a simple tower with blocks like daddy might do.",
+            "materials": ["Large, safe building blocks"]
+          },
+          {
+            "title": "Daddy Picture Story",
+            "description": "Look at pictures and tell stories about fun times with daddy.",
+            "materials": ["Family photos", "Comfortable place to sit"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "Brothers and Sisters",
+      "title_ar": "الإخوة والأخوات",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Siblings Are Special Family Members",
+        "content": "Some families have brothers and sisters. Brothers and sisters are called siblings. Siblings can be older or younger. Older siblings help teach us things. Younger siblings look up to us. Sometimes siblings play together. Sometimes siblings share toys. Brothers and sisters love each other. They help each other. Let's pretend to be siblings! Take turns being the big sibling and little sibling. Big siblings are gentle helpers. Little siblings learn by watching. All siblings are special!",
+        "learning_objectives": [
+          "Understand what brothers and sisters are",
+          "Learn about helping and sharing with siblings",
+          "Practice being gentle with others"
+        ],
+        "vocabulary_words": [
+          {"word": "brother", "definition": "Boy who has the same mommy and daddy as you"},
+          {"word": "sister", "definition": "Girl who has the same mommy and daddy as you"},
+          {"word": "siblings", "definition": "Brothers and sisters in your family"},
+          {"word": "older", "definition": "Born before you, bigger than you"},
+          {"word": "younger", "definition": "Born after you, smaller than you"},
+          {"word": "share", "definition": "Let others use your toys too"}
+        ],
+        "materials_needed": [
+          "Two dolls or stuffed animals",
+          "Safe toys that can be shared",
+          "Family photos showing siblings (if applicable)"
+        ],
+        "parent_guidance": "Use dolls to demonstrate sibling relationships. If child has siblings, point them out in photos. If child is an only child, explain that some families have siblings and some don't. Practice gentle touch with dolls.",
+        "safety_notes": [
+          "Choose soft, safe dolls appropriate for age",
+          "Ensure sharing toys are large enough to be safe",
+          "Supervise all pretend play",
+          "Be sensitive to only children",
+          "Teach gentle handling of dolls and toys"
+        ],
+        "discussion_questions": [
+          "Do you have brothers or sisters?",
+          "How can siblings help each other?",
+          "What can siblings do together?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Sibling Care Play",
+            "description": "Practice being a gentle big sibling by caring for a doll or stuffed animal.",
+            "materials": ["Baby doll", "Small blanket", "Pretend bottle"]
+          },
+          {
+            "title": "Sharing Practice",
+            "description": "Practice sharing toys nicely, taking turns with different items.",
+            "materials": ["Various safe toys", "Timer (optional)"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "Grandparents Are Special",
+      "title_ar": "الأجداد مميزون",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 9,
+      "content_data": {
+        "title": "Grandma and Grandpa Love Me So Much",
+        "content": "Grandparents are very special people. Grandma is mommy's or daddy's mommy. Grandpa is mommy's or daddy's daddy. Grandparents have been around for a long time. They know many stories. Grandparents give the best hugs. They have time to play with us. Grandma might bake cookies. Grandpa might tell funny stories. Grandparents love to see us grow. They take pictures of us. Some grandparents live nearby. Some grandparents live far away. But they all love us very much!",
+        "learning_objectives": [
+          "Identify grandparents as family members",
+          "Understand grandparents' special role",
+          "Learn that families can live in different places"
+        ],
+        "vocabulary_words": [
+          {"word": "grandma", "definition": "Mommy or daddy's mommy, very special older lady"},
+          {"word": "grandpa", "definition": "Mommy or daddy's daddy, very special older man"},
+          {"word": "grandparents", "definition": "Grandma and grandpa together"},
+          {"word": "stories", "definition": "Fun tales about things that happened"},
+          {"word": "bake", "definition": "Make yummy food like cookies in the oven"},
+          {"word": "grow", "definition": "Get bigger and learn new things"}
+        ],
+        "materials_needed": [
+          "Photos of grandparents (if available)",
+          "Pretend cookies or play food",
+          "Picture book for 'story time'",
+          "Comfortable seating area"
+        ],
+        "parent_guidance": "Show photos of grandparents if available. If grandparents have passed away or aren't present, focus on the concept gently. Let child hold pretend cookies. Read a short story together like grandparents might do.",
+        "safety_notes": [
+          "Be sensitive to families without grandparents",
+          "Use only safe, large pretend food items",
+          "Choose age-appropriate books",
+          "Keep discussions positive and comforting",
+          "Adapt content for different family situations"
+        ],
+        "discussion_questions": [
+          "What do grandparents like to do?",
+          "How do grandparents show they love you?",
+          "What makes grandparents special?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Grandparent Letter or Drawing",
+            "description": "Make a simple drawing or 'letter' to send to grandparents.",
+            "materials": ["Paper", "Crayons", "Stickers", "Envelope"]
+          },
+          {
+            "title": "Story Time Like Grandparents",
+            "description": "Sit together and 'read' books the way grandparents do.",
+            "materials": ["Favorite books", "Comfortable chair or couch"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "Family Pets Are Special Too",
+      "title_ar": "حيوانات الأسرة مميزة أيضًا",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Our Pet Friends Are Part of Our Family",
+        "content": "Some families have pet animals. Pets are special family members too. Dogs are loyal family friends. They wag their tails when happy. Cats are soft and like to purr. Fish swim in their tanks. Birds sing pretty songs. Pets need love and care. We feed them every day. We give them fresh water. We pet them gently. We keep them safe and warm. Pets love us back. They make our family complete. Let's pretend to take care of pets!",
+        "learning_objectives": [
+          "Understand pets can be family members",
+          "Learn how to care for pets gently",
+          "Practice being responsible and gentle"
+        ],
+        "vocabulary_words": [
+          {"word": "pets", "definition": "Animals that live with families and are loved"},
+          {"word": "loyal", "definition": "Always loving and staying with family"},
+          {"word": "wag", "definition": "Move tail back and forth when happy"},
+          {"word": "purr", "definition": "Happy sound cats make when content"},
+          {"word": "gentle", "definition": "Soft and careful touch, not rough"},
+          {"word": "responsible", "definition": "Taking good care of someone or something"}
+        ],
+        "materials_needed": [
+          "Stuffed animals (dog, cat, fish, bird)",
+          "Small bowl for pretend pet food",
+          "Small water dish",
+          "Soft brush for 'grooming'",
+          "Blanket for pet bed"
+        ],
+        "parent_guidance": "Use stuffed animals to demonstrate gentle pet care. Show how to 'feed' and 'water' pets. Practice gentle stroking motions. If family has real pets, supervise gentle interaction. If no pets, explain that not all families have pets and that's okay too.",
+        "safety_notes": [
+          "Always supervise interactions with real pets",
+          "Teach gentle touch with stuffed animals first",
+          "Use only safe, clean stuffed animals",
+          "Keep pretend food items large and safe",
+          "Never leave child alone with real animals"
+        ],
+        "discussion_questions": [
+          "How do we take care of pets?",
+          "What do pets need to be happy?",
+          "How can we be gentle with animals?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Pet Care Routine",
+            "description": "Create a daily routine for caring for stuffed animal 'pets'.",
+            "materials": ["Stuffed animals", "Pretend food and water dishes"]
+          },
+          {
+            "title": "Animal Sounds Game",
+            "description": "Make sounds that different pets make - barking, meowing, chirping.",
+            "materials": ["None needed - just voices"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "Family Love and Care",
+      "title_ar": "حب ورعاية الأسرة",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 9,
+      "content_data": {
+        "title": "How Families Show Love Every Day",
+        "content": "Families show love in many ways. We hug each other tight. We say 'I love you' every day. We help each other when needed. We share our toys and snacks. We take care of each other when sick. We celebrate happy times together. We comfort each other when sad. Let's practice showing family love! Give gentle hugs. Say kind words. Help with simple tasks. Share something special. Use gentle touches. Families are full of love!",
+        "learning_objectives": [
+          "Learn different ways families show love",
+          "Practice expressing love and care",
+          "Understand importance of helping family"
+        ],
+        "vocabulary_words": [
+          {"word": "love", "definition": "Very special caring feeling for family"},
+          {"word": "hug", "definition": "Wrap arms around someone to show you care"},
+          {"word": "help", "definition": "Do things to make someone's job easier"},
+          {"word": "celebrate", "definition": "Be happy together about good things"},
+          {"word": "comfort", "definition": "Make someone feel better when they're sad"},
+          {"word": "kind", "definition": "Nice and caring words and actions"}
+        ],
+        "materials_needed": [
+          "Soft pillows for hugging practice",
+          "Simple snacks to practice sharing",
+          "Tissues for 'comfort' practice",
+          "Happy music for celebrating"
+        ],
+        "parent_guidance": "Demonstrate each way of showing love. Practice hugs, kind words, and helping actions. Let child practice sharing snacks. Model comforting behaviors with stuffed animals. Make this lesson very interactive and positive.",
+        "safety_notes": [
+          "Ensure all snacks are safe and age-appropriate",
+          "Keep hugging gentle and appropriate",
+          "Use clean tissues and materials",
+          "Supervise all sharing activities",
+          "Keep music at safe volume levels"
+        ],
+        "discussion_questions": [
+          "How does your family show love?",
+          "What can you do to help your family?",
+          "How do you feel when family hugs you?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Love Coupons",
+            "description": "Make simple 'coupons' for hugs, help, or kind words to give family.",
+            "materials": ["Paper", "Crayons", "Safety scissors (parent use)"]
+          },
+          {
+            "title": "Family Helping Chart",
+            "description": "Create a picture chart of ways child can help family.",
+            "materials": ["Paper", "Stickers", "Simple drawings"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "Family Quiz Time",
+      "title_ar": "وقت اختبار الأسرة",
+      "lesson_type": "quiz",
+      "estimated_duration_minutes": 6,
+      "content_data": {
+        "title": "What Do You Know About Families?",
+        "content": "Let's play a fun family game! I will ask you questions about families. You can point to pictures, use actions, or tell me with words!",
+        "learning_objectives": [
+          "Review family member roles and relationships",
+          "Practice identifying family members",
+          "Show understanding of family love and care"
+        ],
+        "vocabulary_words": [
+          {"word": "quiz", "definition": "Fun game with questions about what you learned"},
+          {"word": "family", "definition": "People who love you and live together or care for you"}
+        ],
+        "materials_needed": [
+          "Family photos",
+          "Pictures of family activities",
+          "Stuffed animals for demonstration"
+        ],
+        "parent_guidance": "Ask questions gently and give plenty of time for answers. Accept pointing, actions, or simple words. Celebrate every response. Use photos and props to help child answer. Keep it fun and pressure-free.",
+        "safety_notes": [
+          "Keep quiz short and enjoyable",
+          "No pressure for perfect answers",
+          "Use encouraging tone throughout",
+          "Take breaks if child seems tired"
+        ],
+        "discussion_questions": [
+          "Who takes care of you every day?",
+          "Point to mommy and daddy in the picture!",
+          "What do grandparents like to do?",
+          "How do we take care of pets?",
+          "Show me how families hug!",
+          "What can you do to help your family?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Family Member Actions",
+            "description": "Act out what different family members do (cook like mommy, read like daddy).",
+            "materials": ["Imagination", "Simple props if available"]
+          },
+          {
+            "title": "Family Photo Story",
+            "description": "Tell stories about family photos and what everyone is doing.",
+            "materials": ["Family photos", "Comfortable seating"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "My Family Celebration",
+      "title_ar": "احتفال عائلتي",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 12,
+      "content_data": {
+        "title": "Celebrating Our Special Family",
+        "content": "Let's celebrate our wonderful family! Every family is special and unique. Some families are big. Some families are small. All families have love. Let's think about our family. Count your family members. Say their names. Think about what makes each person special. Mommy takes care of us. Daddy plays with us. Siblings share with us. Grandparents tell us stories. Pets give us cuddles. We are so lucky to have our family! Let's make a family cheer! 'Family, family, we love you! Family, family, we're here for you!' Our family is the best family for us!",
+        "learning_objectives": [
+          "Celebrate and appreciate their own family",
+          "Understand all families are different and special",
+          "Express gratitude for family members"
+        ],
+        "vocabulary_words": [
+          {"word": "celebrate", "definition": "Be very happy about something special"},
+          {"word": "unique", "definition": "Special and different from others"},
+          {"word": "count", "definition": "Say numbers to see how many"},
+          {"word": "lucky", "definition": "Happy to have good things"},
+          {"word": "cheer", "definition": "Happy words we say together loudly"},
+          {"word": "gratitude", "definition": "Being thankful for good things"}
+        ],
+        "materials_needed": [
+          "All family photos used in previous lessons",
+          "Paper and crayons for family drawing",
+          "Stickers for decorating",
+          "Happy celebration music"
+        ],
+        "parent_guidance": "Go through family photos together, naming each person and what makes them special. Help child create a family drawing or collage. Join in the family cheer enthusiastically. Take photos of this celebration if desired. Make it a truly joyful conclusion to learning about family.",
+        "safety_notes": [
+          "Keep celebration positive and inclusive",
+          "Be sensitive to different family structures",
+          "Use safe art supplies only",
+          "Keep music at appropriate volume",
+          "Ensure all activities are age-appropriate"
+        ],
+        "discussion_questions": [
+          "What makes your family special?",
+          "Who is your favorite person to play with?",
+          "How does your family make you feel?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Family Portrait Creation",
+            "description": "Draw or create a family portrait showing all family members together.",
+            "materials": ["Large paper", "Crayons", "Stickers", "Family photos for reference"]
+          },
+          {
+            "title": "Family Gratitude Circle",
+            "description": "Sit in a circle and take turns saying one thing they love about each family member.",
+            "materials": ["Comfortable seating", "Family photos"]
+          },
+          {
+            "title": "Family Hug Time",
+            "description": "Give everyone in the family extra special hugs to show appreciation.",
+            "materials": ["Just loving family members"]
+          }
+        ]
+      }
+    }
+  ]
+}

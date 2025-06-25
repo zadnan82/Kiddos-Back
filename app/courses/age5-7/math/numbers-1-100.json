@@ -1,0 +1,689 @@
+{
+  "course": {
+    "title_en": "Amazing Numbers 1-100: A Journey Through Counting and Number Recognition",
+    "title_ar": "الأرقام المدهشة من 1-100: رحلة في العد والتعرف على الأرقام",
+    "description_en": "This comprehensive course introduces children to numbers 1-100 through engaging stories, hands-on activities, and real-world applications. Students will develop strong number recognition skills, learn counting patterns, understand basic place value concepts, and practice number writing. The course builds foundational math skills through interactive lessons that make learning numbers fun and meaningful for early elementary learners.",
+    "description_ar": "هذه الدورة الشاملة تقدم للأطفال الأرقام من 1-100 من خلال القصص الشيقة والأنشطة العملية والتطبيقات الواقعية. سيطور الطلاب مهارات قوية في التعرف على الأرقام وتعلم أنماط العد وفهم مفاهيم القيمة المكانية الأساسية وممارسة كتابة الأرقام.",
+    "age_group_min": 5,
+    "age_group_max": 7,
+    "estimated_duration_minutes": 120,
+    "subject": "math"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "Meet the Numbers 1-10: Our Number Friends",
+      "title_ar": "تعرف على الأرقام 1-10: أصدقاؤنا الأرقام",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 12,
+      "content_data": {
+        "title": "Introducing Number Characters and Their Personalities",
+        "content": "Welcome to Number Village, where each number from 1 to 10 has its own special personality! Number 1 is tall and straight like a telephone pole, always standing proud and first in line. Number 2 looks like a beautiful swan swimming on a lake with her curved neck. Number 3 has two bumps like clouds in the sky. Number 4 looks like a chair with a seat and back. Number 5 has a hat on top and a big belly. Each number represents a different amount of things - 1 apple, 2 shoes, 3 balls, 4 wheels on a car, 5 fingers on your hand. Let's count with our fingers and trace each number in the air while we say their names!",
+        "learning_objectives": [
+          "Recognize and identify numbers 1-10 visually",
+          "Understand that each number represents a specific quantity",
+          "Practice counting objects accurately from 1-10",
+          "Begin to associate number symbols with their names"
+        ],
+        "vocabulary_words": [
+          {"word": "number", "definition": "A symbol that tells us how many things we have"},
+          {"word": "count", "definition": "To say numbers in order to find out how many"},
+          {"word": "quantity", "definition": "The amount or how many of something"},
+          {"word": "symbol", "definition": "A mark or sign that means something, like how '3' means three"}
+        ],
+        "materials_needed": [
+          "Number cards 1-10",
+          "Small counting objects (buttons, blocks, toys)",
+          "Paper and crayons",
+          "Number chart poster"
+        ],
+        "parent_guidance": "Encourage your child to find numbers 1-10 around the house (on clocks, books, addresses). Practice counting everyday objects together like toys, snacks, or stairs. Make it fun by using different voices for each number character.",
+        "safety_notes": [
+          "Ensure counting objects are large enough to prevent choking",
+          "Supervise use of crayons and pencils",
+          "Use non-toxic art materials",
+          "Keep workspace organized to prevent tripping"
+        ],
+        "reading_practice_suggestions": [
+          "Point to numbers 1-10 on a chart and name them",
+          "Count collections of objects up to 10",
+          "Match number cards to groups of objects",
+          "Practice writing numbers 1-5 on lined paper"
+        ],
+        "assessment_components": [
+          "Can child identify numbers 1-10 without prompting?",
+          "Does child count accurately without skipping numbers?",
+          "Can child match the correct number of objects to number cards?",
+          "Is child beginning to write numbers 1-5 recognizably?"
+        ],
+        "discussion_questions": [
+          "Which number looks like a swan?",
+          "Can you show me 3 fingers?",
+          "What number comes after 7?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Number Scavenger Hunt",
+            "description": "Find numbers 1-10 hidden around the house and match them to quantities.",
+            "materials": ["Number cards", "Collection basket", "Small objects to count"]
+          },
+          {
+            "title": "Number Art Gallery",
+            "description": "Decorate each digit 1-10 with drawings that show that quantity.",
+            "materials": ["Large number outlines", "Crayons", "Stickers", "Small pictures to glue"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "Number Patterns and Skip Counting to 20",
+      "title_ar": "أنماط الأرقام والعد بالتخطي حتى 20",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 15,
+      "content_data": {
+        "title": "Discovering Mathematical Patterns Through Movement",
+        "content": "Numbers love to make patterns, just like music or dance! Today we'll discover how numbers can skip and hop in special ways. When we count by 2s, we hop like a bunny: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20! When we count by 5s, we march like soldiers: 5, 10, 15, 20! We'll use a giant number line on the floor where you can step on each number. Patterns help us predict what comes next - it's like being a number detective! We'll also play games where you find the missing number in a pattern.",
+        "learning_objectives": [
+          "Recognize number patterns in sequences 1-20",
+          "Practice skip counting by 2s and 5s up to 20",
+          "Understand the concept of 'next number' in sequence",
+          "Identify missing numbers in simple patterns"
+        ],
+        "vocabulary_words": [
+          {"word": "pattern", "definition": "Things that repeat in the same order, like 2, 4, 6, 8"},
+          {"word": "skip counting", "definition": "Counting by jumping over some numbers, like counting by 2s"},
+          {"word": "sequence", "definition": "Numbers that come one after another in order"},
+          {"word": "missing", "definition": "Something that should be there but isn't"}
+        ],
+        "materials_needed": [
+          "Large number cards 1-20",
+          "Masking tape for floor number line",
+          "Small tokens for counting",
+          "Worksheet with number patterns",
+          "Colored pencils"
+        ],
+        "parent_guidance": "Practice skip counting during daily activities like climbing stairs (count by 2s) or setting the table (count by 5s). Use songs and rhymes to make patterns memorable. Point out patterns in house numbers when walking in the neighborhood.",
+        "safety_notes": [
+          "Ensure floor space is clear for movement activities",
+          "Check that tape is securely attached to prevent slipping",
+          "Supervise active movement to prevent falls",
+          "Use soft landing areas near movement activities"
+        ],
+        "reading_practice_suggestions": [
+          "Complete number pattern worksheets with missing numbers",
+          "Practice skip counting by 2s and 5s aloud",
+          "Use manipulatives to create their own number patterns",
+          "Write numbers 11-20 with proper formation"
+        ],
+        "assessment_components": [
+          "Can child continue a number pattern independently?",
+          "Does child skip count by 2s to 20 accurately?",
+          "Can child identify and fill in missing numbers in sequences?",
+          "Is child writing teen numbers correctly?"
+        ],
+        "discussion_questions": [
+          "What number comes next: 2, 4, 6, ___?",
+          "How is counting by 2s different from counting by 1s?",
+          "Can you make your own number pattern?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Hopscotch Number Patterns",
+            "description": "Create hopscotch games using skip counting patterns instead of consecutive numbers.",
+            "materials": ["Chalk or tape", "Small beanbag", "Number cards"]
+          },
+          {
+            "title": "Pattern Bracelet Making",
+            "description": "Make bracelets using beads in number patterns (2 red, 2 blue, 2 red, 2 blue).",
+            "materials": ["Large beads", "String", "Pattern cards", "Safety scissors"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "Exploring Tens and Ones: Building Numbers to 50",
+      "title_ar": "استكشاف العشرات والآحاد: بناء الأرقام حتى 50",
+      "lesson_type": "experiment",
+      "estimated_duration_minutes": 14,
+      "content_data": {
+        "title": "Understanding How Numbers Are Built with Groups",
+        "content": "Today we'll become number builders! Just like houses are made of bricks, big numbers are made of smaller parts called tens and ones. Ten is a very special number - when we have 10 of something, we can bundle them together to make 1 group of ten. Let's use sticks or straws to see this magic! When we have 23 sticks, we can make 2 bundles of 10 sticks plus 3 extra sticks. The 2 is in the tens place, and the 3 is in the ones place. This helps us understand really big numbers and makes counting much easier!",
+        "learning_objectives": [
+          "Understand that numbers can be broken into tens and ones",
+          "Recognize patterns in numbers 11-50",
+          "Build two-digit numbers using base-ten concepts",
+          "Compare the size of different two-digit numbers"
+        ],
+        "vocabulary_words": [
+          {"word": "tens place", "definition": "The spot in a number that shows how many groups of 10"},
+          {"word": "ones place", "definition": "The spot in a number that shows how many single items"},
+          {"word": "bundle", "definition": "A group of things tied or put together"},
+          {"word": "two-digit", "definition": "A number that has two parts, like 25 has 2 and 5"}
+        ],
+        "materials_needed": [
+          "Counting sticks or straws",
+          "Rubber bands for bundling",
+          "Base-ten blocks or similar manipulatives",
+          "Hundreds chart (1-50)",
+          "Recording sheet for building numbers",
+          "Pencils"
+        ],
+        "parent_guidance": "Use everyday items like pencils, spoons, or toys to practice bundling by tens. When counting larger quantities, help your child group by tens first. Practice reading two-digit numbers on calendars, clocks, and price tags.",
+        "safety_notes": [
+          "Supervise use of rubber bands to prevent snapping",
+          "Ensure small manipulatives are age-appropriate and safe",
+          "Use blunt-ended sticks or straws",
+          "Keep workspace organized to prevent confusion"
+        ],
+        "reading_practice_suggestions": [
+          "Build given numbers using tens and ones manipulatives",
+          "Write two-digit numbers in expanded form (20 + 3 = 23)",
+          "Count by tens to 50 using visual aids",
+          "Practice proper formation of numbers 21-50"
+        ],
+        "assessment_components": [
+          "Can child build numbers to 50 using tens and ones?",
+          "Does child understand that 34 means 3 tens and 4 ones?",
+          "Can child count by tens accurately to 50?",
+          "Is child writing two-digit numbers with correct place value understanding?"
+        ],
+        "discussion_questions": [
+          "How many groups of 10 are in the number 42?",
+          "What's the difference between 23 and 32?",
+          "Why do we group things by tens?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Household Bundling Station",
+            "description": "Bundle collections of safe household items by tens (paperclips, cotton balls, pasta).",
+            "materials": ["Various household items", "Small containers", "Rubber bands", "Recording sheet"]
+          },
+          {
+            "title": "Ten Frame Creations",
+            "description": "Make ten frames using egg cartons and practice filling them to show different numbers.",
+            "materials": ["Egg cartons", "Small objects", "Number cards", "Scissors"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "Number Detective: Comparing and Ordering Numbers",
+      "title_ar": "محقق الأرقام: مقارنة وترتيب الأرقام",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 13,
+      "content_data": {
+        "title": "Solving Number Mysteries Through Comparison",
+        "content": "Welcome to Number Detective Academy! Today you'll learn to solve mysteries about which numbers are bigger, smaller, or the same. Meet our helper, the Hungry Alligator! The alligator always opens his mouth toward the bigger number because he wants to eat more. When we see 7 > 3, the alligator's mouth opens toward 7 because 7 is greater than 3. When we see 2 < 5, the mouth opens toward 5 because 2 is less than 5. We'll solve detective cases by putting numbers in order from smallest to biggest and finding clues using our number line.",
+        "learning_objectives": [
+          "Compare two numbers using greater than, less than, and equal to",
+          "Order groups of numbers from smallest to largest",
+          "Use number lines to determine number relationships",
+          "Apply comparison skills to solve simple problems"
+        ],
+        "vocabulary_words": [
+          {"word": "greater than", "definition": "Bigger than, more than another number"},
+          {"word": "less than", "definition": "Smaller than, fewer than another number"},
+          {"word": "equal to", "definition": "The same amount as another number"},
+          {"word": "order", "definition": "To arrange numbers from smallest to biggest or biggest to smallest"}
+        ],
+        "materials_needed": [
+          "Number cards 1-50",
+          "Comparison symbol cards (>, <, =)",
+          "Two number cubes or dice",
+          "Number line poster",
+          "Detective badge craft materials",
+          "Comparison worksheets"
+        ],
+        "parent_guidance": "Practice comparing during daily activities - which stack of books is taller, which container holds more, who has more pieces of fruit. Use playing cards (remove face cards) for number comparison games.",
+        "safety_notes": [
+          "Ensure craft materials are non-toxic and age-appropriate",
+          "Supervise use of scissors if making detective badges",
+          "Use large number cards for easy visibility",
+          "Keep dice appropriately sized to prevent choking"
+        ],
+        "reading_practice_suggestions": [
+          "Use manipulatives to compare two quantities visually",
+          "Place correct comparison symbols between number pairs",
+          "Order sets of 3-5 numbers from least to greatest",
+          "Solve word problems involving number comparison"
+        ],
+        "assessment_components": [
+          "Can child correctly use >, <, = symbols?",
+          "Does child accurately order numbers from smallest to largest?",
+          "Can child explain which number is greater and why?",
+          "Is child applying comparison skills to solve problems?"
+        ],
+        "discussion_questions": [
+          "Which is bigger: 15 or 23? How do you know?",
+          "Can you put these numbers in order: 8, 3, 12, 5?",
+          "What does the alligator mouth tell us?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Number War Card Game",
+            "description": "Play comparison games using playing cards, comparing values and using correct symbols.",
+            "materials": ["Playing cards (no face cards)", "Comparison symbol cards", "Score sheet"]
+          },
+          {
+            "title": "Family Height Chart",
+            "description": "Compare and order family members' heights, ages, and other measurable attributes.",
+            "materials": ["Measuring tape", "Chart paper", "Markers", "Family photos"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "Number Writing Workshop: Perfect Number Formation",
+      "title_ar": "ورشة كتابة الأرقام: تكوين الأرقام المثالي",
+      "lesson_type": "practice",
+      "estimated_duration_minutes": 15,
+      "content_data": {
+        "title": "Mastering the Art of Beautiful Number Writing",
+        "content": "Welcome to our Number Writing Workshop! Just like artists learn to paint beautiful pictures, we'll learn to write beautiful numbers. Each number has a special way to be written, starting at the right place and moving in the right direction. We'll use our finger to trace numbers in sand, paint them with our fingers, and practice on special paper. Remember: Number 1 starts at the top and goes straight down. Number 2 starts at the top, curves right, then slides left. Every number has its own special dance! Writing numbers neatly helps other people read our math work.",
+        "learning_objectives": [
+          "Master proper formation of all digits 0-9",
+          "Write two-digit numbers with correct spacing and alignment",
+          "Develop fine motor control for neat number writing",
+          "Practice writing numbers in various contexts and formats"
+        ],
+        "vocabulary_words": [
+          {"word": "formation", "definition": "The way to make or write a number correctly"},
+          {"word": "spacing", "definition": "How much room to leave between numbers or letters"},
+          {"word": "alignment", "definition": "Making sure numbers line up straight and neat"},
+          {"word": "fine motor", "definition": "Using small muscles in fingers and hands carefully"}
+        ],
+        "materials_needed": [
+          "Sand tray or salt tray for tracing",
+          "Finger paints or pudding for sensory writing",
+          "Various types of paper (lined, graph, plain)",
+          "Pencils with proper grip support",
+          "Number formation charts",
+          "Wet wipes for cleanup"
+        ],
+        "parent_guidance": "Encourage proper pencil grip and posture during writing time. Practice number writing in fun ways like writing in condensation on windows or drawing numbers in sidewalk chalk. Focus on quality over quantity - better to write fewer numbers correctly than many numbers poorly.",
+        "safety_notes": [
+          "Use non-toxic finger paints and materials",
+          "Ensure proper ventilation if using scented materials",
+          "Have cleaning supplies readily available",
+          "Use age-appropriate pencil thickness",
+          "Supervise sensory materials to prevent ingestion"
+        ],
+        "reading_practice_suggestions": [
+          "Trace numbers using proper formation techniques",
+          "Write numbers independently on lined paper",
+          "Copy two-digit numbers with correct spacing",
+          "Practice writing numbers from dictation"
+        ],
+        "assessment_components": [
+          "Does child start each number at the correct point?",
+          "Are numbers formed with proper stroke direction?",
+          "Can child write two-digit numbers with appropriate spacing?",
+          "Is child's number writing legible and consistent?"
+        ],
+        "discussion_questions": [
+          "Where do you start when writing the number 8?",
+          "How much space should you leave between two numbers?",
+          "Which number is hardest for you to write?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Number Formation Songs",
+            "description": "Create and sing songs that describe how to write each number.",
+            "materials": ["Number formation charts", "Simple melodies", "Recording device (optional)"]
+          },
+          {
+            "title": "Playdough Number Sculptures",
+            "description": "Create three-dimensional numbers using playdough to reinforce proper formation.",
+            "materials": ["Playdough", "Number cards", "Rolling tools", "Number cookie cutters"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "The Hundred Chart Adventure: Exploring Numbers to 100",
+      "title_ar": "مغامرة مخطط المئة: استكشاف الأرقام حتى 100",
+      "lesson_type": "experiment",
+      "estimated_duration_minutes": 16,
+      "content_data": {
+        "title": "Navigating the Amazing Number Neighborhood",
+        "content": "Welcome to the amazing Number Neighborhood, where all numbers from 1 to 100 live in organized streets and blocks! The hundreds chart is like a map of Number City. Each row is like a street with 10 house numbers. Look at the patterns: all numbers in the first column end with 1, all numbers in the second column end with 2! When you move right, you add 1. When you move down, you add 10. We'll go on treasure hunts, follow number paths, and discover secret patterns hidden in this magical number neighborhood!",
+        "learning_objectives": [
+          "Navigate and understand the structure of a hundreds chart",
+          "Identify number patterns within the hundreds chart",
+          "Find specific numbers quickly using row and column strategies",
+          "Recognize relationships between numbers in different positions"
+        ],
+        "vocabulary_words": [
+          {"word": "hundreds chart", "definition": "A square showing all numbers from 1 to 100 in rows"},
+          {"word": "row", "definition": "Numbers that go across from left to right"},
+          {"word": "column", "definition": "Numbers that go up and down"},
+          {"word": "navigate", "definition": "To find your way around something"}
+        ],
+        "materials_needed": [
+          "Large hundreds chart poster",
+          "Individual hundreds charts for each child",
+          "Colored transparent counters or chips",
+          "Hundreds chart with some numbers missing",
+          "Direction cards (up, down, left, right)",
+          "Small game pieces or tokens"
+        ],
+        "parent_guidance": "Practice finding numbers on calendars and phone books to reinforce hundreds chart skills. Point out patterns in house numbers, page numbers, and other number sequences in daily life. Create simple treasure hunts using number clues.",
+        "safety_notes": [
+          "Ensure small manipulatives are appropriately sized",
+          "Keep work area organized to prevent tripping on materials",
+          "Use clear, large print on hundreds charts",
+          "Secure charts to prevent sliding during activities"
+        ],
+        "reading_practice_suggestions": [
+          "Locate specific numbers on the hundreds chart quickly",
+          "Identify and describe patterns within the chart",
+          "Fill in missing numbers on partial hundreds charts",
+          "Follow multi-step directions to navigate the chart"
+        ],
+        "assessment_components": [
+          "Can child find any number from 1-100 on the chart?",
+          "Does child recognize and explain patterns in the chart?",
+          "Can child predict what number comes next in various positions?",
+          "Is child using the chart efficiently to solve problems?"
+        ],
+        "discussion_questions": [
+          "What pattern do you notice in the numbers 10, 20, 30, 40?",
+          "If you're on 35 and move down one space, where will you be?",
+          "What's special about all the numbers in the last column?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Pattern Detective Chart",
+            "description": "Color code different patterns on the hundreds chart (even/odd, multiples of 5, etc.).",
+            "materials": ["Hundreds chart copies", "Colored pencils", "Pattern key chart"]
+          },
+          {
+            "title": "Hundreds Chart Treasure Map",
+            "description": "Create treasure hunt adventures using the hundreds chart as a map.",
+            "materials": ["Hundreds chart", "Treasure tokens", "Direction cards", "Adventure stories"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "Real World Numbers: Mathematics in Our Daily Lives",
+      "title_ar": "أرقام العالم الحقيقي: الرياضيات في حياتنا اليومية",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 14,
+      "content_data": {
+        "title": "Discovering Numbers All Around Us",
+        "content": "Numbers are everywhere in our world! They help us know what time it is, how much things cost, what day it is, and even where we live. Today we'll become Number Explorers and hunt for all the different ways people use numbers. We'll find numbers on clocks that tell time, on calendars that show dates, on price tags that tell cost, on addresses that help mail reach the right house, and on rulers that measure how long things are. Each type of number has an important job to help people organize their lives and communicate with each other!",
+        "learning_objectives": [
+          "Identify numbers in real-world contexts and understand their purposes",
+          "Apply counting and number recognition skills to practical situations",
+          "Understand how numbers help us organize and communicate information",
+          "Connect mathematical learning to everyday experiences"
+        ],
+        "vocabulary_words": [
+          {"word": "context", "definition": "The situation where something is used or found"},
+          {"word": "purpose", "definition": "The reason why something is used or needed"},
+          {"word": "organize", "definition": "To put things in order so they make sense"},
+          {"word": "interpret", "definition": "To understand what something means"}
+        ],
+        "materials_needed": [
+          "Clipboards and pencils for number hunt",
+          "Camera or phone for taking pictures",
+          "Chart paper for creating class book",
+          "Real-world number examples (receipts, calendars, etc.)",
+          "Markers and art supplies",
+          "Number hunt recording sheet"
+        ],
+        "parent_guidance": "Point out numbers during errands and activities - reading price tags, looking at street addresses, counting items at the store. Discuss why these numbers are important and what would happen if we didn't have them. Let your child help with simple tasks that involve numbers.",
+        "safety_notes": [
+          "Supervise movement around school/home during number hunt",
+          "Establish clear boundaries for exploration areas",
+          "Ensure safe handling of real-world materials",
+          "Use sanitized items for hands-on exploration"
+        ],
+        "reading_practice_suggestions": [
+          "Read and record numbers found in different environments",
+          "Explain the purpose of various types of numbers",
+          "Practice counting real objects in practical situations",
+          "Write numbers in context (making lists, labeling items)"
+        ],
+        "assessment_components": [
+          "Can child identify numbers in various real-world contexts?",
+          "Does child understand why different types of numbers are useful?",
+          "Can child read and interpret common number displays?",
+          "Is child making connections between math learning and daily life?"
+        ],
+        "discussion_questions": [
+          "Why do we need numbers on clocks?",
+          "What would happen if houses didn't have address numbers?",
+          "Where else might we find important numbers?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Family Phone Directory",
+            "description": "Create a personal phone book with important family numbers and addresses.",
+            "materials": ["Small notebook", "Address list", "Pens", "Contact information"]
+          },
+          {
+            "title": "Daily Number Journal",
+            "description": "Keep a journal of important numbers encountered each day for one week.",
+            "materials": ["Journal", "Pencil", "Daily observation sheet", "Stickers"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "Number Games and Mental Math Magic",
+      "title_ar": "ألعاب الأرقام وسحر الرياضيات الذهنية",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 15,
+      "content_data": {
+        "title": "Building Number Confidence Through Playful Learning",
+        "content": "Welcome to our Number Game Arcade! Today we'll play amazing games that make your brain stronger with numbers. We'll play Number Bingo to practice quick recognition, Counting Races to build speed, Number Memory games to strengthen recall, and even learn some Number Magic Tricks! The secret to mental math is learning shortcuts and strategies. Instead of always counting from 1, we can 'count on' from the bigger number. When adding 6 + 3, start at 6 and count on: 7, 8, 9! We'll also use our friend 10 to help with bigger numbers.",
+        "learning_objectives": [
+          "Develop mental math strategies for simple addition and subtraction",
+          "Practice number recognition and counting through engaging games",
+          "Build confidence with numbers through playful activities",
+          "Strengthen memory and recall of number facts and patterns"
+        ],
+        "vocabulary_words": [
+          {"word": "mental math", "definition": "Solving number problems in your head without writing"},
+          {"word": "strategy", "definition": "A smart way to solve a problem or do something"},
+          {"word": "confidence", "definition": "Feeling sure that you can do something well"},
+          {"word": "recall", "definition": "To remember something quickly"}
+        ],
+        "materials_needed": [
+          "Number bingo cards and calling cards",
+          "Playing cards (remove face cards)",
+          "Timer for counting races",
+          "Memory game cards with numbers and quantities",
+          "Small prizes or stickers",
+          "Whiteboard for demonstrating strategies"
+        ],
+        "parent_guidance": "Play simple number games during car rides or waiting times. Encourage your child to 'count on' from a larger number when adding rather than starting from one. Celebrate effort and improvement, not just correct answers. Keep games short and fun to maintain interest.",
+        "safety_notes": [
+          "Ensure game pieces are age-appropriate and safe",
+          "Monitor competitive games to keep them fun and positive",
+          "Use appropriate timer lengths to prevent pressure",
+          "Create inclusive activities for all skill levels"
+        ],
+        "reading_practice_suggestions": [
+          "Play various number games with increasing difficulty",
+          "Practice mental addition and subtraction within 20",
+          "Use number patterns to solve problems quickly",
+          "Explain problem-solving strategies to peers"
+        ],
+        "assessment_components": [
+          "Can child recognize numbers quickly in game contexts?",
+          "Does child use mental math strategies effectively?",
+          "Is child gaining confidence with number activities?",
+          "Can child explain their thinking process to others?"
+        ],
+        "discussion_questions": [
+          "What's your favorite number game and why?",
+          "How do you add 7 + 4 in your head?",
+          "What strategy helps you count faster?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Family Game Night Collection",
+            "description": "Create a collection of family-friendly number games for ongoing practice.",
+            "materials": ["Game instruction cards", "Various game materials", "Score sheets"]
+          },
+          {
+            "title": "Number Magic Show",
+            "description": "Learn and perform simple number tricks for family and friends.",
+            "materials": ["Magic trick instruction cards", "Props for tricks", "Audience"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 9,
+      "title_en": "Assessment Adventure: Showing What We Know About Numbers",
+      "title_ar": "مغامرة التقييم: إظهار ما نعرفه عن الأرقام",
+      "lesson_type": "assessment",
+      "estimated_duration_minutes": 18,
+      "content_data": {
+        "title": "Celebrating Number Learning Through Fun Challenges",
+        "content": "Welcome to our Number Learning Celebration! Today isn't about tests - it's about showing off all the amazing number skills you've learned. We'll visit different Number Challenge Stations where you can demonstrate your number superpowers! You'll show how well you recognize numbers, count in patterns, build numbers with tens and ones, compare sizes, write numbers beautifully, and solve real-world number problems. Each station is like a fun game where you get to be the number expert. Remember, every mathematician learns at their own pace, and today is about celebrating how far you've come on your number journey!",
+       "learning_objectives": [
+         "Demonstrate mastery of number recognition from 1-100",
+         "Show understanding of counting patterns and skip counting",
+         "Apply place value concepts to read and write two-digit numbers",
+         "Use comparison and ordering skills to solve problems"
+       ],
+       "vocabulary_words": [
+         {"word": "demonstrate", "definition": "To show that you can do something"},
+         {"word": "mastery", "definition": "Being very good at something and understanding it well"},
+         {"word": "assessment", "definition": "A way to check what someone has learned"},
+         {"word": "challenge", "definition": "Something that tests your skills but is still fun to try"}
+       ],
+       "materials_needed": [
+         "Assessment station materials (various manipulatives)",
+         "Recording sheets for each station",
+         "Hundreds chart and number lines",
+         "Timer for paced activities",
+         "Clipboard and pencils",
+         "Stickers or stamps for completed stations"
+       ],
+       "parent_guidance": "Prepare your child by reviewing concepts from previous lessons in a relaxed, game-like manner. Focus on effort rather than perfection. If your child seems anxious, practice deep breathing and remind them that this is just a way to show what they've learned. Celebrate their growth and progress.",
+       "safety_notes": [
+         "Create a calm, supportive environment to reduce assessment anxiety",
+         "Ensure all materials are safely organized and accessible",
+         "Allow breaks between stations to prevent fatigue",
+         "Keep assessment activities at appropriate challenge level"
+       ],
+       "reading_practice_suggestions": [
+         "Complete various assessment tasks at individual pace",
+         "Show number knowledge through multiple modalities",
+         "Apply learned concepts to new problem situations",
+         "Demonstrate understanding through explanation and demonstration"
+       ],
+       "assessment_components": [
+         "Number recognition 1-100: Can identify randomly presented numbers",
+         "Counting skills: Counts accurately by 1s, 2s, 5s, and 10s to appropriate levels",
+         "Place value understanding: Shows tens and ones in two-digit numbers",
+         "Number writing: Forms numbers correctly with proper spacing",
+         "Comparison skills: Uses >, <, = correctly and orders numbers",
+         "Real-world application: Solves problems using numbers in context"
+       ],
+       "discussion_questions": [
+         "What is your favorite thing about working with numbers?",
+         "Which number skill do you feel most confident about?",
+         "What was the most challenging part of learning numbers?"
+       ],
+       "extension_activities": [
+         {
+           "title": "Number Learning Portfolio",
+           "description": "Create a special portfolio showcasing number work and progress throughout the course.",
+           "materials": ["Portfolio folder", "Work samples", "Progress photos", "Reflection sheet"]
+         },
+         {
+           "title": "Goal Setting for Future Learning",
+           "description": "Set exciting goals for continued mathematical learning and number exploration.",
+           "materials": ["Goal chart", "Stickers for progress tracking", "List of new math challenges"]
+         }
+       ]
+     }
+   },
+   {
+     "lesson_order": 10,
+     "title_en": "Number Celebration: Our Journey from 1 to 100!",
+     "title_ar": "احتفال الأرقام: رحلتنا من 1 إلى 100!",
+     "lesson_type": "activity",
+     "estimated_duration_minutes": 20,
+     "content_data": {
+       "title": "Celebrating Our Amazing Mathematical Journey",
+       "content": "Congratulations, Number Superstars! You've completed an incredible journey from learning your first numbers 1-10 all the way to exploring numbers up to 100! Think about all the amazing things you can do now: recognize numbers instantly, count in patterns, understand that big numbers are made of tens and ones, compare which numbers are bigger or smaller, write numbers beautifully, find numbers everywhere in the real world, and solve number problems in your head! Today we'll celebrate with a Numbers Museum where you can display your favorite work, play number games with friends and family, and share your number discoveries. You are now official members of the Number Explorer Club!",
+       "learning_objectives": [
+         "Celebrate mathematical learning achievements and progress",
+         "Reflect on favorite number concepts and activities from the course",
+         "Share number knowledge with others through presentations or displays",
+         "Set goals for continued mathematical learning and exploration"
+       ],
+       "vocabulary_words": [
+         {"word": "congratulations", "definition": "A happy way to say someone did something wonderful"},
+         {"word": "journey", "definition": "A trip or adventure from one place to another"},
+         {"word": "achievement", "definition": "Something good that you worked hard to do"},
+         {"word": "explorer", "definition": "Someone who discovers and learns about new things"}
+       ],
+       "materials_needed": [
+         "All books and materials from previous lessons",
+         "Number Explorer certificate or diploma",
+         "Photo props for celebration pictures",
+         "Display boards for Numbers Museum",
+         "Healthy celebration snacks (optional)",
+         "Future learning goal chart"
+       ],
+       "parent_guidance": "Join in celebrating your child's mathematical growth enthusiastically! Ask them to teach you their favorite number concepts or games. Display their number work at home and continue to point out numbers in daily life. Encourage continued curiosity about mathematics and praise their persistence and effort throughout the course.",
+       "safety_notes": [
+         "Keep celebration positive and inclusive for all learners",
+         "Check for food allergies if providing snacks",
+         "Maintain organized space for group celebration activities",
+         "Ensure celebration materials are age-appropriate and safe"
+       ],
+       "reading_practice_suggestions": [
+         "Present learned concepts to others",
+         "Teach number games to family members or friends",
+         "Reflect on learning growth and set future goals",
+         "Apply all learned number skills in celebration activities"
+       ],
+       "assessment_components": [
+         "Can child articulate what they learned about numbers?",
+         "Does child show enthusiasm for mathematical learning?",
+         "Is child able to teach number concepts to others?",
+         "Can child set appropriate goals for future learning?"
+       ],
+       "discussion_questions": [
+         "What was your favorite part of learning about numbers?",
+         "What kind of number problems do you want to learn next?",
+         "How do you feel about being a Number Explorer now?"
+       ],
+       "extension_activities": [
+         {
+           "title": "Numbers Museum Exhibition",
+           "description": "Create a special exhibition displaying number learning journey and favorite discoveries.",
+           "materials": ["Display boards", "Work samples", "Museum labels", "Visitor comment book"]
+         },
+         {
+           "title": "Family Math Game Night",
+           "description": "Plan a special evening where child demonstrates number skills and teaches family members.",
+           "materials": ["Number games collection", "Teaching materials", "Celebration certificate"]
+         },
+         {
+           "title": "Number Explorer Badge Creation",
+           "description": "Design and create special badges celebrating specific number achievements.",
+           "materials": ["Badge templates", "Art supplies", "Ribbon", "Achievement list"]
+         }
+       ]
+     }
+   }
+ ]
+}

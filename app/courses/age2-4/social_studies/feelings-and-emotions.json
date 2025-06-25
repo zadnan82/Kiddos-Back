@@ -1,0 +1,460 @@
+{
+  "course": {
+    "title_en": "Feelings and Emotions",
+    "title_ar": "المشاعر والعواطف",
+    "description_en": "Learn about different feelings we all have every day. Discover how to recognize emotions in yourself and others, and find healthy ways to express how you feel.",
+    "description_ar": "تعلم عن المشاعر المختلفة التي نشعر بها جميعًا كل يوم. اكتشف كيفية التعرف على العواطف في نفسك وفي الآخرين، وإيجاد طرق صحية للتعبير عن مشاعرك.",
+    "age_group_min": 2,
+    "age_group_max": 4,
+    "estimated_duration_minutes": 58,
+    "subject": "social_studies"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "Happy Feelings Make Us Smile",
+      "title_ar": "المشاعر السعيدة تجعلنا نبتسم",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Sunny the Happy Bear",
+        "content": "Meet Sunny the bear! Sunny feels happy today. When we feel happy, we smile big! Our eyes get bright and sparkly. Happy feels warm inside like sunshine. Sunny is happy because he played with friends. Playing makes us happy! Sunny is happy because mommy gave him a hug. Hugs make us happy! Sunny is happy because he ate yummy honey. Good food makes us happy! When you feel happy, you might laugh. You might jump up and down. You might want to dance! Happy is a wonderful feeling. What makes you feel happy? Let's smile like Sunny!",
+        "learning_objectives": [
+          "Recognize what happy feels like",
+          "Identify things that make us happy",
+          "Practice expressing happy feelings"
+        ],
+        "vocabulary_words": [
+          {"word": "happy", "definition": "Feeling good and joyful inside, makes you smile"},
+          {"word": "smile", "definition": "Happy look on your face, mouth curves up"},
+          {"word": "bright", "definition": "Shiny and full of light"},
+          {"word": "laugh", "definition": "Happy sound you make when something is funny"},
+          {"word": "warm", "definition": "Nice cozy feeling, like being in sunshine"},
+          {"word": "wonderful", "definition": "Really, really good and special"}
+        ],
+        "materials_needed": [
+          "Mirror for child to see their smile",
+          "Teddy bear or stuffed animal",
+          "Pictures of happy activities",
+          "Yellow paper or objects (sunshine colors)"
+        ],
+        "parent_guidance": "Help child identify their own happy face in mirror. Share what makes you happy and ask what makes them happy. Practice big smiles together. Use enthusiastic, positive tone throughout lesson.",
+        "safety_notes": [
+          "Use unbreakable mirror",
+          "Keep activities positive and uplifting",
+          "Ensure stuffed animals are clean",
+          "Avoid overwhelming child with too much excitement",
+          "Watch for signs of overstimulation"
+        ],
+        "discussion_questions": [
+          "What makes your face look when you're happy?",
+          "What things make you feel happy?",
+          "How does happy feel inside your body?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Happy Face Practice",
+            "description": "Practice making happy faces in the mirror and take silly happy photos.",
+            "materials": ["Mirror", "Camera (optional)", "Happy music"]
+          },
+          {
+            "title": "Happy Things Drawing",
+            "description": "Draw pictures of things that make you happy.",
+            "materials": ["Paper", "Crayons", "Yellow and bright colors"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "Sad Feelings Need Comfort",
+      "title_ar": "المشاعر الحزينة تحتاج إلى الراحة",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Rainy the Sad Puppy",
+        "content": "Meet Rainy the puppy. Today Rainy feels sad. When we feel sad, our face looks different. Our mouth turns down. Sometimes we cry tears. Sad feels heavy inside like gray clouds. Rainy is sad because his toy broke. When toys break, we feel sad. Rainy is sad because his friend had to go home. Missing friends makes us sad. But when Rainy feels sad, mommy gives him a gentle hug. Hugs help sad feelings. Daddy reads him a story. Stories help too. Soon Rainy feels a little better. It's okay to feel sad sometimes. Sad feelings don't last forever. Someone who loves you will help you feel better.",
+        "learning_objectives": [
+          "Recognize what sad feels like",
+          "Understand sad feelings are normal",
+          "Learn ways to feel better when sad"
+        ],
+        "vocabulary_words": [
+          {"word": "sad", "definition": "Feeling unhappy inside, might make you cry"},
+          {"word": "tears", "definition": "Water that comes from eyes when you cry"},
+          {"word": "heavy", "definition": "Feeling like something big is weighing you down"},
+          {"word": "gentle", "definition": "Soft and careful, not rough"},
+          {"word": "comfort", "definition": "Help someone feel better when they're sad"},
+          {"word": "forever", "definition": "For a very, very long time"}
+        ],
+        "materials_needed": [
+          "Stuffed puppy or dog",
+          "Tissues for 'tears'",
+          "Blanket for comfort",
+          "Storybook for reading together"
+        ],
+        "parent_guidance": "Validate that sad feelings are normal and okay. Demonstrate gentle comforting actions. Don't try to fix sadness immediately - acknowledge it first. Use soft, caring voice. Show how comfort helps.",
+        "safety_notes": [
+          "Keep lesson gentle and not too intense",
+          "Watch for signs of real distress in child",
+          "Be ready to comfort child if they become sad",
+          "Keep tissues clean and safe",
+          "End on hopeful, comforting note"
+        ],
+        "discussion_questions": [
+          "How does your face look when you're sad?",
+          "What makes you feel sad sometimes?",
+          "Who helps you feel better when you're sad?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Comfort Kit",
+            "description": "Gather special comfort items like soft blanket, stuffed animal, favorite book.",
+            "materials": ["Blanket", "Stuffed animal", "Book", "Small box"]
+          },
+          {
+            "title": "Sad Face, Happy Face",
+            "description": "Practice changing from sad face to happy face with comfort.",
+            "materials": ["Mirror", "Comfort items"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "Mad Feelings Need to Cool Down",
+      "title_ar": "مشاعر الغضب تحتاج إلى الهدوء",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Thunder the Mad Dragon",
+        "content": "Meet Thunder the dragon. Sometimes Thunder feels mad. When we feel mad, our face gets red. We might make fists with our hands. Mad feels hot inside like fire. Thunder gets mad when someone takes his toy without asking. That's not fair! Thunder gets mad when he can't do something hard. Frustration makes us mad! But Thunder learns to cool down his mad feelings. First, he takes deep breaths. In through nose, out through mouth. Next, he counts to five slowly. One, two, three, four, five. Then he talks about his mad feelings. 'I feel mad because...' Mad feelings are okay, but we must be safe. No hitting. No throwing. Let's practice cooling down like Thunder!",
+        "learning_objectives": [
+          "Recognize what mad/angry feels like",
+          "Learn safe ways to express anger",
+          "Practice calming down techniques"
+        ],
+        "vocabulary_words": [
+          {"word": "mad", "definition": "Feeling angry and upset inside"},
+          {"word": "fists", "definition": "Hands closed tight with fingers curled"},
+          {"word": "frustration", "definition": "Feeling mad when you can't do something"},
+          {"word": "breathe", "definition": "Take air in and out of your nose and mouth"},
+          {"word": "cool down", "definition": "Calm your mad feelings and feel better"},
+          {"word": "fair", "definition": "When everyone is treated nicely and equally"}
+        ],
+        "materials_needed": [
+          "Toy dragon or red stuffed animal",
+          "Red paper or cloth",
+          "Timer or clock for counting",
+          "Mirror to see faces"
+        ],
+        "parent_guidance": "Model calm breathing and counting. Validate that anger is normal but emphasize safe expression. Practice cooling down techniques when child is calm. Stay calm yourself during demonstrations.",
+        "safety_notes": [
+          "Never encourage aggressive behavior",
+          "Keep all cooling down techniques safe",
+          "Model appropriate anger expression",
+          "Watch for signs of real anger in child",
+          "Be ready to help child practice techniques"
+        ],
+        "discussion_questions": [
+          "How does your body feel when you're mad?",
+          "What are safe ways to show mad feelings?",
+          "How can we cool down when we're mad?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Breathing Practice",
+            "description": "Practice deep breathing together - in through nose, out through mouth.",
+            "materials": ["Comfortable seating", "Quiet space"]
+          },
+          {
+            "title": "Mad Face Art",
+            "description": "Draw mad faces and then draw what helps them feel better.",
+            "materials": ["Red crayons", "Paper", "Other colored crayons"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "Scared Feelings Need Brave Help",
+      "title_ar": "مشاعر الخوف تحتاج إلى المساعدة الشجاعة",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Shaky the Scared Bunny",
+        "content": "Meet Shaky the bunny. Sometimes Shaky feels scared. When we feel scared, we might shake or tremble. Our heart beats fast. Scared feels cold and worried inside. Shaky gets scared of loud noises like thunder. Loud sounds can be scary! Shaky gets scared of dark places. Dark can feel scary! Shaky gets scared of new things he doesn't know. New things can be scary! But Shaky learns to be brave when he's scared. He holds his mommy's hand tight. He remembers he is safe. He takes slow, calm breaths. Mommy tells him, 'It's okay to feel scared. I'm here with you.' Soon Shaky feels a little braver. Being scared is normal. Everyone feels scared sometimes.",
+        "learning_objectives": [
+          "Recognize what scared/afraid feels like",
+          "Understand scared feelings are normal",
+          "Learn ways to feel braver when scared"
+        ],
+        "vocabulary_words": [
+          {"word": "scared", "definition": "Feeling afraid and worried about something"},
+          {"word": "shake", "definition": "Body moves back and forth when nervous"},
+          {"word": "tremble", "definition": "Shake a little bit when scared"},
+          {"word": "worried", "definition": "Thinking about something that might be bad"},
+          {"word": "brave", "definition": "Being strong even when you feel scared"},
+          {"word": "safe", "definition": "Protected and not in danger"}
+        ],
+        "materials_needed": [
+          "Stuffed bunny or rabbit",
+          "Flashlight for discussing dark/light",
+          "Soft blanket for comfort",
+          "Picture of parent and child holding hands"
+        ],
+        "parent_guidance": "Validate scared feelings as normal. Demonstrate how physical comfort helps. Show how to take calming breaths. Reassure child of safety. Don't dismiss fears - acknowledge them with understanding.",
+        "safety_notes": [
+          "Don't introduce new fears during lesson",
+          "Keep flashlight use gentle and non-scary",
+          "Provide immediate comfort if child becomes scared",
+          "Stay calm and reassuring throughout",
+          "End lesson with feelings of safety and comfort"
+        ],
+        "discussion_questions": [
+          "What makes your body feel when you're scared?",
+          "What things sometimes feel scary?",
+          "Who helps you feel brave when you're scared?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Brave Helper Practice",
+            "description": "Practice holding hands and being brave helpers for stuffed animals.",
+            "materials": ["Stuffed animals", "Brave helper actions"]
+          },
+          {
+            "title": "Nightlight Comfort",
+            "description": "Show how lights make dark places feel safer and less scary.",
+            "materials": ["Flashlight or nightlight", "Dark and light spaces"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "Excited Feelings Make Us Bounce",
+      "title_ar": "مشاعر الإثارة تجعلنا نقفز",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Bouncy the Excited Kangaroo",
+        "content": "Meet Bouncy the kangaroo! Bouncy feels excited today. When we feel excited, we have lots of energy! We might bounce or jump around. Excited feels bubbly inside like soda pop. Bouncy gets excited about going to the park. Fun places make us excited! Bouncy gets excited about birthday parties. Special days make us excited! Bouncy gets excited about seeing grandma. People we love make us excited! When Bouncy feels excited, he hops around. Hop, hop, hop! But sometimes excited feelings are so big, we need to use them safely. We can jump on soft ground. We can dance to music. We can clap our hands fast. Let's bounce like Bouncy when we feel excited!",
+        "learning_objectives": [
+          "Recognize what excited feels like",
+          "Learn safe ways to express excitement",
+          "Practice using excited energy positively"
+        ],
+        "vocabulary_words": [
+          {"word": "excited", "definition": "Feeling very happy and full of energy about something"},
+          {"word": "energy", "definition": "Power that makes you want to move and be active"},
+          {"word": "bounce", "definition": "Jump up and down with happy energy"},
+          {"word": "bubbly", "definition": "Feeling fizzy and happy inside like bubbles"},
+          {"word": "special", "definition": "Very important and not ordinary"},
+          {"word": "safely", "definition": "In a way that won't hurt you or others"}
+        ],
+        "materials_needed": [
+          "Toy kangaroo or stuffed animal",
+          "Soft surface for bouncing",
+          "Upbeat music",
+          "Pictures of exciting activities"
+        ],
+        "parent_guidance": "Channel excited energy into safe activities. Set clear boundaries for safe excitement expression. Join in excited activities to model appropriate behavior. Help child recognize excited feelings before they become overwhelming.",
+        "safety_notes": [
+          "Ensure safe space for bouncing and jumping",
+          "Keep excitement activities controlled",
+          "Provide soft surfaces for active play",
+          "Monitor excitement levels to prevent overstimulation",
+          "Have calming activities ready if needed"
+        ],
+        "discussion_questions": [
+          "How does your body feel when you're excited?",
+          "What things make you feel excited?",
+          "What are safe ways to show excited feelings?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Excitement Dance Party",
+            "description": "Dance and move to music to express excited feelings safely.",
+            "materials": ["Upbeat music", "Safe dancing space"]
+          },
+          {
+            "title": "Excited Energy Games",
+            "description": "Play games that use excited energy like clapping, stomping, jumping jacks.",
+            "materials": ["Open space", "Energy and enthusiasm"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "Surprised Feelings Make Us Wonder",
+      "title_ar": "مشاعر المفاجأة تجعلنا نتساءل",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 7,
+      "content_data": {
+        "title": "Blinky the Surprised Owl",
+        "content": "Meet Blinky the owl! Sometimes Blinky feels surprised. When we feel surprised, our eyes get big and wide! Our mouth might open like a circle. Surprised feels like a little jump inside. Blinky gets surprised when someone hides and says 'Boo!' Unexpected things make us surprised! Blinky gets surprised when he finds a pretty flower. Nice surprises make us happy! Blinky gets surprised when thunder is loud. Some surprises can be scary! But surprises can be fun too. We might say 'Oh!' or 'Wow!' when surprised. Sometimes we laugh at surprises. Sometimes we need a minute to understand what happened. Let's practice surprise faces like Blinky! Open your eyes wide! Make an 'O' with your mouth!",
+        "learning_objectives": [
+          "Recognize what surprised feels like",
+          "Understand surprises can be good or scary",
+          "Practice expressing surprise safely"
+        ],
+        "vocabulary_words": [
+          {"word": "surprised", "definition": "Feeling shocked when something unexpected happens"},
+          {"word": "wide", "definition": "Very open and big"},
+          {"word": "circle", "definition": "Round shape like the letter O"},
+          {"word": "unexpected", "definition": "Something you didn't know was going to happen"},
+          {"word": "minute", "definition": "Short amount of time to think"},
+          {"word": "understand", "definition": "Know what something means"}
+        ],
+        "materials_needed": [
+          "Toy owl or bird",
+          "Small box for hiding surprises",
+          "Mirror for practicing faces",
+          "Safe small toys for surprise reveals"
+        ],
+        "parent_guidance": "Keep surprises gentle and positive. Practice surprise expressions in mirror. Explain that some surprises are fun, some might be scary. Help child process surprise feelings. Use calm, reassuring voice.",
+        "safety_notes": [
+          "Avoid startling or scaring child",
+          "Keep all surprises age-appropriate and gentle",
+          "Be ready to comfort if surprise causes fear",
+          "Use only safe objects for surprise activities",
+          "Watch child's reaction and adjust accordingly"
+        ],
+        "discussion_questions": [
+          "What does your face look like when you're surprised?",
+          "What kind of surprises do you like?",
+          "How do surprises make you feel?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Gentle Surprise Box",
+            "description": "Hide safe, pleasant objects in box for gentle surprise reveals.",
+            "materials": ["Small box", "Safe toys", "Cloth to cover"]
+          },
+          {
+            "title": "Surprise Face Mirror",
+            "description": "Practice making surprised faces and other feeling faces in mirror.",
+            "materials": ["Mirror", "Different feeling picture cards"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "Feelings Quiz Game",
+      "title_ar": "لعبة اختبار المشاعر",
+      "lesson_type": "quiz",
+      "estimated_duration_minutes": 6,
+      "content_data": {
+        "title": "What Feelings Do You Know?",
+        "content": "Let's play a fun game about all the feelings we learned! I will ask you about different feelings. You can make faces, point to pictures, or tell me the answers!",
+        "learning_objectives": [
+          "Review all feelings and emotions learned",
+          "Practice identifying feelings in faces",
+          "Show understanding of emotional expressions"
+        ],
+        "vocabulary_words": [
+          {"word": "quiz", "definition": "Fun game with questions about what you learned"},
+          {"word": "feelings", "definition": "Different ways we feel inside - happy, sad, mad, scared"}
+        ],
+        "materials_needed": [
+          "Pictures of different feeling faces",
+          "Mirror for making faces",
+          "Stuffed animals from previous lessons"
+        ],
+        "parent_guidance": "Keep quiz light and fun, not stressful. Accept any form of response - faces, pointing, words. Celebrate every answer. Use encouraging tone throughout. Help child if they need prompts.",
+        "safety_notes": [
+          "Keep atmosphere positive and pressure-free",
+          "No wrong answers - all responses are good",
+          "Take breaks if child seems tired",
+          "End on positive, encouraging note"
+        ],
+        "discussion_questions": [
+          "Show me a happy face! What makes you happy?",
+          "Can you make a sad face? When do we feel sad?",
+          "Show me how your face looks when you're mad!",
+          "What does scared look like? Who helps when you're scared?",
+          "Make an excited face! What makes you excited?",
+          "Can you show surprised? What does surprised feel like?",
+          "Point to the happy feeling!",
+          "Which feeling needs a hug?",
+          "What feeling makes you want to bounce?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Feeling Faces Matching",
+            "description": "Match feeling pictures to the right emotion words or situations.",
+            "materials": ["Feeling face cards", "Situation pictures"]
+          },
+          {
+            "title": "Emotion Charades",
+            "description": "Act out different feelings while others guess which emotion it is.",
+            "materials": ["Feeling cards for prompts", "Acting space"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "All Feelings Are Okay",
+      "title_ar": "كل المشاعر مقبولة",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 13,
+      "content_data": {
+        "title": "Celebrating All Our Feelings",
+        "content": "Let's celebrate all the feelings we learned about! Happy feelings make us smile and laugh. Sad feelings sometimes make us cry, and that's okay. Mad feelings make us want to stomp, but we cool down safely. Scared feelings make us want to hide, but we find brave helpers. Excited feelings make us want to bounce and dance. Surprised feelings make our eyes big and wide. All feelings are okay to have! Everyone has all these feelings. Grown-ups have feelings too. When we have big feelings, we can talk about them. We can say, 'I feel happy!' or 'I feel sad.' We can ask for help with our feelings. We can help others with their feelings too. Feelings make us human and special. Let's practice all our feeling faces together!",
+        "learning_objectives": [
+          "Understand all feelings are normal and acceptable",
+          "Learn to express feelings with words",
+          "Develop empathy for others' feelings"
+        ],
+        "vocabulary_words": [
+          {"word": "celebrate", "definition": "Be happy about something special"},
+          {"word": "normal", "definition": "Regular and okay, what everyone experiences"},
+          {"word": "express", "definition": "Show or tell others how you feel"},
+          {"word": "empathy", "definition": "Understanding and caring about how others feel"},
+          {"word": "human", "definition": "What we are - people who have feelings"},
+          {"word": "special", "definition": "Important and wonderful"}
+        ],
+        "materials_needed": [
+          "All stuffed animals from previous lessons",
+          "Feeling face pictures",
+          "Mirror for practicing faces",
+          "Stickers or rewards for participation"
+        ],
+        "parent_guidance": "Emphasize that all feelings are valid and normal. Practice naming feelings together. Model empathy by acknowledging child's feelings. Create safe space for emotional expression. End with positive affirmations about feelings.",
+        "safety_notes": [
+          "Keep lesson accepting and non-judgmental",
+          "Validate all emotional expressions",
+          "Provide comfort if any feelings become overwhelming",
+          "Create emotionally safe environment",
+          "Use positive, affirming language throughout"
+        ],
+        "discussion_questions": [
+          "Which feeling is your favorite?",
+          "Are any feelings bad or wrong?",
+          "How can we help someone who feels sad?",
+          "What can you say when you have big feelings?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Feelings Journal",
+            "description": "Create simple book where child can draw or put stickers for daily feelings.",
+            "materials": ["Small notebook", "Crayons", "Feeling stickers"]
+          },
+          {
+            "title": "Family Feelings Check",
+            "description": "Start daily family tradition of sharing how everyone feels.",
+            "materials": ["Family time", "Feeling words", "Listening ears"]
+          },
+          {
+            "title": "Feelings Helper Kit",
+            "description": "Gather comfort items for different feelings - happy music, comfort blanket, etc.",
+            "materials": ["Various comfort and expression items", "Special box"]
+          }
+        ]
+      }
+    }
+  ]
+}

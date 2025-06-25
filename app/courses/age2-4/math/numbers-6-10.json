@@ -1,0 +1,448 @@
+{
+  "course": {
+    "title_en": "Numbers 6-10",
+    "title_ar": "الأرقام ٦-١٠",
+    "description_en": "Learn to count from 6 to 10 with fun stories and activities. Discover bigger numbers and practice counting with your fingers and toes.",
+    "description_ar": "تعلم العد من ٦ إلى ١٠ مع القصص والأنشطة الممتعة. اكتشف الأرقام الأكبر ومارس العد بأصابع يديك وقدميك.",
+    "age_group_min": 2,
+    "age_group_max": 4,
+    "estimated_duration_minutes": 52,
+    "subject": "math"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "Six Silly Cats",
+      "title_ar": "ستة قطط مضحكة",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 7,
+      "content_data": {
+        "title": "Six Cats Play in the Garden",
+        "content": "Look! Here are SIX orange cats. Count with me. ONE cat, TWO cats, THREE cats, FOUR cats, FIVE cats, SIX cats! SIX is more than five. SIX cats play together. They run and jump. They chase butterflies. Meow meow meow! SIX cats have SIX tails. SIX cats have many paws. Hold up SIX fingers. Use one hand for five. Use one finger from other hand. That makes SIX! SIX is a big number. SIX cats are very happy playing together.",
+        "learning_objectives": [
+          "Recognize the number 6",
+          "Count to 6 with fingers using both hands",
+          "Understand 6 is more than 5"
+        ],
+        "vocabulary_words": [
+          {"word": "six", "definition": "The number 6, means six things"},
+          {"word": "cats", "definition": "Soft animals that say meow"},
+          {"word": "garden", "definition": "Nice place outside with plants"},
+          {"word": "chase", "definition": "Run after something playfully"},
+          {"word": "butterflies", "definition": "Pretty flying insects with colorful wings"},
+          {"word": "paws", "definition": "Cat feet with soft pads"}
+        ],
+        "materials_needed": [
+          "Both hands for counting to 6",
+          "Six small toys or blocks",
+          "Pictures of cats (if available)"
+        ],
+        "parent_guidance": "Show child how to count to 6 using one full hand (5) plus one finger from the other hand. Count six objects around the house. Make meowing sounds together. Help child understand that 6 is bigger than 5.",
+        "safety_notes": [
+          "Use large, safe objects for counting",
+          "Ensure no small parts that could be choking hazards",
+          "Supervise when looking for objects to count",
+          "Keep cat pictures or toys safe and clean"
+        ],
+        "discussion_questions": [
+          "How many cats do you see?",
+          "Can you show me six fingers?",
+          "What sound do cats make?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Six Object Hunt",
+            "description": "Find six safe objects around the house like six spoons, six blocks, six books.",
+            "materials": ["Various safe household objects"]
+          },
+          {
+            "title": "Cat Movement Game",
+            "description": "Crawl around like six cats, meowing and pretending to chase butterflies.",
+            "materials": ["Open safe space for crawling"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "Seven Rainbow Colors",
+      "title_ar": "سبعة ألوان قوس قزح",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Seven Pretty Colors in the Sky",
+        "content": "Look up at the sky! There is a beautiful rainbow. A rainbow has SEVEN colors. Count them with me. ONE red, TWO orange, THREE yellow, FOUR green, FIVE blue, SIX purple, SEVEN pink! SEVEN colors make a rainbow. SEVEN is more than six. SEVEN is a special number. You have SEVEN days in one week. Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday. That is SEVEN days! SEVEN colors are so pretty. They make us happy. Let's count to SEVEN together!",
+        "learning_objectives": [
+          "Recognize the number 7",
+          "Count seven colors",
+          "Learn that a week has seven days"
+        ],
+        "vocabulary_words": [
+          {"word": "seven", "definition": "The number 7, means seven things"},
+          {"word": "rainbow", "definition": "Pretty colors in the sky after rain"},
+          {"word": "colors", "definition": "Red, blue, yellow, green and more pretty shades"},
+          {"word": "sky", "definition": "Blue space above us where clouds live"},
+          {"word": "week", "definition": "Seven days from Sunday to Saturday"},
+          {"word": "days", "definition": "Times when the sun is shining"}
+        ],
+        "materials_needed": [
+          "Colorful objects (red, orange, yellow, green, blue, purple)",
+          "Picture of a rainbow (if available)",
+          "Crayons or colored pencils"
+        ],
+        "parent_guidance": "Point out different colors around the house. Help child count seven crayons or colored objects. Talk about the days of the week in simple terms. Show rainbow pictures if available. Practice counting to 7 slowly.",
+        "safety_notes": [
+          "Use large, safe colored objects",
+          "Supervise use of crayons or art supplies",
+          "Ensure art materials are non-toxic",
+          "Keep small colored objects away from mouth"
+        ],
+        "discussion_questions": [
+          "How many colors in a rainbow?",
+          "What is your favorite color?",
+          "Can you count to seven?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Color Collection",
+            "description": "Collect seven different colored safe objects from around the house.",
+            "materials": ["Various colored safe household items"]
+          },
+          {
+            "title": "Rainbow Drawing",
+            "description": "Draw or color a simple rainbow with help from parent.",
+            "materials": ["Large paper", "Safe crayons", "Parent supervision"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "Eight Swimming Fish",
+      "title_ar": "ثمانية أسماك تسبح",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Eight Fish Swim in the Water",
+        "content": "Let's count EIGHT colorful fish! They swim in the clear water. Count with me. ONE fish, TWO fish, THREE fish, FOUR fish, FIVE fish, SIX fish, SEVEN fish, EIGHT fish! EIGHT is more than seven. Now let's swim like fish! Move your arms like swimming. Glub glub glub! EIGHT fish swim together. They are friends. Let's count EIGHT movements. Swim one time! Swim two times! Keep going until EIGHT! EIGHT is a big number. Great job counting to EIGHT!",
+        "learning_objectives": [
+          "Recognize the number 8",
+          "Count to 8 with movement",
+          "Practice swimming motions while counting"
+        ],
+        "vocabulary_words": [
+          {"word": "eight", "definition": "The number 8, means eight things"},
+          {"word": "fish", "definition": "Animals that live and swim in water"},
+          {"word": "swim", "definition": "Move through water like fish do"},
+          {"word": "water", "definition": "Clear liquid that fish live in"},
+          {"word": "arms", "definition": "Parts of your body that help you move"},
+          {"word": "friends", "definition": "Others who like to play together"}
+        ],
+        "materials_needed": [
+          "Open space for swimming movements",
+          "Eight small objects to count",
+          "Blue fabric or scarf (optional for water effect)"
+        ],
+        "parent_guidance": "Demonstrate gentle swimming arm movements. Count to 8 with each swimming motion. Help child move arms safely. Count eight objects together. Keep movements slow and controlled for safety.",
+        "safety_notes": [
+          "Ensure safe, clear space for arm movements",
+          "No actual water involved - only pretend swimming",
+          "Keep movements gentle and controlled",
+          "Hold child's hand if balance is needed",
+          "Take breaks if child gets tired"
+        ],
+        "discussion_questions": [
+          "How many fish are swimming?",
+          "Can you swim like a fish?",
+          "What do fish do in the water?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Eight Fish Count",
+            "description": "Count eight goldfish crackers or fish-shaped toys.",
+            "materials": ["Fish-shaped crackers or toys", "Plate or tray"]
+          },
+          {
+            "title": "Swimming Dance",
+            "description": "Dance and move arms like swimming to gentle music.",
+            "materials": ["Soft background music", "Safe space"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "Nine Bouncing Balls",
+      "title_ar": "تسع كرات ترتد",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Nine Balls Bounce Up and Down",
+        "content": "Look at NINE colorful balls! Count them with me. ONE ball, TWO balls, THREE balls, FOUR balls, FIVE balls, SIX balls, SEVEN balls, EIGHT balls, NINE balls! NINE is more than eight. NINE balls bounce up and down. Bounce bounce bounce! Let's bounce like balls! Bend your knees and bounce gently. Count each bounce. ONE bounce! TWO bounces! Keep going to NINE bounces! NINE is a very big number. You did great counting to NINE!",
+        "learning_objectives": [
+          "Recognize the number 9",
+          "Count to 9 with bouncing movements",
+          "Practice gentle bouncing while counting"
+        ],
+        "vocabulary_words": [
+          {"word": "nine", "definition": "The number 9, means nine things"},
+          {"word": "balls", "definition": "Round toys that can bounce and roll"},
+          {"word": "bounce", "definition": "Go up and down like a ball"},
+          {"word": "colorful", "definition": "Having many pretty colors"},
+          {"word": "knees", "definition": "Bendy parts in the middle of your legs"},
+          {"word": "gently", "definition": "Soft and careful, not hard"}
+        ],
+        "materials_needed": [
+          "Safe, soft surface for bouncing",
+          "Nine small soft balls or bean bags",
+          "Non-slip socks or bare feet"
+        ],
+        "parent_guidance": "Hold child's hands while bouncing for safety. Count each bounce out loud together. Use very gentle bouncing motions. Count nine soft objects. Ensure safe surface for movement activities.",
+        "safety_notes": [
+          "Use soft, safe surface for bouncing",
+          "Hold child's hands for balance",
+          "Keep bouncing gentle and low",
+          "No hard surfaces for bouncing",
+          "Stop if child feels dizzy or tired",
+          "Use large, soft balls only"
+        ],
+        "discussion_questions": [
+          "How many balls can you count?",
+          "Can you bounce like a ball?",
+          "What colors are the balls?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Ball Collection",
+            "description": "Gather nine safe balls or round objects and count them.",
+            "materials": ["Nine soft balls", "Large basket or container"]
+          },
+          {
+            "title": "Gentle Bounce Game",
+            "description": "Sit and gently bounce on a soft surface while counting to nine.",
+            "materials": ["Soft pillow or cushion", "Parent supervision"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "Ten Little Toes",
+      "title_ar": "عشرة أصابع قدم صغيرة",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 9,
+      "content_data": {
+        "title": "Ten Toes on My Two Feet",
+        "content": "Look down at your feet! You have TEN toes. Count them with me. ONE toe, TWO toes, THREE toes, FOUR toes, FIVE toes on one foot. SIX toes, SEVEN toes, EIGHT toes, NINE toes, TEN toes on both feet! TEN is the biggest number we learned. TEN is more than nine. You have TEN fingers too! FIVE on each hand. TEN toes help you walk. TEN fingers help you play. TEN is a very special number. Wiggle your TEN toes. Wiggle your TEN fingers. You are amazing with all your TEN and TEN!",
+        "learning_objectives": [
+          "Recognize the number 10",
+          "Count 10 toes and 10 fingers",
+          "Understand 10 is the biggest number learned"
+        ],
+        "vocabulary_words": [
+          {"word": "ten", "definition": "The number 10, means ten things"},
+          {"word": "toes", "definition": "Five small parts on each foot"},
+          {"word": "feet", "definition": "Two parts at the end of your legs"},
+          {"word": "fingers", "definition": "Five long parts on each hand"},
+          {"word": "wiggle", "definition": "Move back and forth quickly"},
+          {"word": "amazing", "definition": "Very special and wonderful"}
+        ],
+        "materials_needed": [
+          "Child's own hands and feet",
+          "Comfortable place to sit",
+          "Socks that can be removed safely"
+        ],
+        "parent_guidance": "Help child count toes and fingers slowly. Make it fun by wiggling toes and fingers together. Ensure child is sitting safely when removing socks. Celebrate reaching the big number 10!",
+        "safety_notes": [
+          "Sit in safe, comfortable position",
+          "Remove socks carefully to avoid slipping",
+          "Keep feet clean and warm",
+          "Count gently without pulling toes",
+          "Wash hands before and after activity"
+        ],
+        "discussion_questions": [
+          "How many toes do you have?",
+          "How many fingers do you have?",
+          "Can you wiggle your toes?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Ten Finger Art",
+            "description": "Make finger prints or hand prints showing all ten fingers.",
+            "materials": ["Washable ink pad", "Large paper", "Wet wipes"]
+          },
+          {
+            "title": "Toe and Finger Song",
+            "description": "Sing a counting song while wiggling toes and fingers.",
+            "materials": ["None needed"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "Big Number Hunt",
+      "title_ar": "البحث عن الأرقام الكبيرة",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 10,
+      "content_data": {
+        "title": "Finding Big Numbers Everywhere",
+        "content": "Let's hunt for big numbers! We learned SIX, SEVEN, EIGHT, NINE, and TEN. Let's find them around our house. First, find SIX toys. Next, find SEVEN crayons. Then, find EIGHT blocks. Now, find NINE books. Last, count your TEN fingers! These are big numbers. You are so smart! Count each group slowly. SIX toys for playing. SEVEN crayons for drawing. EIGHT blocks for building. NINE books for reading. TEN fingers for everything! You found all the big numbers!",
+        "learning_objectives": [
+          "Practice counting 6-10 with real objects",
+          "Find numbers in everyday items",
+          "Review all big numbers learned"
+        ],
+        "vocabulary_words": [
+          {"word": "hunt", "definition": "Look for and find things"},
+          {"word": "everywhere", "definition": "In many places around us"},
+          {"word": "smart", "definition": "Good at learning and thinking"},
+          {"word": "group", "definition": "Things that are together"},
+          {"word": "slowly", "definition": "Not fast, taking time"}
+        ],
+        "materials_needed": [
+          "Six safe toys",
+          "Seven crayons",
+          "Eight blocks",
+          "Nine books",
+          "Child's ten fingers"
+        ],
+        "parent_guidance": "Help child find objects safely. Count each group together slowly. Let child touch and arrange objects while counting. Make it feel like a fun treasure hunt. Celebrate each successful find.",
+        "safety_notes": [
+          "Choose large, safe objects for young children",
+          "Supervise when handling multiple small items",
+          "Ensure books are appropriate size and weight",
+          "Keep objects organized to prevent tripping",
+          "Use only non-toxic crayons"
+        ],
+        "discussion_questions": [
+          "Which number is the biggest?",
+          "Which group has the most things?",
+          "What comes after 9?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Number Line Creation",
+            "description": "Arrange found objects in rows from 6 to 10 to see the numbers grow.",
+            "materials": ["Objects found during hunt", "Large flat surface"]
+          },
+          {
+            "title": "Big Number Story",
+            "description": "Tell a story using all the objects found (six toys, seven crayons, etc.).",
+            "materials": ["Objects from hunt", "Imagination"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "Big Numbers Quiz",
+      "title_ar": "اختبار الأرقام الكبيرة",
+      "lesson_type": "quiz",
+      "estimated_duration_minutes": 6,
+      "content_data": {
+        "title": "How Well Do You Know Big Numbers?",
+        "content": "Let's play a fun counting game with big numbers! I will ask you about numbers 6, 7, 8, 9, and 10. You can use your fingers and toes to help you count!",
+        "learning_objectives": [
+          "Review numbers 6-10",
+          "Practice counting skills with big numbers",
+          "Build confidence with larger numbers"
+        ],
+        "vocabulary_words": [
+          {"word": "quiz", "definition": "Fun question game to show what you learned"},
+          {"word": "big numbers", "definition": "Numbers like 6, 7, 8, 9, 10 that are bigger than 5"}
+        ],
+        "materials_needed": [
+          "Child's fingers and toes for counting",
+          "Small objects to count if needed"
+        ],
+        "parent_guidance": "Ask questions slowly and encouragingly. Let child use fingers and toes to count. Help with counting if needed. Celebrate every answer. Keep the quiz positive and fun.",
+        "safety_notes": [
+          "No safety concerns",
+          "Keep session positive and encouraging",
+          "Take breaks if child gets tired"
+        ],
+        "discussion_questions": [
+          "Show me six fingers. How many is that?",
+          "If you have seven cookies, can you count them?",
+          "How many fingers and thumbs on both hands? Count them!",
+          "Can you count your toes? How many do you have?",
+          "What number comes after 9?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Big Number Song",
+            "description": "Sing a counting song: 'Six, seven, eight, nine, ten - big numbers are my friends!'",
+            "materials": ["None needed"]
+          },
+          {
+            "title": "Finger and Toe Show",
+            "description": "Show different big numbers using fingers and toes.",
+            "materials": ["Child's hands and feet"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "Big Number Celebration",
+      "title_ar": "احتفال الأرقام الكبيرة",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 12,
+      "content_data": {
+        "title": "Celebrating All Our Big Numbers 6-10",
+        "content": "Let's have a big number parade! We learned SIX, SEVEN, EIGHT, NINE, and TEN. These are big numbers! Let's march and count together. First, march and say SIX! Hold up six fingers. Next, march and say SEVEN! Count seven steps. Then, march and say EIGHT! Clap eight times. Now, march and say NINE! Spin around nine times slowly. Finally, march and say TEN! Jump ten times gently! You did it! You know big numbers from 6 to 10. You are a big number champion! Let's count all together: SIX, SEVEN, EIGHT, NINE, TEN!",
+        "learning_objectives": [
+          "Review all numbers 6-10",
+          "Practice counting sequence with movement",
+          "Celebrate learning big numbers"
+        ],
+        "vocabulary_words": [
+          {"word": "parade", "definition": "Fun marching celebration"},
+          {"word": "march", "definition": "Walk with big, proud steps"},
+          {"word": "champion", "definition": "Someone who is very good at something"},
+          {"word": "clap", "definition": "Hit hands together to make sound"},
+          {"word": "spin", "definition": "Turn around in a circle"},
+          {"word": "jump", "definition": "Push up with feet and land down"}
+        ],
+        "materials_needed": [
+          "Open safe space for movement",
+          "Child's hands for counting and clapping",
+          "Soft surface for jumping",
+          "Optional: celebration music"
+        ],
+        "parent_guidance": "Join the celebration enthusiastically! Do each movement together. Count loudly and clearly. Help child with balance during spinning and jumping. Make it feel like a real celebration of learning big numbers.",
+        "safety_notes": [
+          "Ensure clear, safe space for all movements",
+          "Hold child's hand during spinning if needed",
+          "Keep jumping gentle and low",
+          "Take breaks if child gets tired",
+          "Use soft surface for jumping activities",
+          "Keep music volume safe for ears"
+        ],
+        "discussion_questions": [
+          "What's your favorite big number?",
+          "Which number is the biggest we learned?",
+          "Can you count from 6 to 10 all by yourself?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Big Number Certificate",
+            "description": "Draw a special certificate showing child knows numbers 6-10.",
+            "materials": ["Paper", "Crayons", "Stickers", "Parent help"]
+          },
+          {
+            "title": "Teach Big Numbers",
+            "description": "Child can teach numbers 6-10 to a sibling, toy, or family member.",
+            "materials": ["Willing audience or stuffed animal"]
+          },
+          {
+            "title": "Count Everything",
+            "description": "Practice counting to 10 with different objects around the house.",
+            "materials": ["Various safe household objects"]
+          }
+        ]
+      }
+    }
+  ]
+}

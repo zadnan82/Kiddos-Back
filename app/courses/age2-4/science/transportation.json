@@ -1,0 +1,466 @@
+{
+  "course": {
+    "title_en": "Transportation",
+    "title_ar": "وسائل النقل",
+    "description_en": "Discover all the amazing ways people and things travel from place to place. Learn about cars, buses, trains, planes, and boats while exploring how they help us move around the world.",
+    "description_ar": "اكتشف جميع الطرق المذهلة التي ينتقل بها الناس والأشياء من مكان إلى آخر. تعلم عن السيارات والحافلات والقطارات والطائرات والقوارب واستكشف كيف تساعدنا في التنقل حول العالم.",
+    "age_group_min": 2,
+    "age_group_max": 4,
+    "estimated_duration_minutes": 62,
+    "subject": "science"
+  },
+  "lessons": [
+    {
+      "lesson_order": 1,
+      "title_en": "Cars Go Vroom on Roads",
+      "title_ar": "السيارات تسير بصوت فروم على الطرق",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Charlie Car's Daily Adventures",
+        "content": "Meet Charlie Car! Charlie is red and shiny. Cars have four round wheels. Wheels roll and roll! Cars drive on roads. Roads are like paths for cars. Charlie says 'Vroom, vroom!' when he drives. Cars take people to many places. To the store! To grandma's house! To the park! Charlie has a driver who sits inside. The driver uses a steering wheel to turn left and right. Cars need gas to go. Gas makes cars move! At night, Charlie turns on his headlights. Headlights help him see in the dark. Charlie is careful and drives slowly. Safety first for Charlie Car!",
+        "learning_objectives": [
+          "Identify cars as vehicles that drive on roads",
+          "Understand basic car parts and how they work",
+          "Learn about car safety and careful driving"
+        ],
+        "vocabulary_words": [
+          {"word": "car", "definition": "Vehicle with four wheels that drives on roads"},
+          {"word": "wheels", "definition": "Round things under cars that roll to make them move"},
+          {"word": "roads", "definition": "Special paths where cars drive"},
+          {"word": "driver", "definition": "Person who makes the car go and stop"},
+          {"word": "steering wheel", "definition": "Round thing driver turns to make car go left or right"},
+          {"word": "headlights", "definition": "Bright lights on front of car for seeing in dark"}
+        ],
+        "materials_needed": [
+          "Toy cars (various sizes)",
+          "Cardboard or tape for making 'roads'",
+          "Flashlight for 'headlights' demonstration",
+          "Pictures of different colored cars"
+        ],
+        "parent_guidance": "Show child toy cars and let them roll them on makeshift roads. Point out car parts like wheels and windows. Make 'vroom' sounds together. If possible, show real car outside and point out parts safely from distance.",
+        "safety_notes": [
+          "Use only large toy cars appropriate for age",
+          "Keep car play on safe, flat surfaces",
+          "Never let child play with real car keys",
+          "Ensure no small car parts that could be choking hazards",
+          "Always emphasize that cars are driven by grown-ups only"
+        ],
+        "discussion_questions": [
+          "What sound does a car make?",
+          "How many wheels does a car have?",
+          "Where do cars drive?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Car Racing Game",
+            "description": "Race toy cars on cardboard 'tracks' while making car sounds.",
+            "materials": ["Multiple toy cars", "Long cardboard strips", "Tape"]
+          },
+          {
+            "title": "Car Wash Play",
+            "description": "Pretend to wash toy cars with sponges and water (supervised).",
+            "materials": ["Toy cars", "Small sponges", "Shallow water bowl"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 2,
+      "title_en": "Big Buses Carry Many People",
+      "title_ar": "الحافلات الكبيرة تحمل أشخاصاً كثيرين",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Benny Bus's Important Job",
+        "content": "Meet Benny Bus! He is big and yellow. Buses are much bigger than cars! Benny has many windows and many seats inside. People sit in the seats. Buses carry lots of people at the same time. That's Benny's special job! School buses take children to school. City buses take grown-ups to work. Benny has a big door that opens and closes. People get on and off the bus. Benny drives slowly and carefully. He stops at bus stops. Bus stops are special places where people wait. Let's pretend to be on a bus! Sit in your seats! Hold on tight! Here we go!",
+        "learning_objectives": [
+          "Understand buses are bigger than cars and carry many people",
+          "Learn about different types of buses and their jobs",
+          "Practice bus safety and behavior"
+        ],
+        "vocabulary_words": [
+          {"word": "bus", "definition": "Big vehicle that carries many people at the same time"},
+          {"word": "seats", "definition": "Places where people sit inside the bus"},
+          {"word": "passengers", "definition": "People who ride in the bus"},
+          {"word": "bus stop", "definition": "Special place where people wait for the bus"},
+          {"word": "school bus", "definition": "Yellow bus that takes children to school"},
+          {"word": "city bus", "definition": "Bus that takes people around the city"}
+        ],
+        "materials_needed": [
+          "Chairs arranged like bus seats",
+          "Yellow paper or toy school bus",
+          "Pretend bus tickets or papers",
+          "Picture of bus stop"
+        ],
+        "parent_guidance": "Set up chairs in rows like bus seats. Let child practice getting 'on' and 'off' the bus safely. Emphasize sitting quietly and holding on. Talk about bus safety rules like waiting for the bus to stop completely.",
+        "safety_notes": [
+          "Ensure chairs are stable and won't tip",
+          "Practice safe 'boarding' and 'exiting' movements",
+          "Emphasize real bus safety rules",
+          "Keep pretend bus play controlled and calm",
+          "Always have adult supervision during bus role-play"
+        ],
+        "discussion_questions": [
+          "How is a bus different from a car?",
+          "What color are school buses?",
+          "Where do people wait for the bus?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Bus Route Game",
+            "description": "Create pretend bus route with stops around the house.",
+            "materials": ["Paper signs for bus stops", "Chairs for seats", "Pretend tickets"]
+          },
+          {
+            "title": "Wheels on the Bus Song",
+            "description": "Sing the classic song with actions and movements.",
+            "materials": ["None needed - just singing voices"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 3,
+      "title_en": "Trains Chug on Tracks",
+      "title_ar": "القطارات تسير على القضبان",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Tommy Train's Long Journey",
+        "content": "Meet Tommy Train! He is long and strong. Trains are made of many cars connected together. The front car is called the engine. The engine pulls all the other cars! Tommy runs on special tracks called railroad tracks. Tracks are like roads but only for trains. Tommy says 'Choo-choo!' and 'Chug-chug-chug!' He has a loud whistle that goes 'Toot-toot!' Tommy carries people and packages to faraway places. Some trains carry people. Some trains carry food and toys to stores. Tommy crosses bridges over rivers. He goes through tunnels under mountains. Trains are very long and very strong!",
+        "learning_objectives": [
+          "Understand trains run on tracks and are made of connected cars",
+          "Learn about train sounds and how they travel",
+          "Discover what trains carry and where they go"
+        ],
+        "vocabulary_words": [
+          {"word": "train", "definition": "Long vehicle made of cars connected together that runs on tracks"},
+          {"word": "tracks", "definition": "Special metal roads that trains run on"},
+          {"word": "engine", "definition": "Front part of train that pulls all the other cars"},
+          {"word": "whistle", "definition": "Loud sound trains make to warn people"},
+          {"word": "packages", "definition": "Boxes and things that trains carry from place to place"},
+          {"word": "tunnel", "definition": "Long hole through a mountain that trains can go through"}
+        ],
+        "materials_needed": [
+          "Toy train or train cars",
+          "String or tape for making 'tracks'",
+          "Boxes for 'train cars'",
+          "Whistle or noisemaker"
+        ],
+        "parent_guidance": "Show how train cars connect together. Let child pull toy train along makeshift tracks. Make train sounds together - 'choo-choo' and 'toot-toot'. Explain how trains are different from cars and buses.",
+        "safety_notes": [
+          "Use only safe toy trains with no small detachable parts",
+          "Ensure string/tracks are not tripping hazards",
+          "Keep whistle/noisemaker at safe volume",
+          "Supervise all train play activities",
+          "Teach that real trains are dangerous and to stay away from tracks"
+        ],
+        "discussion_questions": [
+          "What sound does a train make?",
+          "Where do trains travel?",
+          "What pulls the train cars?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Train Building",
+            "description": "Connect boxes with string to make a long pretend train.",
+            "materials": ["Various sized boxes", "String", "Tape", "Markers for decorating"]
+          },
+          {
+            "title": "Train Station Play",
+            "description": "Set up pretend train station with tickets and departure announcements.",
+            "materials": ["Chairs for waiting area", "Pretend tickets", "Train schedule pictures"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 4,
+      "title_en": "Airplanes Fly High in Sky",
+      "title_ar": "الطائرات تطير عالياً في السماء",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Amy Airplane Soars Through Clouds",
+        "content": "Meet Amy Airplane! She flies high up in the sky. Airplanes have big wings that help them fly. Wings spread out wide like bird wings! Amy has a propeller that spins round and round. Or big engines that push her through the air. Amy flies above the clouds! She can see the whole world from up there. Houses look tiny! Cars look like toys! Amy takes people on trips to faraway places. People sit inside Amy and look out the windows. Flying is faster than driving! Let's pretend to be airplanes! Spread your arms like wings! Make airplane sounds! Fly around the room carefully!",
+        "learning_objectives": [
+          "Understand airplanes fly in the sky using wings",
+          "Learn how airplanes look different from ground vehicles",
+          "Practice airplane movements safely"
+        ],
+        "vocabulary_words": [
+          {"word": "airplane", "definition": "Flying machine with wings that travels through the sky"},
+          {"word": "wings", "definition": "Long flat parts that help airplanes fly"},
+          {"word": "fly", "definition": "Move through the air like birds and airplanes"},
+          {"word": "propeller", "definition": "Spinning part on front of some airplanes"},
+          {"word": "engines", "definition": "Parts that give airplanes power to fly"},
+          {"word": "clouds", "definition": "White fluffy things in the sky that airplanes fly through"}
+        ],
+        "materials_needed": [
+          "Toy airplanes",
+          "Open space for 'flying' movements",
+          "Paper airplanes (adult-made)",
+          "Pictures of airplanes and clouds"
+        ],
+        "parent_guidance": "Show child how to spread arms like wings and 'fly' safely around room. Make airplane sounds together. Demonstrate how paper airplanes glide through air. Point out real airplanes in sky if visible.",
+        "safety_notes": [
+          "Ensure safe, clear space for airplane movements",
+          "Keep 'flying' movements controlled and gentle",
+          "Watch for obstacles that child might run into",
+          "Use only safe toy airplanes with no sharp parts",
+          "Supervise paper airplane activities",
+          "Emphasize that only real airplanes can fly, not people"
+        ],
+        "discussion_questions": [
+          "What helps airplanes fly?",
+          "Where do airplanes travel?",
+          "How do you move like an airplane?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Paper Airplane Fun",
+            "description": "Watch adult make paper airplanes and see how they glide.",
+            "materials": ["Paper", "Adult to fold airplanes", "Open space"]
+          },
+          {
+            "title": "Airport Play",
+            "description": "Set up pretend airport with check-in and boarding activities.",
+            "materials": ["Chairs for seats", "Pretend tickets", "Toy airplanes"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 5,
+      "title_en": "Boats Float on Water",
+      "title_ar": "القوارب تطفو على الماء",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 9,
+      "content_data": {
+        "title": "Bobby Boat's Water Adventures",
+        "content": "Meet Bobby Boat! He floats on top of water. Boats don't have wheels like cars. They have hulls that sit in the water. Water holds the boat up! Some boats have sails that catch the wind. Wind pushes the boat forward! Some boats have motors that make them go. Motor boats go 'putt-putt-putt!' Big ships carry lots of people across oceans. Small boats take people fishing. Bobby can go on rivers, lakes, and oceans. He rocks gently on the waves. Boats need to stay on water to work. Let's test what floats! Put different things in water. See what floats like a boat!",
+        "learning_objectives": [
+          "Understand boats float on water instead of rolling on roads",
+          "Learn about different types of boats and how they move",
+          "Experiment with floating and sinking"
+        ],
+        "vocabulary_words": [
+          {"word": "boat", "definition": "Vehicle that floats on water to carry people or things"},
+          {"word": "float", "definition": "Stay on top of water without sinking"},
+          {"word": "hull", "definition": "Bottom part of boat that sits in the water"},
+          {"word": "sails", "definition": "Big pieces of cloth that catch wind to move boats"},
+          {"word": "motor", "definition": "Machine that makes boats go fast"},
+          {"word": "waves", "definition": "Water that moves up and down in the ocean"}
+        ],
+        "materials_needed": [
+          "Large bowl or tub with water",
+          "Toy boats",
+          "Various safe objects to test floating",
+          "Towels for cleanup",
+          "Plastic containers"
+        ],
+        "parent_guidance": "Supervise all water activities closely. Let child gently place objects in water to see what floats. Explain why some things float and others sink in simple terms. Keep water activities controlled and have towels ready.",
+        "safety_notes": [
+          "Always supervise water activities",
+          "Use shallow water only",
+          "Keep water containers stable",
+          "Have towels ready for spills",
+          "Use only safe, large objects for floating tests",
+          "Never leave child alone with water"
+        ],
+        "discussion_questions": [
+          "What makes boats different from cars?",
+          "Where do boats travel?",
+          "What happens when you put a boat in water?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Boat Building",
+            "description": "Make simple boats from plastic containers and test if they float.",
+            "materials": ["Plastic containers", "Water tub", "Safe decorating materials"]
+          },
+          {
+            "title": "Floating Experiment",
+            "description": "Test various household objects to see which ones float like boats.",
+            "materials": ["Water container", "Various safe objects", "Towels"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 6,
+      "title_en": "Special Vehicles Help People",
+      "title_ar": "المركبات الخاصة تساعد الناس",
+      "lesson_type": "story",
+      "estimated_duration_minutes": 8,
+      "content_data": {
+        "title": "Helper Vehicles Save the Day",
+        "content": "Some vehicles have very special jobs! Meet the helper vehicles! Fire trucks are red and carry water. They help put out fires! Ambulances are white with red crosses. They take sick people to hospitals quickly! Police cars have flashing lights. They help keep everyone safe! Garbage trucks are big and strong. They pick up trash to keep our town clean! Tow trucks have special hooks. They help cars that are broken! Mail trucks bring letters to our houses! Each helper vehicle has a special job. They all work hard to help people every day. These vehicles have loud sirens that say 'Get out of the way! We're helping someone!'",
+        "learning_objectives": [
+          "Learn about vehicles that have special jobs helping people",
+          "Understand how different vehicles serve the community",
+          "Recognize emergency and service vehicles"
+        ],
+        "vocabulary_words": [
+          {"word": "fire truck", "definition": "Red vehicle that carries water to put out fires"},
+          {"word": "ambulance", "definition": "Special vehicle that takes sick people to hospital"},
+          {"word": "police car", "definition": "Vehicle that police officers drive to keep people safe"},
+          {"word": "garbage truck", "definition": "Big truck that picks up trash from houses"},
+          {"word": "tow truck", "definition": "Vehicle that helps move broken cars"},
+          {"word": "siren", "definition": "Loud sound emergency vehicles make"}
+        ],
+        "materials_needed": [
+          "Toy emergency vehicles (fire truck, ambulance, police car)",
+          "Pictures of different service vehicles",
+          "Red, white, and blue paper",
+          "Noisemaker for siren sounds"
+        ],
+        "parent_guidance": "Show pictures of real helper vehicles and explain their jobs simply. Let child play with toy versions. Make siren sounds together but keep volume reasonable. Emphasize how these vehicles help people.",
+        "safety_notes": [
+          "Keep siren sounds at safe volume levels",
+          "Use only safe toy vehicles",
+          "Explain that real emergency vehicles are not toys",
+          "Teach child to move aside when they hear real sirens",
+          "Keep emergency vehicle play positive and helpful"
+        ],
+        "discussion_questions": [
+          "What does a fire truck do?",
+          "Which vehicle takes sick people to the hospital?",
+          "What sound do emergency vehicles make?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Emergency Vehicle Parade",
+            "description": "Line up toy emergency vehicles and 'drive' them to help people.",
+            "materials": ["Various toy emergency vehicles", "Pretend emergency scenarios"]
+          },
+          {
+            "title": "Community Helper Match",
+            "description": "Match emergency vehicles to the community helpers who drive them.",
+            "materials": ["Vehicle pictures", "Community helper pictures"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 7,
+      "title_en": "Transportation Quiz Fun",
+      "title_ar": "متعة اختبار وسائل النقل",
+      "lesson_type": "quiz",
+      "estimated_duration_minutes": 6,
+      "content_data": {
+        "title": "What Transportation Do You Know?",
+        "content": "Let's play a fun game about all the transportation we learned! I will ask you questions about cars, buses, trains, airplanes, boats, and special vehicles. You can point to pictures, make sounds, or tell me the answers!",
+        "learning_objectives": [
+          "Review all transportation types learned",
+          "Practice identifying vehicles and their characteristics",
+          "Show understanding of how different vehicles work"
+        ],
+        "vocabulary_words": [
+          {"word": "quiz", "definition": "Fun game with questions about what you learned"},
+          {"word": "transportation", "definition": "All the different ways people and things travel"}
+        ],
+        "materials_needed": [
+          "Pictures or toys of all vehicles learned",
+          "Sound effects for different vehicles",
+          "Transportation picture books"
+        ],
+        "parent_guidance": "Show pictures clearly and give child time to respond. Accept pointing, sounds, or words as answers. Make vehicle sounds together. Keep quiz interactive and fun rather than stressful.",
+        "safety_notes": [
+          "Keep quiz atmosphere positive and encouraging",
+          "No pressure for perfect answers",
+          "Celebrate every response attempt",
+          "Take breaks if child seems tired",
+          "End on encouraging note"
+        ],
+        "discussion_questions": [
+          "Point to the vehicle with four wheels that goes 'vroom'!",
+          "Which vehicle is big and yellow and carries many children?",
+          "What runs on tracks and says 'choo-choo'?",
+          "Which vehicle flies in the sky with wings?",
+          "Point to the vehicle that floats on water!",
+          "What vehicle is red and helps put out fires?",
+          "Make the sound a car makes!",
+          "Show me how an airplane flies!",
+          "Where do boats travel?",
+          "Which vehicles help people in emergencies?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Transportation Sound Game",
+            "description": "Make sounds of different vehicles while others guess which one.",
+            "materials": ["Vehicle pictures for prompts"]
+          },
+          {
+            "title": "Vehicle Movement Dance",
+            "description": "Move like different vehicles - drive, fly, float, chug along tracks.",
+            "materials": ["Open space", "Music (optional)"]
+          }
+        ]
+      }
+    },
+    {
+      "lesson_order": 8,
+      "title_en": "Transportation Adventure Celebration",
+      "title_ar": "احتفال مغامرة وسائل النقل",
+      "lesson_type": "activity",
+      "estimated_duration_minutes": 15,
+      "content_data": {
+        "title": "Our Amazing Transportation Journey",
+        "content": "Let's celebrate all the amazing transportation we learned about! We discovered cars that go 'vroom' on roads with their four wheels. We learned about big buses that carry many people to school and work. We met trains that chug along tracks saying 'choo-choo' and pulling many cars. We flew with airplanes high in the sky with their big wings spread wide. We floated with boats on water, rocking gently on the waves. We helped people with special vehicles like fire trucks, ambulances, and police cars. Every vehicle has a special job! Cars take families places. Buses carry lots of people. Trains travel long distances. Airplanes fly to faraway places. Boats sail on water. Helper vehicles keep us safe! You know so much about transportation now! Let's take an imaginary trip using all our vehicles!",
+        "learning_objectives": [
+          "Review all transportation types and their characteristics",
+          "Understand how different vehicles serve different purposes",
+          "Celebrate learning about the world of transportation"
+        ],
+        "vocabulary_words": [
+          {"word": "celebrate", "definition": "Be very happy about something wonderful you learned"},
+          {"word": "journey", "definition": "Trip from one place to another"},
+          {"word": "discovered", "definition": "Found out about and learned new things"},
+          {"word": "imaginary", "definition": "Pretend trip in your mind"},
+          {"word": "purpose", "definition": "Special job that something is meant to do"},
+          {"word": "transportation", "definition": "All the ways people and things move from place to place"}
+        ],
+        "materials_needed": [
+          "All toy vehicles from previous lessons",
+          "Large map or drawn paths",
+          "Stickers or stamps for 'travel passport'",
+          "Transportation coloring pages",
+          "Camera for photos (optional)"
+        ],
+        "parent_guidance": "Set up 'transportation stations' around room with different vehicles. Let child 'travel' to each station and play with that type of vehicle. Make it feel like a real adventure. Take photos if desired to remember their transportation learning.",
+        "safety_notes": [
+          "Ensure all play areas are safe and clear",
+          "Supervise movement between 'stations'",
+          "Keep all vehicles and materials safe",
+          "Manage excitement levels appropriately",
+          "Take breaks during long celebration if needed"
+        ],
+        "discussion_questions": [
+          "Which vehicle was your favorite to learn about?",
+          "If you could travel anywhere, which vehicle would you choose?",
+          "How do all these vehicles help people?",
+          "What was the most fun part about learning transportation?"
+        ],
+        "extension_activities": [
+          {
+            "title": "Transportation Book",
+            "description": "Create simple book with drawings or pictures of all vehicles learned.",
+            "materials": ["Paper", "Crayons", "Vehicle stickers", "Stapler (parent use)"]
+          },
+          {
+            "title": "Dream Trip Planning",
+            "description": "Plan imaginary trip using different vehicles to get to dream destination.",
+            "materials": ["Map", "Vehicle toys", "Imagination", "Trip 'itinerary'"]
+          },
+          {
+            "title": "Transportation Expert Badge",
+            "description": "Make special badge showing child is now a transportation expert.",
+            "materials": ["Paper", "Crayons", "Stickers", "Safety pin or tape"]
+          }
+        ]
+      }
+    }
+  ]
+}
